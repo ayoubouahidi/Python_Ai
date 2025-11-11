@@ -1,0 +1,3 @@
+NumPers NomComplet Adresse Tel Grade Salaire
+N123456-Alami Ali-Num : 1 Rue : Rue1 Ville : SAFI Code Postale : 46001 - +21224765423 -13- 17000.0
+N939876-Ghali Ghita-Num : 2 Rue : Rue2 Ville : SAFI Code Postale : 46001 - +21224865529 -10- 11200.0
