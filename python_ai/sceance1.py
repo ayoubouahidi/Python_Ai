@@ -26,10 +26,52 @@
 # print(f"j ({j}) m ({m}) anne ({anne}) ")
 
 
-n = int(input("entrer :"))
-result = 0
-while(n == 0):
-    result = n % 10
-    n = 
+# n = int(input("entrer :"))
+# result = 0
+# while(n == 0):
+#     result = n % 10
+#     n = 
     
+# ***********
 
+# res = []
+# res.append(1)
+# print(res)
+
+# ***********
+# **********************    exercice *********************************************************
+
+
+# def check_parfait(n):
+#     i = 1
+#     res = []
+#     while(i < n):
+#         if (n % i == 0):
+#             res.append(i)
+#         i+=1
+#     print("printed tab",res);
+#     somme = sum(res);
+#     if (somme == n):
+#         return True
+#     return False
+
+
+# print("nombre parfait", check_parfait(6))
+
+
+# ********************** *********************************************************************
+
+
+
+
+def reverse_recursion(n):
+    res = []
+    while(n > 10):
+        res.append(n % 10)
+        n //= 10
+    res.append(n)
+    i = 0
+    while(i < len(res)):
+        print(res[i], end="")
+        i+=1
+reverse_recursion(12)
