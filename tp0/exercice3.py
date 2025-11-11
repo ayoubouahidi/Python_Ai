@@ -1,0 +1,16 @@
+#methode1
+print(" "*4,"*")
+print(" "*3,"* *")
+print(" "*2,"*"," "*1,"*")
+print(" *"," "*4,"*")
+print("***"," "*3,"***")
+print(" "*2,"*"," "*2,"*")
+#methode2
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")

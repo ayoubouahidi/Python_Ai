@@ -1,0 +1,26 @@
+                                                            TD(fonction et procedure)
+
+EX1
+
+fonction verifier(c:caractere)
+variable r:entier
+debut 
+  si c >= "a" et c <="z" alors 
+    r <-- 1
+  sinon 
+   r <-- 0
+  verifier<--r
+  
+fin
+variable ca:caractere
+         resultat:entier
+debut 
+  ecrire"donner n caractere :"
+  lire ca
+  resultat<--verifier(ca)
+  ecrire(resultat)
+fin
+   
+ 
+    
+    
