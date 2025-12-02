@@ -64,14 +64,58 @@
 
 
 
-def reverse_recursion(n):
-    res = []
-    while(n > 10):
-        res.append(n % 10)
-        n //= 10
-    res.append(n)
-    i = 0
-    while(i < len(res)):
-        print(res[i], end="")
-        i+=1
-reverse_recursion(12)
+# def reverse_recursion(n):
+#     res = []
+#     while(n > 10):
+#         res.append(n % 10)
+#         n //= 10
+#     res.append(n)
+#     i = 0
+#     while(i < len(res)):
+#         print(res[i], end="")
+#         i+=1
+# reverse_recursion(12)
+
+
+
+# ********************** liste sc 2*********************************************************************
+# def calcul_pos(n):
+#     res = 0
+#     i = 0
+#     while ( i < len(n)):
+#         if (n[i] >= 0):
+#             res+=1
+#         i+=1
+#     return res
+
+
+# n  = int(input ( "entrer le nombre des saisie : "))
+# # if (n < 0):
+# #     break
+# i = 0
+# res = []
+# while (i < n):
+#     nombre = int(input ( "entrer un nombre :"))
+#     res.append(nombre)
+#     i+=1
+
+# # print(f"le nombres positif : {len(}") 
+
+# #nombre negatif {len(res) - res.count(i>0 for i in range(len(res)))}")
+
+
+
+
+# ****************************************** matrice ******************************************  
+# i  = int(input ( "entrer le nombre des saisie : "))
+# j  = int(input ( "entrer le nombre des saisie : "))
+
+l =[]
+for i in range(50):
+    m=[]
+    for j in range(50):
+        n = int(input("entrer un nombre :"))
+        m.append(n)
+    l.append(m)
+
+   
