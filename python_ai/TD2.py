@@ -1,3 +1,5 @@
+import random
+
 # ex 01 
 
 tab = [1,2,3,4,5,6,7,8,9]
@@ -91,8 +93,15 @@ print(list_4)
 #ex4 
 
 M = []
-for z in range(3):
-    
-    for x in range(3):
-        for y in range(3):
-            
+for i in range (3):
+    m = []
+    for i in range(3):
+        l = []
+        for j in range(3):
+            n = random.randint(0,1)
+            l.append(n)
+        m.append(l)
+    M.append(m)
+
+print(M)
+
