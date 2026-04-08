@@ -64,8 +64,21 @@ def rev_printRLE(str):
 
 rev_printRLE("a2b1c")
 
-def en_pourcentage(n):
-    n = len(str)
-    i = 0
-    while (i < n):
-        if
+
+
+def est_trie_croissant_strict(liste):
+
+    """
+    Vérifie récursivement si une liste est triée en ordre strictement croissant.
+    Condition: X[i] < X[i+1] pour tout i
+    """
+
+    if len(liste) <= 1:
+        return True
+    if liste[0] >= liste[1]:
+        return False
+    return est_trie_croissant_strict(liste[1:])
+
+
+
+

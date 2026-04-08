@@ -1,0 +1,66 @@
+import pandas as pd
+import numpy as np
+
+# 1.
+# pip install pandas
+
+# 2.
+import pandas as pd
+
+# 3.
+df = pd.read_csv("Housing.csv")
+
+# 4.
+print(df.head())
+
+# 5.
+print(df.shape)
+
+# 6.
+print(df.columns.tolist())
+
+# 7.
+print(df.dtypes)
+
+# 8.
+numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()
+categorical_cols = df.select_dtypes(include=['object']).columns.tolist()
+print(f"Numériques : {len(numeric_cols)}, Catégoriques : {len(categorical_cols)}")
+
+# 9.
+print(df.info())
+print(df.isnull().sum())
+
+# 10.
+print(df.describe())
+
+# 11.
+print(df[numeric_cols].quantile([0.25, 0.75]))
+
+# 12.
+print(f"Moyenne : {df['price'].mean()}")
+print(f"Médiane : {df['price'].median()}")
+
+# 13.
+for col in categorical_cols:
+    print(f"\n{col} :\n{df[col].value_counts()}")
+
+# 14.
+print(df.isnull().sum())
+
+# 15.
+if 'neighborhood' in df.columns:
+    print(df.groupby('neighborhood')['price'].mean().nlargest(5))
+else:
+    print("Colonne 'neighborhood' absente du dataset.")
+
+# 16.
+print(df.groupby('furnishingstatus')['price'].mean())
+
+# 17.
+print(df[df['airconditioning'] == 'yes']['price'].mean())
+print(df[df['basement'] == 'yes']['price'].mean())
+print(df[df['mainroad'] == 'yes']['price'].mean())
+
+# 18.
+print(df.groupby('stories')['price'].mean())
