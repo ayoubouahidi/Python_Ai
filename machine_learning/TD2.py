@@ -5,6 +5,7 @@
 import pandas as pd 
 import matplotlib
 import matplotlib.pyplot as plt 
+import seaborn as sns
 
 print(f"Pandas version: {pd.__version__}") 
 print(f"Matplotlib version: {matplotlib.__version__}") 
@@ -67,3 +68,41 @@ print(prix_par_quartier)
 
 resume_stats = df_immo.describe()
 print(resume_stats)
+
+# colonnes = 
+
+min_value = df_immo[["price", "superficie"]].min()
+max_value = df_immo[["price", "superficie"]].max()
+
+print(f"min {min_value}, max : {max_value}")
+
+#  partie 6
+
+plt.hist(df_immo["price"], bins=30)
+plt.title("distribition des valeur des prix ")
+plt.xlabel("price")
+plt.ylabel("nbr des chambres ")
+plt.show()
+
+# df_immo[""]
+
+quatier_moy = df_immo.groupby("quartier")['price'].mean()
+top15 = quatier_moy.nlargest(15)
+
+top15.plot(kind="bar")
+plt.title("top 15 quartier")
+plt.xlabel("quarier")
+plt.ylabel("prix moy")
+plt.show()
+
+df_immo.boxplot(column="price", by="NbChambres")
+plt.title("distribution des prix des apparts")
+plt.xlabel("nbr des chambres")
+plt.ylabel("prix")
+plt.show()
+
+corr = df_immo[["price", "superficie", "NbSallesBains", "NbChambres"]].corr()
+plt.figure(figsize=(8,6))
+sns.heatmap(corr, annot=True, cmap="coolwarm", fmt=".2f")
+plt.title("Corrélations entre variables numériques")
+plt.show()
