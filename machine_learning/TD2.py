@@ -106,3 +106,14 @@ plt.figure(figsize=(8,6))
 sns.heatmap(corr, annot=True, cmap="coolwarm", fmt=".2f")
 plt.title("Corrélations entre variables numériques")
 plt.show()
+
+
+# data cleaning 
+
+print(df_immo.isnull().sum())
+# drop duplicate
+df_immo.drop_duplicates(inplace=True)
+df_immo['Prix'] = pd.to_numeric(df_immo['Prix'], errors='coerce')
+df_immo['Superficie'] = pd.to_numeric(df_immo['Superficie'], errors='coerce')
+df_immo['NbChambres'] = pd.to_numeric(df_immo['NbChambres'], errors='coerce')
+df_immo['NbSallesBains'] = pd.to_numeric(df_immo['NbSallesBains'], errors='coerce')
