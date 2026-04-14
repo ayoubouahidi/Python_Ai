@@ -9,6 +9,8 @@ import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
+import html
+
 try:
     from tqdm import tqdm
 except ImportError:
@@ -73,6 +75,7 @@ def fetch_offer_details(url, session):
         "company": company,
         "description": description,
         "location": location,
+        # "salaire": 
         "contract_type": contract_type,
         "error": None,
     }
@@ -160,3 +163,18 @@ with open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
 print(f"Offres detaillees collectees: {len(offers_details)}")
 print(f"JSON sauvegarde: {OUTPUT_JSON_PATH}")
 print(offers_details[:3])
+
+# partie 5 
+
+def nettoyer_text(text):
+    texte = html.unescape(texte) 
+
+    texte = re.sub(r'<[^>]+>', '', texte)
+    
+    texte = re.sub(r'[^\w\s.,;:!?\'\"()\-àâäéèêëîïôöùûüçÀÂÄÉÈÊËÎÏÔÖÙÛÜÇ]', '', texte)
+    texte = re.sub(r'\n{3,}', '\n\n', texte)   
+    texte = re.sub(r' {2,}', ' ', texte)       
+    texte = texte.strip()
+    
+    return texte
+
