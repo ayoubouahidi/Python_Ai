@@ -11,6 +11,26 @@ from urllib.parse import urljoin
 
 import html
 
+import nltk
+import spacy
+from nltk.corpus import stopwords
+
+nltk.download("punkt", quiet=True)
+nltk.download("punkt_tab", quiet=True)
+nltk.download("stopwords", quiet=True)
+
+# Initialize NLTK stopwords for French
+STOP_WORDS_FR = set(stopwords.words("french"))
+
+# Initialize spaCy model
+try:
+    nlp = spacy.load("fr_core_news_sm")
+except OSError:
+    print("Downloading spaCy French model...")
+    import subprocess
+    subprocess.run(["python", "-m", "spacy", "download", "fr_core_news_sm"], check=True)
+    nlp = spacy.load("fr_core_news_sm")
+
 try:
     from tqdm import tqdm
 except ImportError:
@@ -23,6 +43,9 @@ SEARCH_URL = START_URL
 CACHE_CSV_PATH = os.path.join(os.path.dirname(__file__), "job_urls_cache.csv")
 OUTPUT_JSON_PATH = os.path.abspath(
     os.path.join(os.path.dirname(__file__), "..", "data", "brutes", "offres_emploi_details.json")
+)
+OUTPUT_NETTOYEES_PATH = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "data", "brutes", "offres_emploi_nettoyees.csv")
 )
 USE_CACHE = True
 FORCE_REFRESH = False
@@ -45,7 +68,6 @@ def text_from_selectors(soup, selectors):
 
 
 def fetch_offer_details(url, session):
-    """Télécharge une offre et retourne ses détails sans échouer si des champs manquent."""
     try:
         response = session.get(url, headers=HEADERS, timeout=TIMEOUT)
         response.raise_for_status()
@@ -105,6 +127,8 @@ if not job_urls:
     else:
         first_soup = BeautifulSoup(first_response.text, "html.parser")
 
+        # ==================== PAGINATION ====================
+        # Extraire les numéros de page disponibles
         page_numbers = []
         for a in first_soup.select("a[href]"):
             href = a.get("href") or ""
@@ -121,6 +145,8 @@ if not job_urls:
         for page_index in range(total_pages):
             page_url = SEARCH_URL if page_index == 0 else f"{SEARCH_URL}?page={page_index}"
 
+            # ==================== POLITESSE (DÉLAI) ====================
+            # Ajouter un délai aléatoire pour respecter le serveur
             sleep_s = random.uniform(max(0.5, REQUEST_DELAY), max(1.5, REQUEST_DELAY + 2))
             print(f"Attente polie: {sleep_s:.2f}s avant {page_url}")
             time.sleep(sleep_s)
@@ -166,15 +192,140 @@ print(offers_details[:3])
 
 # partie 5 
 
-def nettoyer_text(text):
-    texte = html.unescape(texte) 
 
-    texte = re.sub(r'<[^>]+>', '', texte)
-    
-    texte = re.sub(r'[^\w\s.,;:!?\'\"()\-àâäéèêëîïôöùûüçÀÂÄÉÈÊËÎÏÔÖÙÛÜÇ]', '', texte)
-    texte = re.sub(r'\n{3,}', '\n\n', texte)   
-    texte = re.sub(r' {2,}', ' ', texte)       
-    texte = texte.strip()
-    
-    return texte
+
+def nettoyer_texte(texte):
+
+    if not texte:
+        return ""
+    texte = html.unescape(texte)
+    texte = re.sub(r"<[^>]+>", " ", texte)
+ 
+    texte = re.sub(
+        r"[^\w\s.,;:!?'\"\(\)\-àâäéèêëîïôöùûüçÀÂÄÉÈÊËÎÏÔÖÙÛÜÇ]",
+        " ",
+        texte,
+    )
+    # Normalisation : retours à la ligne excessifs → double saut de ligne
+    texte = re.sub(r"\n{3,}", "\n\n", texte)
+    # Normalisation : espaces multiples → espace simple
+    texte = re.sub(r" {2,}", " ", texte)
+    return texte.strip()
+
+def tokeniser(texte):
+    tokens = nltk.word_tokenize(texte, language="french")
+    tokens = [
+        t.lower()
+        for t in tokens
+        if re.search(r"[a-zA-ZàâäéèêëîïôöùûüçÀÂÄÉÈÊËÎÏÔÖÙÛÜÇ]", t)
+    ]
+    return tokens
+
+ 
+def supprimer_stop_words(tokens):
+    return [t for t in tokens if t not in STOP_WORDS_FR]
+ 
+ 
+def lemmatiser(tokens):
+    doc = nlp(" ".join(tokens))
+    return [token.lemma_.lower() for token in doc if token.lemma_.strip()]
+
+def pipeline_nettoyage(texte):
+
+    texte_propre = nettoyer_texte(texte)
+    tokens = tokeniser(texte_propre)
+    tokens = supprimer_stop_words(tokens)
+    lemmes = lemmatiser(tokens)
+    return {
+        "description_nettoyee": texte_propre,
+        "tokens": lemmes,
+        "tokens_str": " ".join(lemmes),
+    }
+
+
+rows = []
+for offre in tqdm(offers_details, desc="Nettoyage NLP", unit="offre"):
+    description_brute = offre.get("description") or ""
+    resultat = pipeline_nettoyage(description_brute)
+ 
+    rows.append({
+        "url":                  offre.get("url"),
+        "title":                offre.get("title"),
+        "company":              offre.get("company"),
+        "location":             offre.get("location"),
+        "contract_type":        offre.get("contract_type"),
+        "description_brute":    description_brute,
+        "description_nettoyee": resultat["description_nettoyee"],
+        "tokens":               resultat["tokens_str"],
+    })
+ 
+df_nettoyees = pd.DataFrame(rows)
+ 
+os.makedirs(os.path.dirname(OUTPUT_NETTOYEES_PATH), exist_ok=True)
+df_nettoyees.to_csv(OUTPUT_NETTOYEES_PATH, index=False, encoding="utf-8")
+ 
+print(f"[Partie 5] Descriptions nettoyées sauvegardées : {OUTPUT_NETTOYEES_PATH}")
+print(f"[Partie 5] Nombre d'offres traitées : {len(df_nettoyees)}")
+print(df_nettoyees[["title", "description_nettoyee", "tokens"]].head(3))
+
+# partie 6
+
+#Extraction de compétences
+skills_list = [
+    "python", "java", "c++", "sql", "excel",
+    "javascript", "html", "css", "react",
+    "django", "node", "linux","word","powerpoint"
+]
+
+def extract_skills(text):
+    found = []
+
+    text = text.lower()
+
+    for skill in skills_list:
+        if skill in text:
+            found.append(skill)
+
+    return found
+
+df = pd.read_json("/content/projet_emploi/data/brutes/jobs.json")
+df["skills"] = df["description"].apply(extract_skills)
+
+print(df[["titre", "skills"]].head())
+
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+
+text = " ".join(df["description"].dropna())
+
+wordcloud = WordCloud(width=800, height=400).generate(text)
+
+plt.imshow(wordcloud)
+plt.axis("off")
+plt.show()
+
+print("Nombre total d'offres:", len(df))
+from collections import Counter
+
+all_skills = []
+
+for skills in df["skills"]:
+    all_skills.extend(skills)
+
+top_skills = Counter(all_skills).most_common(10)
+
+print(top_skills)
+print(df["ville"].value_counts())
+
+print(df["salaire"].describe())
+skills, counts = zip(*top_skills)
+
+plt.bar(skills, counts)
+plt.xticks(rotation=45)
+plt.title("Top compétences")
+plt.show()
+
+df["ville"].value_counts().plot(kind="bar")
+plt.title("Répartition par ville")
+plt.show()
 
