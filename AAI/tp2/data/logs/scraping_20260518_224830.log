@@ -1,0 +1,1031 @@
+[2026-05-18 22:48:30,247] INFO: === Debut du scraping ===
+[2026-05-18 22:48:30,247] INFO: --- DEBUT : Scraping 'Hibou grand-duc' ---
+[2026-05-18 22:50:22,760] INFO: Telechargement de 109 images
+[2026-05-18 22:50:25,293] INFO: URL telechargee : https://thfvnext.bing.com/th?id=OIF.BXCYO4Eu7svRX0NLkL%2bgNQ&w=171&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:50:25,699] INFO: SUCCES : ../data/brutes\hibou_grand-duc\55df05b4b3.jpg
+[2026-05-18 22:50:28,314] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.qLTT-gGqZDKqeSJW8ODY2gHaE6?w=227&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:50:28,319] INFO: SUCCES : ../data/brutes\hibou_grand-duc\7ed564f0e4.jpg
+[2026-05-18 22:50:32,481] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIF.k5y9T8cdgVTWjBQfJuICRw?w=245&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:50:32,486] INFO: SUCCES : ../data/brutes\hibou_grand-duc\38deadb6ee.jpg
+[2026-05-18 22:50:36,559] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.t3dWMG2gd-fR3ABWck1MmgHaEK?w=258&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:50:36,565] INFO: SUCCES : ../data/brutes\hibou_grand-duc\7317ee6d89.jpg
+[2026-05-18 22:50:40,217] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Ze80KQyxL0RAHAVB1tC6tgDMEy?w=115&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:50:40,222] INFO: SUCCES : ../data/brutes\hibou_grand-duc\62a141a648.jpg
+[2026-05-18 22:50:43,514] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.A8TQzqcTe8Z6L1b3YVBRKQHaLH?w=118&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:50:43,518] INFO: SUCCES : ../data/brutes\hibou_grand-duc\3679992fc5.jpg
+[2026-05-18 22:50:47,002] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.rOG6JDPWjLwBiIm1o_32hgHaJa?w=127&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:50:47,011] INFO: SUCCES : ../data/brutes\hibou_grand-duc\4f9e98f231.jpg
+[2026-05-18 22:50:50,939] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.zLLSDzGoIdvkVcbU6M0VPQHaEK?w=322&h=181&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:50:50,946] INFO: SUCCES : ../data/brutes\hibou_grand-duc\2d0211dbb8.jpg
+[2026-05-18 22:50:54,880] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.YEETDMdj8kFhDlX_w5KVBAAAAA?w=115&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:50:54,885] INFO: SUCCES : ../data/brutes\hibou_grand-duc\82e57e01eb.jpg
+[2026-05-18 22:50:57,299] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.c7JVMzwcXcJHjwBvFm89ngHaGS?w=182&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:50:57,304] INFO: SUCCES : ../data/brutes\hibou_grand-duc\11883b3513.jpg
+[2026-05-18 22:51:01,233] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.b7Wdht9Bsj-IWoyieaUl1QHaF8?w=229&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:01,238] INFO: SUCCES : ../data/brutes\hibou_grand-duc\90a148d1f2.jpg
+[2026-05-18 22:51:04,673] INFO: URL telechargee : https://thfvnext.bing.com/th?id=OIF.DcNl5wZLuz8IaQA9sd4%2fhQ&w=315&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:04,691] INFO: SUCCES : ../data/brutes\hibou_grand-duc\f93fb5e789.jpg
+[2026-05-18 22:51:07,741] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.zjKZIHtmBMj9HI-94a6cBQHaDF?w=333&h=145&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:07,745] INFO: SUCCES : ../data/brutes\hibou_grand-duc\e68895f996.jpg
+[2026-05-18 22:51:10,873] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.k66rr405xdJrdYjn8Rc1JgHaFk?w=236&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:10,885] INFO: SUCCES : ../data/brutes\hibou_grand-duc\1e306dfed1.jpg
+[2026-05-18 22:51:14,104] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.jQLrh5g7svAyEObIzUZrAAHaFj?w=239&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:14,110] INFO: SUCCES : ../data/brutes\hibou_grand-duc\870e48a9a9.jpg
+[2026-05-18 22:51:17,336] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.yTMGqEKNBjnV4Au_fak2lAHaEK?w=290&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:17,344] INFO: SUCCES : ../data/brutes\hibou_grand-duc\381a4fcd21.jpg
+[2026-05-18 22:51:21,805] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.VI3sx17C5VFoS0zDULGRzQHaFF?w=214&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:21,818] INFO: SUCCES : ../data/brutes\hibou_grand-duc\028114819b.jpg
+[2026-05-18 22:51:25,082] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.axMkguo8X8HSiCr-NiwObQHaEK?w=317&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:25,088] INFO: SUCCES : ../data/brutes\hibou_grand-duc\7312817b41.jpg
+[2026-05-18 22:51:29,199] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIF.rVSTY86CrqxM2ATkof6cGg?w=321&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:29,206] INFO: SUCCES : ../data/brutes\hibou_grand-duc\30736ae612.jpg
+[2026-05-18 22:51:32,509] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.iJ2pEdo8Bm6z2drRAwbY1gHaKV?w=116&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:32,514] INFO: SUCCES : ../data/brutes\hibou_grand-duc\22c4d978b0.jpg
+[2026-05-18 22:51:36,361] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.vDhmTrBXJI8OBP8bpL7p_QHaEK?w=285&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:36,369] INFO: SUCCES : ../data/brutes\hibou_grand-duc\b35e1c433a.jpg
+[2026-05-18 22:51:40,268] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.LWCPXqMXFN4XQBhBTHPexwHaEM?w=316&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:40,275] INFO: SUCCES : ../data/brutes\hibou_grand-duc\9fd9b3f6be.jpg
+[2026-05-18 22:51:44,698] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Sn2el8rQ6sY25i2T3H8VlgHaE8?w=276&h=184&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:44,704] INFO: SUCCES : ../data/brutes\hibou_grand-duc\9b196559fe.jpg
+[2026-05-18 22:51:48,694] INFO: URL telechargee : https://thfvnext.bing.com/th?id=OIF.DSs1u0ZqUnqSg%2fsNVjdP6A&w=280&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:48,700] INFO: SUCCES : ../data/brutes\hibou_grand-duc\a13fbfaff6.jpg
+[2026-05-18 22:51:52,425] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.rit-Qpl1GJo296YB_IwpsAHaJP?w=116&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:52,429] INFO: SUCCES : ../data/brutes\hibou_grand-duc\660d15f9e7.jpg
+[2026-05-18 22:51:55,627] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.gmXlbVgBleI9kMAmnQdkEQHaEn?w=275&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:51:55,645] INFO: SUCCES : ../data/brutes\hibou_grand-duc\792e7709ec.jpg
+[2026-05-18 22:52:00,218] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.BMVUYbU3FHKlhN1B2RtCrAHaFC?w=257&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:00,226] INFO: SUCCES : ../data/brutes\hibou_grand-duc\e0861bc429.jpg
+[2026-05-18 22:52:02,889] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.fwR-1QTFexcTHBis77R88AHaE7?w=214&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:02,893] INFO: SUCCES : ../data/brutes\hibou_grand-duc\09ab2ff596.jpg
+[2026-05-18 22:52:07,437] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Q1OSSKyz-XbkaFOQYMPDAwHaEO?w=259&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:07,441] INFO: SUCCES : ../data/brutes\hibou_grand-duc\e60adf5cb7.jpg
+[2026-05-18 22:52:12,049] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.TNZhniXEJ03v3Cf543Mk4AHaE8?w=242&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:12,055] INFO: SUCCES : ../data/brutes\hibou_grand-duc\797e057023.jpg
+[2026-05-18 22:52:14,841] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.XZDMVSrgIVyprS0Xc1riewHaKC?w=116&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:14,848] INFO: SUCCES : ../data/brutes\hibou_grand-duc\e96a01b618.jpg
+[2026-05-18 22:52:19,270] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Gy8oU6ewa6rtKoVrj9hOMAHaE9?w=275&h=184&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:19,275] INFO: SUCCES : ../data/brutes\hibou_grand-duc\e69a2a02cd.jpg
+[2026-05-18 22:52:22,340] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.5M8vepe2H7uDJVBA1b3PcQHaD4?w=274&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:22,352] INFO: SUCCES : ../data/brutes\hibou_grand-duc\f8df5b3d54.jpg
+[2026-05-18 22:52:25,792] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.tRKZgkBL695NOvO1ZKm_dgAAAA?w=119&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:25,795] INFO: SUCCES : ../data/brutes\hibou_grand-duc\76ee5e1423.jpg
+[2026-05-18 22:52:29,519] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.mE-iMCFF36oP1vCnWC4ffgHaEK?w=329&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:29,525] INFO: SUCCES : ../data/brutes\hibou_grand-duc\935facae98.jpg
+[2026-05-18 22:52:34,027] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIF.1VRQI45DeboqKk8iFNSYFw?w=278&h=186&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:34,036] INFO: SUCCES : ../data/brutes\hibou_grand-duc\a5d83da738.jpg
+[2026-05-18 22:52:37,034] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.199GeezWdSObkeZ4VxixuwHaEM?w=308&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:37,039] INFO: SUCCES : ../data/brutes\hibou_grand-duc\0f1edf62a9.jpg
+[2026-05-18 22:52:39,175] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.qUapS7cJE5e40YrzzcMEqgHaE8?w=216&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:39,180] INFO: SUCCES : ../data/brutes\hibou_grand-duc\1327b9ce24.jpg
+[2026-05-18 22:52:42,050] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.nH2oxAjl_slkp2yKaZCUdQHaGP?w=142&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:42,054] INFO: SUCCES : ../data/brutes\hibou_grand-duc\6bff832294.jpg
+[2026-05-18 22:52:44,859] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.50LiGSyad7A5-sBUwetq3gHaFb?w=242&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:44,864] INFO: SUCCES : ../data/brutes\hibou_grand-duc\e2d93ee6be.jpg
+[2026-05-18 22:52:49,357] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.xz9VPcahtPmrpV_p1nyTuAHaKk?w=115&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:49,361] INFO: SUCCES : ../data/brutes\hibou_grand-duc\c6113d8299.jpg
+[2026-05-18 22:52:52,643] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.iJ2pEdo8Bm6z2drRAwbY1gHaKV?w=124&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:52,647] INFO: SUCCES : ../data/brutes\hibou_grand-duc\c9221eef8e.jpg
+[2026-05-18 22:52:56,671] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.nexyrSgY5VehsRjThRSobQHaE6?w=234&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:56,681] INFO: SUCCES : ../data/brutes\hibou_grand-duc\1d88cf7272.jpg
+[2026-05-18 22:52:59,456] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.1k1hm5gtqovtVakWclcrfgHaE5?w=209&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:52:59,461] INFO: SUCCES : ../data/brutes\hibou_grand-duc\0e90bf8cbc.jpg
+[2026-05-18 22:53:03,743] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.PvpQJV8QdroG0fagkW_uPgHaJo?w=118&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:03,746] INFO: SUCCES : ../data/brutes\hibou_grand-duc\bbf67e8be9.jpg
+[2026-05-18 22:53:07,215] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.j2mAx1wQet26jLayZaTYTwHaFl?w=216&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:07,228] INFO: SUCCES : ../data/brutes\hibou_grand-duc\65d51097e5.jpg
+[2026-05-18 22:53:11,781] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.xKZ2focqrn95hnKUmgTQ2AHaJX?w=130&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:11,785] INFO: SUCCES : ../data/brutes\hibou_grand-duc\f587de123d.jpg
+[2026-05-18 22:53:14,648] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.DuQvvl2dTWmc_BLUyw6k7gHaE8?w=162&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:14,653] INFO: SUCCES : ../data/brutes\hibou_grand-duc\0970e53572.jpg
+[2026-05-18 22:53:17,180] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.7xl4FYTRr51ezqW5bfDAzgHaE7?w=273&h=182&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:17,185] INFO: SUCCES : ../data/brutes\hibou_grand-duc\6b689cd473.jpg
+[2026-05-18 22:53:21,217] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.d23LgARctLHA30YytdpjUQHaLH?w=115&h=182&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:21,223] INFO: SUCCES : ../data/brutes\hibou_grand-duc\8ff70ae806.jpg
+[2026-05-18 22:53:25,126] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.ZI-l5rbqBOVS2zoRslR6XAHaEq?w=279&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:25,131] INFO: SUCCES : ../data/brutes\hibou_grand-duc\77bb0a921d.jpg
+[2026-05-18 22:53:27,418] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.-MSKXm5i5LZT-ZoopYNQsQHaHa?w=181&h=181&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:27,424] INFO: SUCCES : ../data/brutes\hibou_grand-duc\52c7e8ba5d.jpg
+[2026-05-18 22:53:31,477] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.EwzSux37z7tgUOtdNYkBBwHaFH?w=258&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:31,487] INFO: SUCCES : ../data/brutes\hibou_grand-duc\f50f42fdb0.jpg
+[2026-05-18 22:53:35,918] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.jZOyfv5giYhx0O9Q3dA7_wHaLG?w=123&h=184&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:35,923] INFO: SUCCES : ../data/brutes\hibou_grand-duc\9bb5fa46aa.jpg
+[2026-05-18 22:53:38,517] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Wcsiy5GyapKMWKtdWMtloQHaGF?w=225&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:38,529] INFO: SUCCES : ../data/brutes\hibou_grand-duc\7ba31fe66a.jpg
+[2026-05-18 22:53:42,319] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.V50zUKMZbqMjAGhkHCmrbAHaE3?w=267&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:42,326] INFO: SUCCES : ../data/brutes\hibou_grand-duc\cd00a32b79.jpg
+[2026-05-18 22:53:44,977] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.vtNagntFM1qyNCOPrltOtQHaFc?w=244&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:44,982] INFO: SUCCES : ../data/brutes\hibou_grand-duc\0695e140ce.jpg
+[2026-05-18 22:53:48,098] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.1egJdahKG-tpW058NoevYgHaEK?w=284&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:48,103] INFO: SUCCES : ../data/brutes\hibou_grand-duc\8a58e8a0e5.jpg
+[2026-05-18 22:53:52,353] INFO: URL telechargee : https://thfvnext.bing.com/th?id=OIF.c9Hs%2fwLJparnuMJk8P6KbA&w=282&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:52,360] INFO: SUCCES : ../data/brutes\hibou_grand-duc\ab97c6e242.jpg
+[2026-05-18 22:53:56,536] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIF.BHzD8AHDNUiUYEfS2HvnOA?w=327&h=186&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:53:56,545] INFO: SUCCES : ../data/brutes\hibou_grand-duc\8e3ba0d2ad.jpg
+[2026-05-18 22:54:00,768] INFO: URL telechargee : https://thfvnext.bing.com/th?id=OIF.Jdmvh67BmFpa1xDOaT3u%2bg&w=282&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:00,775] INFO: SUCCES : ../data/brutes\hibou_grand-duc\d27a6c2cfc.jpg
+[2026-05-18 22:54:05,555] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.K6pP1d6tsTbM9xyWY0dfagHaE8?w=195&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:05,560] INFO: SUCCES : ../data/brutes\hibou_grand-duc\1db595834c.jpg
+[2026-05-18 22:54:09,897] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.7e-wWq68eYQW_CWnVFeyZAHaFj?w=247&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:09,905] INFO: SUCCES : ../data/brutes\hibou_grand-duc\4763c0b0da.jpg
+[2026-05-18 22:54:14,345] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.qdXWanoqhd2K9OgWf1g7sgHaEK?w=223&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:14,352] INFO: SUCCES : ../data/brutes\hibou_grand-duc\abf5b99c19.jpg
+[2026-05-18 22:54:17,190] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.SxALpITHNG2wRTVfyLcnPQHaEv?w=267&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:17,198] INFO: SUCCES : ../data/brutes\hibou_grand-duc\34677d3963.jpg
+[2026-05-18 22:54:20,297] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.kUmFl1v_7uGfC2kpTg_gCgHaE7?w=244&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:20,304] INFO: SUCCES : ../data/brutes\hibou_grand-duc\a3a03c360e.jpg
+[2026-05-18 22:54:24,457] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.JHuTJ-vdpG4AcQqj-TqMmQHaI5?w=130&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:24,462] INFO: SUCCES : ../data/brutes\hibou_grand-duc\9d6ceed573.jpg
+[2026-05-18 22:54:28,832] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.TZbKDdLszdAfsDeqlI2bSgHaGJ?w=207&h=182&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:28,837] INFO: SUCCES : ../data/brutes\hibou_grand-duc\a7f189b859.jpg
+[2026-05-18 22:54:32,033] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.p4d426qAm6Lv3HPnyjm4ZwHaE8?w=235&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:32,038] INFO: SUCCES : ../data/brutes\hibou_grand-duc\4f8b1638a5.jpg
+[2026-05-18 22:54:35,621] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.16OvsTkhHRfGCNqSuhvDhAHaEr?w=260&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:35,629] INFO: SUCCES : ../data/brutes\hibou_grand-duc\dd78bc5f1b.jpg
+[2026-05-18 22:54:40,199] INFO: URL telechargee : https://thfvnext.bing.com/th?id=OIF.fQzoFY8AQzpko%2bU3YcuJbA&w=248&h=186&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:40,208] INFO: SUCCES : ../data/brutes\hibou_grand-duc\8de8f8e300.jpg
+[2026-05-18 22:54:44,874] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Q1OSSKyz-XbkaFOQYMPDAwHaEO?w=224&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:44,878] INFO: SUCCES : ../data/brutes\hibou_grand-duc\f0e53092f4.jpg
+[2026-05-18 22:54:47,818] INFO: URL telechargee : https://thfvnext.bing.com/th?id=OIF.tC1%2bE758nTURIC8gEHBmKg&w=280&h=186&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:47,825] INFO: SUCCES : ../data/brutes\hibou_grand-duc\62380f207e.jpg
+[2026-05-18 22:54:50,804] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIF.Kp30AETkajbphxAPK8lFyQ?w=320&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:50,808] INFO: SUCCES : ../data/brutes\hibou_grand-duc\d279f3b8eb.jpg
+[2026-05-18 22:54:53,837] INFO: URL telechargee : https://thfvnext.bing.com/th?id=OIF.%2bBjWwIrJKmI4Wju%2feGguyQ&w=321&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:53,845] INFO: SUCCES : ../data/brutes\hibou_grand-duc\ca0669cf8f.jpg
+[2026-05-18 22:54:57,947] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.N38pU3gdcA3gGs5T-C0oVAHaFB?w=273&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:54:57,952] INFO: SUCCES : ../data/brutes\hibou_grand-duc\124f1e67f2.jpg
+[2026-05-18 22:55:01,271] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.jaUtT_sfvfGPvVEjqRutkgHaE6?w=258&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:01,276] INFO: SUCCES : ../data/brutes\hibou_grand-duc\92487bc13a.jpg
+[2026-05-18 22:55:05,063] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.93nO_3__BJ4VIuuXxf2EhAHaE7?w=269&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:05,069] INFO: SUCCES : ../data/brutes\hibou_grand-duc\f0380a8c52.jpg
+[2026-05-18 22:55:09,884] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.ZHPXTg7j-_0hbjjdK3E4LAHaFj?w=223&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:09,891] INFO: SUCCES : ../data/brutes\hibou_grand-duc\b593766c14.jpg
+[2026-05-18 22:55:12,403] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.o6SeUEfxAQLsEJdBPlgomgHaKX?w=133&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:12,407] INFO: SUCCES : ../data/brutes\hibou_grand-duc\8ed1ded26d.jpg
+[2026-05-18 22:55:16,101] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.NimzjbGmun_fJSruz44bygHaFZ?w=248&h=181&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:16,105] INFO: SUCCES : ../data/brutes\hibou_grand-duc\8fa61a5a8f.jpg
+[2026-05-18 22:55:19,439] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.3fgwT_hTYNMcaOLnxyW5dQHaEK?w=212&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:19,443] INFO: SUCCES : ../data/brutes\hibou_grand-duc\e55be9690f.jpg
+[2026-05-18 22:55:24,365] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.fmJsUMrJzvRzxxnCKrpszQHaEK?w=263&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:24,372] INFO: SUCCES : ../data/brutes\hibou_grand-duc\827f3056cc.jpg
+[2026-05-18 22:55:28,337] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.rbwRNl1i4hGWXizLmW-QwgHaLG?w=130&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:28,341] INFO: SUCCES : ../data/brutes\hibou_grand-duc\17a8d6dd6e.jpg
+[2026-05-18 22:55:31,527] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.hi05VpiyP59CDm65XGJaCQHaLH?w=123&h=184&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:31,530] INFO: SUCCES : ../data/brutes\hibou_grand-duc\a80222b4a1.jpg
+[2026-05-18 22:55:33,897] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.v9MK0JoJjLcbr0FWSPSQJQAAAA?w=118&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:33,900] INFO: SUCCES : ../data/brutes\hibou_grand-duc\41caa762e2.jpg
+[2026-05-18 22:55:36,682] INFO: URL telechargee : https://thfvnext.bing.com/th?id=OIF.%2fFh66VA5RNHZKluaDApuBQ&w=266&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:36,701] INFO: SUCCES : ../data/brutes\hibou_grand-duc\81b62e6d8f.jpg
+[2026-05-18 22:55:39,692] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.4h2XtJRlA_PVo_ZtyYeT9AHaE8?w=263&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:39,698] INFO: SUCCES : ../data/brutes\hibou_grand-duc\4ae0e4f28e.jpg
+[2026-05-18 22:55:44,251] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIF.7l91lMpBpWnjycf8XhM4Zw?w=238&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:44,265] INFO: SUCCES : ../data/brutes\hibou_grand-duc\044fad4db4.jpg
+[2026-05-18 22:55:46,920] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.4btKS54_CwuaCkLce7-1kAHaEK?w=192&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:46,925] INFO: SUCCES : ../data/brutes\hibou_grand-duc\3dc9156f9b.jpg
+[2026-05-18 22:55:49,375] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.nWJwEUnPWu9ukwAIW2cEGwHaEL?w=328&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:49,382] INFO: SUCCES : ../data/brutes\hibou_grand-duc\a3cad702c1.jpg
+[2026-05-18 22:55:52,403] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.DuQvvl2dTWmc_BLUyw6k7gHaE8?w=224&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:52,412] INFO: SUCCES : ../data/brutes\hibou_grand-duc\34918abaee.jpg
+[2026-05-18 22:55:54,926] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.uT9fOSeuAU9vvJNfLmmTQgHaE8?w=257&h=182&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:54,931] INFO: SUCCES : ../data/brutes\hibou_grand-duc\a56a5961c4.jpg
+[2026-05-18 22:55:58,781] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.ZjFy7vgMYzyaVpGM7J1RNwHaFj?w=247&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:55:58,786] INFO: SUCCES : ../data/brutes\hibou_grand-duc\252fdda4d2.jpg
+[2026-05-18 22:56:01,238] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.bSPzl64ColbV60tXg8PuXQHaEK?w=291&h=181&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:01,245] INFO: SUCCES : ../data/brutes\hibou_grand-duc\4cbf0d8f37.jpg
+[2026-05-18 22:56:05,798] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.j7DR4vuWoU92lz-ZHklrlwHaE7?w=174&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:05,803] INFO: SUCCES : ../data/brutes\hibou_grand-duc\d80b7e5fbc.jpg
+[2026-05-18 22:56:09,957] INFO: URL telechargee : https://thfvnext.bing.com/th?id=OIF.Bo274iw%2fmzg6l9DMnMdI4A&w=280&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:09,974] INFO: SUCCES : ../data/brutes\hibou_grand-duc\d7325d7ddc.jpg
+[2026-05-18 22:56:13,576] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.DVzwMD361n2rBeJdLfawygHaLH?w=115&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:13,580] INFO: SUCCES : ../data/brutes\hibou_grand-duc\c375f28735.jpg
+[2026-05-18 22:56:16,284] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.5fiji_E3FR_fGHZ8uZA7IQHaEK?w=328&h=184&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:16,305] INFO: SUCCES : ../data/brutes\hibou_grand-duc\d7d8159ac3.jpg
+[2026-05-18 22:56:19,908] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.la68lkACBVbZ8wp8_REzogHaFj?w=216&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:19,923] INFO: SUCCES : ../data/brutes\hibou_grand-duc\a481ed948b.jpg
+[2026-05-18 22:56:23,207] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.cx_P_bJoALEaIU6NKEBM-QHaE7?w=251&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:23,218] INFO: SUCCES : ../data/brutes\hibou_grand-duc\5fb33e124f.jpg
+[2026-05-18 22:56:27,900] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.ZSdsir7GO9c_-0-r1-2x3QHaLH?w=116&h=150&c=6&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:27,904] INFO: SUCCES : ../data/brutes\hibou_grand-duc\4a76e89a45.jpg
+[2026-05-18 22:56:30,984] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.4UZu92PTMyUBrwFfUDY4qgHaE8?w=273&h=182&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:30,990] INFO: SUCCES : ../data/brutes\hibou_grand-duc\925f5b4563.jpg
+[2026-05-18 22:56:34,630] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.XVhzWBLX4Y7T9eAWz_JOhAHaE7?w=262&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:34,647] INFO: SUCCES : ../data/brutes\hibou_grand-duc\040b727dc7.jpg
+[2026-05-18 22:56:38,350] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.u12jiDnEdFtCPwanO8HvRQHaEJ?w=316&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:38,358] INFO: SUCCES : ../data/brutes\hibou_grand-duc\994910262d.jpg
+[2026-05-18 22:56:42,707] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.y8DvDJ0vQo43NX9FfvmVUQAAAA?w=128&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:42,712] INFO: SUCCES : ../data/brutes\hibou_grand-duc\6d8f29fbb1.jpg
+[2026-05-18 22:56:47,110] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.5BBK2eFV8wtAhKpZ0hKcLQHaEO?w=306&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:47,116] INFO: SUCCES : ../data/brutes\hibou_grand-duc\544e159618.jpg
+[2026-05-18 22:56:51,925] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.C4lPplNdduaKdr3zoJla7AHaE8?w=241&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:51,930] INFO: SUCCES : ../data/brutes\hibou_grand-duc\ca931b2397.jpg
+[2026-05-18 22:56:55,814] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.NrkYPJZ1D9nqmK-EklqwWgHaFj?w=247&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:56:55,819] INFO: SUCCES : ../data/brutes\hibou_grand-duc\a2a21ba2b7.jpg
+[2026-05-18 22:56:56,626] INFO: --- FIN : Hibou grand-duc | Telecharges: 109, Echoues: 0 ---
+[2026-05-18 22:56:56,626] INFO: --- DEBUT : Scraping 'Flamant rose' ---
+[2026-05-18 22:59:19,300] INFO: Telechargement de 131 images
+[2026-05-18 22:59:21,124] INFO: URL telechargee : https://th.bing.com/th/id/OIF.Ro9B9w1jkZEKVpYdbGa9Iw?w=159&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:21,137] INFO: SUCCES : ../data/brutes\flamant_rose\dc328351b1.jpg
+[2026-05-18 22:59:24,007] INFO: URL telechargee : https://th.bing.com/th/id/OIP.BdsEWiLxNlzuiN8QoPvXVQHaHT?w=169&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:24,013] INFO: SUCCES : ../data/brutes\flamant_rose\5aed02407f.jpg
+[2026-05-18 22:59:28,090] INFO: URL telechargee : https://th.bing.com/th/id/OIP.4ccDDBZLa_hm7YkMHzyuVQHaLG?w=118&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:28,094] INFO: SUCCES : ../data/brutes\flamant_rose\6eca13700a.jpg
+[2026-05-18 22:59:32,796] INFO: URL telechargee : https://th.bing.com/th/id/OIP.EtdOVX4f_Uw61e-y0j-VaAHaD6?w=274&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:32,800] INFO: SUCCES : ../data/brutes\flamant_rose\cc3be49491.jpg
+[2026-05-18 22:59:35,871] INFO: URL telechargee : https://th.bing.com/th/id/OIP.O4nJsX6p7UuNCw6jEuCw2gHaKf?w=133&h=188&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:35,875] INFO: SUCCES : ../data/brutes\flamant_rose\fe29764298.jpg
+[2026-05-18 22:59:39,746] INFO: URL telechargee : https://th.bing.com/th/id/OIF.h5ShQrmGgsf80ZEyXk8dfw?w=332&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:39,763] INFO: SUCCES : ../data/brutes\flamant_rose\e5303745de.jpg
+[2026-05-18 22:59:43,173] INFO: URL telechargee : https://th.bing.com/th/id/OIP.gX7IGBoUCTYCef5dxMnynAHaE8?w=266&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:43,190] INFO: SUCCES : ../data/brutes\flamant_rose\a2e5739cd2.jpg
+[2026-05-18 22:59:47,582] INFO: URL telechargee : https://th.bing.com/th?id=OIF.vVgnhoyRyZt30%2birssUiqg&w=179&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:47,587] INFO: SUCCES : ../data/brutes\flamant_rose\7c66966bfc.jpg
+[2026-05-18 22:59:51,128] INFO: URL telechargee : https://th.bing.com/th/id/OIP.3Px-ph85CNNsIt7ud7zM7gHaKp?w=124&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:51,132] INFO: SUCCES : ../data/brutes\flamant_rose\a8abe10d7d.jpg
+[2026-05-18 22:59:53,859] INFO: URL telechargee : https://th.bing.com/th/id/OIF.a13P2DopxEvU1TMx258ubA?w=157&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:53,862] INFO: SUCCES : ../data/brutes\flamant_rose\697dc2e9ac.jpg
+[2026-05-18 22:59:58,216] INFO: URL telechargee : https://th.bing.com/th/id/OIP.jFfHvjXNAk8JxK8T8M0i5QHaE8?w=276&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 22:59:58,223] INFO: SUCCES : ../data/brutes\flamant_rose\9a1cc89e01.jpg
+[2026-05-18 23:00:02,188] INFO: URL telechargee : https://th.bing.com/th/id/OIP.7dsPG0j2CHiGD4b0Ewii9AHaFc?w=222&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:02,203] INFO: SUCCES : ../data/brutes\flamant_rose\6bb97152b3.jpg
+[2026-05-18 23:00:06,472] INFO: URL telechargee : https://th.bing.com/th/id/OIP.7k-ZaNKbzZGh7m0EnxGHcAHaEo?w=254&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:06,479] INFO: SUCCES : ../data/brutes\flamant_rose\80cd9effe7.jpg
+[2026-05-18 23:00:09,653] INFO: URL telechargee : https://th.bing.com/th?id=OIF.cZesouOZiBIFUr8UwMp%2fCA&w=219&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:09,667] INFO: SUCCES : ../data/brutes\flamant_rose\41d2131b6e.jpg
+[2026-05-18 23:00:13,109] INFO: URL telechargee : https://th.bing.com/th/id/OIP.iH8bAkYcK38HMEOu1MsxrAHaFc?w=212&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:13,114] INFO: SUCCES : ../data/brutes\flamant_rose\d0ea246046.jpg
+[2026-05-18 23:00:16,082] INFO: URL telechargee : https://th.bing.com/th?id=OIF.uGsJdCT8PUiWPl%2biZ%2fAv8g&w=116&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:16,086] INFO: SUCCES : ../data/brutes\flamant_rose\256ca21a6e.jpg
+[2026-05-18 23:00:19,862] INFO: URL telechargee : https://th.bing.com/th/id/OIP.AcHX6X1lsToRTL-OPTD9NAHaKi?w=94&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:19,866] INFO: SUCCES : ../data/brutes\flamant_rose\c7ce820ab4.jpg
+[2026-05-18 23:00:23,785] INFO: URL telechargee : https://th.bing.com/th/id/OIP.AOKyXeMhYirPVo1hTB4n-AHaD5?w=322&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:23,793] INFO: SUCCES : ../data/brutes\flamant_rose\80cd4e298c.jpg
+[2026-05-18 23:00:28,406] INFO: URL telechargee : https://th.bing.com/th/id/OIP.6dJ10jxL9ZHFPh9ygnGtpAHaE8?w=236&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:28,421] INFO: SUCCES : ../data/brutes\flamant_rose\1243abb498.jpg
+[2026-05-18 23:00:33,467] INFO: URL telechargee : https://th.bing.com/th/id/OIP.ZbzdzKX9CCrW0TcZhTonawHaL3?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:33,472] INFO: SUCCES : ../data/brutes\flamant_rose\eb157fe42c.jpg
+[2026-05-18 23:00:36,116] INFO: URL telechargee : https://th.bing.com/th/id/OIP.4B_xzOo-x11Cz94qIamUAQHaHa?w=152&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:36,119] INFO: SUCCES : ../data/brutes\flamant_rose\400ea7eb99.jpg
+[2026-05-18 23:00:40,339] INFO: URL telechargee : https://th.bing.com/th/id/OIP.F-dBFfVZTXOyoNlfz70AOgHaE8?w=266&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:40,347] INFO: SUCCES : ../data/brutes\flamant_rose\122abcb3ca.jpg
+[2026-05-18 23:00:44,646] INFO: URL telechargee : https://th.bing.com/th/id/OIF.bcorhr0XEMX6WCqqhxwpoQ?w=177&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:44,653] INFO: SUCCES : ../data/brutes\flamant_rose\215b377a5c.jpg
+[2026-05-18 23:00:48,529] INFO: URL telechargee : https://th.bing.com/th?id=OIF.effOK4oWjiUQYCZZXZVk%2bw&w=130&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:48,536] INFO: SUCCES : ../data/brutes\flamant_rose\4d296c26c9.jpg
+[2026-05-18 23:00:53,139] INFO: URL telechargee : https://th.bing.com/th?id=OIF.Bop6QU%2f3MvpZx4jcy95M4A&w=100&h=100&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:53,144] INFO: SUCCES : ../data/brutes\flamant_rose\8f77c9145b.jpg
+[2026-05-18 23:00:56,995] INFO: URL telechargee : https://th.bing.com/th/id/OIP.wgBS-Qa30qjiZXroK0SZtgHaFc?w=228&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:00:57,000] INFO: SUCCES : ../data/brutes\flamant_rose\0540ec6ad4.jpg
+[2026-05-18 23:01:01,556] INFO: URL telechargee : https://th.bing.com/th/id/OIF.0HWOm9QzG4tKeOuAcHTGGQ?w=328&h=185&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:01,564] INFO: SUCCES : ../data/brutes\flamant_rose\1adb6f0f67.jpg
+[2026-05-18 23:01:06,256] INFO: URL telechargee : https://th.bing.com/th?id=OIF.QGxTmWM2ztQcx5%2fSMjmwJQ&w=196&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:06,260] INFO: SUCCES : ../data/brutes\flamant_rose\97e16a67ad.jpg
+[2026-05-18 23:01:09,420] INFO: URL telechargee : https://th.bing.com/th/id/OIF.JscyYMDij6T1HKp3Fk4lHg?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:09,425] INFO: SUCCES : ../data/brutes\flamant_rose\dbcec6f599.jpg
+[2026-05-18 23:01:13,567] INFO: URL telechargee : https://th.bing.com/th/id/OIF.tctzzlzihpJndspL623qkg?w=143&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:13,571] INFO: SUCCES : ../data/brutes\flamant_rose\ab20b1df69.jpg
+[2026-05-18 23:01:18,100] INFO: URL telechargee : https://th.bing.com/th/id/OIP.ZBMt2GDBr2msogtAl14dHwHaFc?w=193&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:18,105] INFO: SUCCES : ../data/brutes\flamant_rose\3a86eaa3f7.jpg
+[2026-05-18 23:01:22,197] INFO: URL telechargee : https://th.bing.com/th/id/OIP.RebXPxVVuFyCYK1H7ir25AHaD4?w=292&h=178&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:22,203] INFO: SUCCES : ../data/brutes\flamant_rose\b67c875d16.jpg
+[2026-05-18 23:01:25,331] INFO: URL telechargee : https://th.bing.com/th?id=OIF.8vZm245Mqva7N5gnd%2bAWTQ&w=32&h=32&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:25,338] INFO: SUCCES : ../data/brutes\flamant_rose\d4bdaf4096.jpg
+[2026-05-18 23:01:29,836] INFO: URL telechargee : https://th.bing.com/th/id/OIF.Sc5CWjhzJ7XFz7g0RYtuKg?w=158&h=159&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:29,845] INFO: SUCCES : ../data/brutes\flamant_rose\ad13ea7377.jpg
+[2026-05-18 23:01:34,145] INFO: URL telechargee : https://th.bing.com/th/id/OIP.e9Wms0hUr091R6HqKU_vmwHaFc?w=214&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:34,156] INFO: SUCCES : ../data/brutes\flamant_rose\d380ffa4c4.jpg
+[2026-05-18 23:01:38,517] INFO: URL telechargee : https://th.bing.com/th/id/OIF.W3e8PFlxBPdXj1Lygdo3cA?w=262&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:38,523] INFO: SUCCES : ../data/brutes\flamant_rose\108f0ce9f9.jpg
+[2026-05-18 23:01:41,513] INFO: URL telechargee : https://th.bing.com/th?id=OIF.qTomUR2x0%2bBJVZiBIic%2fVQ&w=178&h=114&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:41,516] INFO: SUCCES : ../data/brutes\flamant_rose\b493b69261.jpg
+[2026-05-18 23:01:45,300] INFO: URL telechargee : https://th.bing.com/th/id/OIF.LPca0MdWX9TC5MVGOHxGHg?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:45,308] INFO: SUCCES : ../data/brutes\flamant_rose\2910083961.jpg
+[2026-05-18 23:01:48,167] INFO: URL telechargee : https://th.bing.com/th/id/OIP.KNbLKhBmIkMAPUmOiscbeAHaE5?w=247&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:48,171] INFO: SUCCES : ../data/brutes\flamant_rose\88c45ba052.jpg
+[2026-05-18 23:01:52,483] INFO: URL telechargee : https://th.bing.com/th/id/OIP.KDyvoiJ6ddsqupk24fCDPQHaNG?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:52,493] INFO: SUCCES : ../data/brutes\flamant_rose\e90ec1f1dd.jpg
+[2026-05-18 23:01:55,614] INFO: URL telechargee : https://th.bing.com/th/id/OIP.-0uhbg34XnjztMCKAUtPXAHaFm?w=235&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:55,622] INFO: SUCCES : ../data/brutes\flamant_rose\455121501a.jpg
+[2026-05-18 23:01:59,001] INFO: URL telechargee : https://th.bing.com/th/id/OIP.w_mdy3igBnAivwJPmzZJOgHaFI?w=286&h=198&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:01:59,009] INFO: SUCCES : ../data/brutes\flamant_rose\21d4aed662.jpg
+[2026-05-18 23:02:01,660] INFO: URL telechargee : https://th.bing.com/th/id/OIP.XhvYylUQ0J0AhBvlF9lFzQHaE7?w=255&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:01,667] INFO: SUCCES : ../data/brutes\flamant_rose\dfeccd40b0.jpg
+[2026-05-18 23:02:04,103] INFO: URL telechargee : https://th.bing.com/th/id/OIF.ikeODVpZRgzBRsZAknAmxQ?w=173&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:04,122] INFO: SUCCES : ../data/brutes\flamant_rose\3920a7eb6a.jpg
+[2026-05-18 23:02:08,529] INFO: URL telechargee : https://th.bing.com/th/id/OIP.BHkw-CxJfxK9lXlxmJV_8QHaE8?w=236&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:08,535] INFO: SUCCES : ../data/brutes\flamant_rose\51f363f144.jpg
+[2026-05-18 23:02:11,292] INFO: URL telechargee : https://th.bing.com/th/id/OIP.iyI93wGKKZEpCZEcco8foQHaGN?w=195&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:11,297] INFO: SUCCES : ../data/brutes\flamant_rose\c2ce9008fa.jpg
+[2026-05-18 23:02:14,138] INFO: URL telechargee : https://th.bing.com/th/id/OIP.XMnC-zohyRPTnFxou4g_gQHaE8?w=254&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:14,148] INFO: SUCCES : ../data/brutes\flamant_rose\d66bb32c18.jpg
+[2026-05-18 23:02:17,429] INFO: URL telechargee : https://th.bing.com/th?id=OIF.DSSo%2btOXMIE4IJn%2fiXep5Q&w=158&h=159&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:17,433] INFO: SUCCES : ../data/brutes\flamant_rose\73306ba912.jpg
+[2026-05-18 23:02:21,383] INFO: URL telechargee : https://th.bing.com/th/id/OIP.dSNbonVgGHoWjjLVPhJiHAHaEU?w=214&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:21,388] INFO: SUCCES : ../data/brutes\flamant_rose\02a810d073.jpg
+[2026-05-18 23:02:24,678] INFO: URL telechargee : https://th.bing.com/th/id/OIF.n2NkuZpN0bNJhTZyrOGqfQ?w=134&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:24,684] INFO: SUCCES : ../data/brutes\flamant_rose\8eb76c0fa3.jpg
+[2026-05-18 23:02:29,038] INFO: URL telechargee : https://th.bing.com/th/id/OIP.irzakutqrWAaX0MCbGSNRQHaE5?w=278&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:29,046] INFO: SUCCES : ../data/brutes\flamant_rose\e361d4730a.jpg
+[2026-05-18 23:02:33,032] INFO: URL telechargee : https://th.bing.com/th/id/OIP.1IOV1tyRMjAU396sBvln5wHaHa?w=175&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:33,043] INFO: SUCCES : ../data/brutes\flamant_rose\33db4981cf.jpg
+[2026-05-18 23:02:36,114] INFO: URL telechargee : https://th.bing.com/th/id/OIP.PzQLiy4F_5Gf2lHsUOi3igHaFj?w=245&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:36,121] INFO: SUCCES : ../data/brutes\flamant_rose\73298be56c.jpg
+[2026-05-18 23:02:39,643] INFO: URL telechargee : https://th.bing.com/th/id/OIP.LpqAlYB1l058lyTJuRxqmQHaFc?w=241&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:39,658] INFO: SUCCES : ../data/brutes\flamant_rose\1b850bf167.jpg
+[2026-05-18 23:02:43,252] INFO: URL telechargee : https://th.bing.com/th/id/OIF.fjxfUTQt9tSQsmeAsCMllA?w=280&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:43,266] INFO: SUCCES : ../data/brutes\flamant_rose\d690103936.jpg
+[2026-05-18 23:02:47,273] INFO: URL telechargee : https://th.bing.com/th/id/OIP.3C45GjXhFSL1z-HkwRU5mAHaFB?w=271&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:47,280] INFO: SUCCES : ../data/brutes\flamant_rose\727b3a7388.jpg
+[2026-05-18 23:02:52,483] INFO: URL telechargee : https://th.bing.com/th/id/OIF.jBlkai2yqbnSpOCzNhPpSw?w=270&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:52,499] INFO: SUCCES : ../data/brutes\flamant_rose\fbd7bf5715.jpg
+[2026-05-18 23:02:55,739] INFO: URL telechargee : https://th.bing.com/th?id=OIF.00fe4qjZr7Gf2Tk%2bxZy22A&w=130&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:55,744] INFO: SUCCES : ../data/brutes\flamant_rose\f4a32e1ecf.jpg
+[2026-05-18 23:02:58,713] INFO: URL telechargee : https://th.bing.com/th/id/OIF.0oQRadGj2xjPE05kn6qmSA?w=318&h=132&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:02:58,724] INFO: SUCCES : ../data/brutes\flamant_rose\47fa7499ac.jpg
+[2026-05-18 23:03:03,048] INFO: URL telechargee : https://th.bing.com/th/id/OIF.IOC7xoOYTrJsdGsdNlKxbQ?w=294&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:03,053] INFO: SUCCES : ../data/brutes\flamant_rose\8386aa59c7.jpg
+[2026-05-18 23:03:07,824] INFO: URL telechargee : https://th.bing.com/th/id/OIP.gA0b6Kf188UCNugiTJR1NAHaE6?w=200&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:07,828] INFO: SUCCES : ../data/brutes\flamant_rose\8c90ca0e24.jpg
+[2026-05-18 23:03:12,743] INFO: URL telechargee : https://th.bing.com/th?id=OIF.YjLvT9JZC%2fV2OY9aQbVXbg&w=186&h=185&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:12,747] INFO: SUCCES : ../data/brutes\flamant_rose\4fdbb191a5.jpg
+[2026-05-18 23:03:18,021] INFO: URL telechargee : https://th.bing.com/th/id/OIP.X53PagDL9VTd3fKwI4x2IQHaE6?w=278&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:18,042] INFO: SUCCES : ../data/brutes\flamant_rose\cca3ea451d.jpg
+[2026-05-18 23:03:21,564] INFO: URL telechargee : https://th.bing.com/th/id/OIF.OhmdYrBm3BPShXnveIhWwQ?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:21,570] INFO: SUCCES : ../data/brutes\flamant_rose\93b50bf8d7.jpg
+[2026-05-18 23:03:24,853] INFO: URL telechargee : https://th.bing.com/th?id=OIF.qeSmXqLNNawE39rUC%2b3i%2bw&w=290&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:24,867] INFO: SUCCES : ../data/brutes\flamant_rose\5351e2a50e.jpg
+[2026-05-18 23:03:28,727] INFO: URL telechargee : https://th.bing.com/th/id/OIF.d4zkHujWSxzUJ5PbGWhs5g?w=159&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:28,731] INFO: SUCCES : ../data/brutes\flamant_rose\9a859fd398.jpg
+[2026-05-18 23:03:31,786] INFO: URL telechargee : https://th.bing.com/th/id/OIP.VR00RSXD5_wdmmbE3_KyhAHaE8?w=251&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:31,796] INFO: SUCCES : ../data/brutes\flamant_rose\8171f828d4.jpg
+[2026-05-18 23:03:34,937] INFO: URL telechargee : https://th.bing.com/th/id/OIP.hBR81FlN5JZ2q5_v-YWYUgHaFc?w=200&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:34,941] INFO: SUCCES : ../data/brutes\flamant_rose\f8f4ee1974.jpg
+[2026-05-18 23:03:39,158] INFO: URL telechargee : https://th.bing.com/th/id/OIP._zScDaGNGPHfnsmiDpda0wHaHa?w=188&h=188&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:39,164] INFO: SUCCES : ../data/brutes\flamant_rose\7a974adfd2.jpg
+[2026-05-18 23:03:42,430] INFO: URL telechargee : https://th.bing.com/th/id/OIP.UPfZ9LHPfekflfF6O6UePAHaJ4?w=134&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:42,434] INFO: SUCCES : ../data/brutes\flamant_rose\e51618d17c.jpg
+[2026-05-18 23:03:45,437] INFO: URL telechargee : https://th.bing.com/th/id/OIP.OuF6eGpuWKI8aV1TeDncqwHaEK?w=221&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:45,444] INFO: SUCCES : ../data/brutes\flamant_rose\5e8fed3e5f.jpg
+[2026-05-18 23:03:48,503] INFO: URL telechargee : https://th.bing.com/th/id/OIP.NJlfz6yKfvfN6-I_9Gd59QHaE7?w=266&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:48,519] INFO: SUCCES : ../data/brutes\flamant_rose\fc483ac3c7.jpg
+[2026-05-18 23:03:51,430] INFO: URL telechargee : https://th.bing.com/th/id/OIP.W5h8So4g_-HQakou5ejcZQHaFc?w=237&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:51,443] INFO: SUCCES : ../data/brutes\flamant_rose\41fe64ee88.jpg
+[2026-05-18 23:03:55,329] INFO: URL telechargee : https://th.bing.com/th/id/OIP.YbQPLTtyww-pDUpES-Nm8gHaLG?w=115&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:03:55,335] INFO: SUCCES : ../data/brutes\flamant_rose\45ecd3fac1.jpg
+[2026-05-18 23:04:00,288] INFO: URL telechargee : https://th.bing.com/th?id=OIF.swTsJl7J%2fnbhiMLOC4Rg8A&w=173&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:00,301] INFO: SUCCES : ../data/brutes\flamant_rose\82f177119f.jpg
+[2026-05-18 23:04:04,417] INFO: URL telechargee : https://th.bing.com/th/id/OIP.LYwbnBB-GMKZ04I4Uh2UeAHaHb?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:04,425] INFO: SUCCES : ../data/brutes\flamant_rose\d03f29206a.jpg
+[2026-05-18 23:04:07,621] INFO: URL telechargee : https://th.bing.com/th?id=OIF.KlDYYJlxJ357GCRJN%2faVJA&w=198&h=198&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:07,627] INFO: SUCCES : ../data/brutes\flamant_rose\976abeb7a8.jpg
+[2026-05-18 23:04:10,898] INFO: URL telechargee : https://th.bing.com/th/id/OIF.SgVzdj6KeoM8tRKgG2qh4g?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:10,905] INFO: SUCCES : ../data/brutes\flamant_rose\274a1a309b.jpg
+[2026-05-18 23:04:13,390] INFO: URL telechargee : https://th.bing.com/th/id/OIP.cJ0q7L4dGdCDQKvbZmDeMQHaFf?w=226&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:13,399] INFO: SUCCES : ../data/brutes\flamant_rose\8866982fde.jpg
+[2026-05-18 23:04:16,231] INFO: URL telechargee : https://th.bing.com/th/id/OIP._CAkp-noSWZmO2tJLKi_bQHaJ3?w=137&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:16,235] INFO: SUCCES : ../data/brutes\flamant_rose\7e52af07a4.jpg
+[2026-05-18 23:04:20,405] INFO: URL telechargee : https://th.bing.com/th/id/OIF.aKpGVFcXRqXZb3viqcHmlA?w=174&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:20,417] INFO: SUCCES : ../data/brutes\flamant_rose\a88bce50a1.jpg
+[2026-05-18 23:04:23,367] INFO: URL telechargee : https://th.bing.com/th/id/OIP.ztHyPp2ChtPAN4HGTzT2pAHaEr?w=282&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:23,377] INFO: SUCCES : ../data/brutes\flamant_rose\8799bce0c8.jpg
+[2026-05-18 23:04:26,975] INFO: URL telechargee : https://th.bing.com/th/id/OIP.2CAOXzyPfcohRpNF4wMhawAAAA?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:26,992] INFO: SUCCES : ../data/brutes\flamant_rose\bf28d805e0.jpg
+[2026-05-18 23:04:31,403] INFO: URL telechargee : https://th.bing.com/th/id/OIF.mlkzaBa2I4O0i920YN0SKg?w=161&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:31,407] INFO: SUCCES : ../data/brutes\flamant_rose\4374ab072d.jpg
+[2026-05-18 23:04:35,601] INFO: URL telechargee : https://th.bing.com/th/id/OIF.PC69IdQa8IXdLfMrhqMsVQ?w=293&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:35,607] INFO: SUCCES : ../data/brutes\flamant_rose\f10957c0a3.jpg
+[2026-05-18 23:04:39,318] INFO: URL telechargee : https://th.bing.com/th/id/OIP.kZvmDhdvI47pAwqp_jL3GgHaE8?w=282&h=188&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:39,334] INFO: SUCCES : ../data/brutes\flamant_rose\9eb9033c94.jpg
+[2026-05-18 23:04:43,589] INFO: URL telechargee : https://th.bing.com/th/id/OIF.RIKZCBsTiv7o5ggi9fqFJw?w=337&h=143&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:43,596] INFO: SUCCES : ../data/brutes\flamant_rose\2aa41cde0f.jpg
+[2026-05-18 23:04:46,518] INFO: URL telechargee : https://th.bing.com/th/id/OIP.7gMdR37UEl5AjYJVeKwJhgHaHa?w=157&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:46,523] INFO: SUCCES : ../data/brutes\flamant_rose\9ad910a842.jpg
+[2026-05-18 23:04:51,153] INFO: URL telechargee : https://th.bing.com/th?id=OIF.2%2fJ0J8CGNG4MD8fc9HQWsQ&w=112&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:51,163] INFO: SUCCES : ../data/brutes\flamant_rose\336c3e9eac.jpg
+[2026-05-18 23:04:55,697] INFO: URL telechargee : https://th.bing.com/th/id/OIP.syzMnfaOQCWoFr24pbBcmAHaE7?w=267&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:04:55,711] INFO: SUCCES : ../data/brutes\flamant_rose\2eece37a77.jpg
+[2026-05-18 23:05:00,585] INFO: URL telechargee : https://th.bing.com/th/id/OIF.bHLOEtNJ2JWG7jUOIBPTuw?w=313&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:00,591] INFO: SUCCES : ../data/brutes\flamant_rose\718431bc63.jpg
+[2026-05-18 23:05:03,467] INFO: URL telechargee : https://th.bing.com/th?id=OIF.ErnlgjbvT7t7%2fo4B6PFTHg&w=148&h=185&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:03,476] INFO: SUCCES : ../data/brutes\flamant_rose\8be28961e8.jpg
+[2026-05-18 23:05:07,625] INFO: URL telechargee : https://th.bing.com/th/id/OIP.F_Cop-kcPuj5bfdCOhq4BgHaFc?w=153&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:07,629] INFO: SUCCES : ../data/brutes\flamant_rose\8be220148d.jpg
+[2026-05-18 23:05:10,414] INFO: URL telechargee : https://th.bing.com/th?id=OIF.c%2bkZVxTNKfmg%2bFpO%2fM8Mug&w=180&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:10,423] INFO: SUCCES : ../data/brutes\flamant_rose\e2584ee86d.jpg
+[2026-05-18 23:05:12,841] INFO: URL telechargee : https://th.bing.com/th/id/OIP.IZJUyn07zNf7jLg-KH6RaQHaE1?w=272&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:12,846] INFO: SUCCES : ../data/brutes\flamant_rose\80d4598c47.jpg
+[2026-05-18 23:05:16,119] INFO: URL telechargee : https://th.bing.com/th?id=OIF.Xk%2bU4kuj50ESGredigx4ug&w=185&h=185&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:16,124] INFO: SUCCES : ../data/brutes\flamant_rose\7a9ebbca1a.jpg
+[2026-05-18 23:05:19,445] INFO: URL telechargee : https://th.bing.com/th/id/OIP.RsntjjTkL7dP0IQdfEqipQHaE8?w=198&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:19,450] INFO: SUCCES : ../data/brutes\flamant_rose\23908260d9.jpg
+[2026-05-18 23:05:23,667] INFO: URL telechargee : https://th.bing.com/th/id/OIF.kHVQwx9TRoSO0Rdzb8x3gw?w=333&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:23,672] INFO: SUCCES : ../data/brutes\flamant_rose\2387aaf1f0.jpg
+[2026-05-18 23:05:26,926] INFO: URL telechargee : https://th.bing.com/th/id/OIP.iLEePhXbZnIgNIzqEJiOgQHaFG?w=255&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:26,937] INFO: SUCCES : ../data/brutes\flamant_rose\949b7676ba.jpg
+[2026-05-18 23:05:31,021] INFO: URL telechargee : https://th.bing.com/th/id/OIP.waGn1xqeop1CDCXlkrt4lAAAAA?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:31,030] INFO: SUCCES : ../data/brutes\flamant_rose\bda131febd.jpg
+[2026-05-18 23:05:34,205] INFO: URL telechargee : https://th.bing.com/th?id=OIF.fe7Hnb0vs7k7zBSgId7%2bFQ&w=136&h=102&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:34,208] INFO: SUCCES : ../data/brutes\flamant_rose\355dd512af.jpg
+[2026-05-18 23:05:36,824] INFO: URL telechargee : https://th.bing.com/th/id/OIP.DnwFgrAEytNAiObsa9aaswHaLC?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:36,830] INFO: SUCCES : ../data/brutes\flamant_rose\c01f2525c7.jpg
+[2026-05-18 23:05:40,062] INFO: URL telechargee : https://th.bing.com/th/id/OIP.iS2LFksEj6dKwmTV7FZ9MAHaJ4?w=147&h=198&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:40,074] INFO: SUCCES : ../data/brutes\flamant_rose\bb993a4313.jpg
+[2026-05-18 23:05:43,910] INFO: URL telechargee : https://th.bing.com/th/id/OIP.QK5V8k42Qu5NG396rbIN-gHaHa?w=197&h=198&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:43,915] INFO: SUCCES : ../data/brutes\flamant_rose\177cf43cf1.jpg
+[2026-05-18 23:05:46,950] INFO: URL telechargee : https://th.bing.com/th/id/OIP.Yi0G3KYkgYNfJxfKlE6yCQHaE8?w=251&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:46,966] INFO: SUCCES : ../data/brutes\flamant_rose\3bdc904438.jpg
+[2026-05-18 23:05:50,407] INFO: URL telechargee : https://th.bing.com/th/id/OIP.A2gvc3C-m36tej-_31cNngHaFc?w=243&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:50,412] INFO: SUCCES : ../data/brutes\flamant_rose\cd6b7283e8.jpg
+[2026-05-18 23:05:54,252] INFO: URL telechargee : https://th.bing.com/th/id/OIP.k-XaJrsic_cpAo0JFveCOAHaHa?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:54,266] INFO: SUCCES : ../data/brutes\flamant_rose\4ed93ef14f.jpg
+[2026-05-18 23:05:57,838] INFO: URL telechargee : https://th.bing.com/th?id=OIF.NNgMEmMPp7j6VhfI%2b8Gcow&w=278&h=185&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:05:57,847] INFO: SUCCES : ../data/brutes\flamant_rose\c7b2d5147c.jpg
+[2026-05-18 23:06:00,741] INFO: URL telechargee : https://th.bing.com/th/id/OIP.5wwBpTTmQ2l9yZjsbjjhUAAAAA?w=119&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:00,745] INFO: SUCCES : ../data/brutes\flamant_rose\ef3e9d4217.jpg
+[2026-05-18 23:06:04,037] INFO: URL telechargee : https://th.bing.com/th?id=OIF.J%2fyQxM4QGhZG5NXEv73XAg&w=299&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:04,052] INFO: SUCCES : ../data/brutes\flamant_rose\f5eba9b540.jpg
+[2026-05-18 23:06:07,247] INFO: URL telechargee : https://th.bing.com/th?id=OIF.DrfAs1eqWXMzlEgIKnNW%2bQ&w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:07,269] INFO: SUCCES : ../data/brutes\flamant_rose\c1a98db648.jpg
+[2026-05-18 23:06:11,651] INFO: URL telechargee : https://th.bing.com/th/id/OIP._ji5R1dzo5FY2Wj_AmWnRgHaE7?w=268&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:11,657] INFO: SUCCES : ../data/brutes\flamant_rose\b8731ef1c2.jpg
+[2026-05-18 23:06:16,371] INFO: URL telechargee : https://th.bing.com/th/id/OIF.pLEFmq6JtBLSSkojxzlZxg?w=291&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:16,377] INFO: SUCCES : ../data/brutes\flamant_rose\a42aefb516.jpg
+[2026-05-18 23:06:24,935] INFO: URL telechargee : https://th.bing.com/th/id/OIP.aluqfKfjdL51RWyRwsTliwHaHa?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:24,943] INFO: SUCCES : ../data/brutes\flamant_rose\3759d1062c.jpg
+[2026-05-18 23:06:28,839] INFO: URL telechargee : https://th.bing.com/th/id/OIP.u3AnJdJ4RkyhDvM9aOrJFwHaG_?w=157&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:28,845] INFO: SUCCES : ../data/brutes\flamant_rose\b68cd50054.jpg
+[2026-05-18 23:06:31,436] INFO: URL telechargee : https://th.bing.com/th/id/OIP.T93_62fj7dwKn-0MfZ9JUAHaLH?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:31,449] INFO: SUCCES : ../data/brutes\flamant_rose\73947bfc58.jpg
+[2026-05-18 23:06:34,875] INFO: URL telechargee : https://th.bing.com/th/id/OIP.DudhrEmThvXH4v7JPK8IMgHaEK?w=302&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:34,909] INFO: SUCCES : ../data/brutes\flamant_rose\826ad5b01f.jpg
+[2026-05-18 23:06:38,234] INFO: URL telechargee : https://th.bing.com/th/id/OIP.qXN6ICHMv8PYjE-fm0puHwHaFc?w=223&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:38,243] INFO: SUCCES : ../data/brutes\flamant_rose\61dd4f927a.jpg
+[2026-05-18 23:06:42,291] INFO: URL telechargee : https://th.bing.com/th?id=OIF.dVc7EPO3gkX%2bbLdl6A9tIA&w=196&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:42,296] INFO: SUCCES : ../data/brutes\flamant_rose\b75f74894f.jpg
+[2026-05-18 23:06:45,907] INFO: URL telechargee : https://th.bing.com/th/id/OIP.i8ADZ19Fgjrj7ST9UV3vAwHaFj?w=251&h=188&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:45,918] INFO: SUCCES : ../data/brutes\flamant_rose\167ec508df.jpg
+[2026-05-18 23:06:50,447] INFO: URL telechargee : https://th.bing.com/th?id=OIF.UxU45PB%2faCgcvJiuXZ7nYA&w=152&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:50,543] INFO: SUCCES : ../data/brutes\flamant_rose\cf06b1a942.jpg
+[2026-05-18 23:06:53,926] INFO: URL telechargee : https://th.bing.com/th/id/OIP.QwZMLu9g-GgO8LwpK4p-3QHaE8?w=297&h=198&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:53,936] INFO: SUCCES : ../data/brutes\flamant_rose\e2e6b1ef11.jpg
+[2026-05-18 23:06:58,929] INFO: URL telechargee : https://th.bing.com/th/id/OIP.NLii-GmxIH_h4L6zOfzOZwHaEI?w=282&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:06:58,935] INFO: SUCCES : ../data/brutes\flamant_rose\ce96fa157f.jpg
+[2026-05-18 23:07:02,324] INFO: URL telechargee : https://th.bing.com/th/id/OIF.nkV62hwWbTS0QCDDTBTdsQ?w=178&h=114&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:07:02,328] INFO: SUCCES : ../data/brutes\flamant_rose\4ebc681819.jpg
+[2026-05-18 23:07:05,935] INFO: URL telechargee : https://th.bing.com/th/id/OIF.Jjh3qjVyFhfQycYrnslwMA?w=146&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:07:05,938] INFO: SUCCES : ../data/brutes\flamant_rose\a1f6d004d2.jpg
+[2026-05-18 23:07:09,021] INFO: URL telechargee : https://th.bing.com/th/id/OIF.JFmbzGLVhlDpORFwnxDakw?w=223&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:07:09,031] INFO: SUCCES : ../data/brutes\flamant_rose\8a07e61a91.jpg
+[2026-05-18 23:07:12,829] INFO: URL telechargee : https://th.bing.com/th/id/OIP.O_ea-K83EU1OcjL72i2laAHaE7?w=236&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:07:12,846] INFO: SUCCES : ../data/brutes\flamant_rose\ce583989b0.jpg
+[2026-05-18 23:07:15,968] INFO: URL telechargee : https://th.bing.com/th?id=OIF.ZS5beXNfe%2f7YibUxvLN9Yg&w=175&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:07:15,980] INFO: SUCCES : ../data/brutes\flamant_rose\2be5a4147d.jpg
+[2026-05-18 23:07:19,003] INFO: URL telechargee : https://th.bing.com/th/id/OIF.S5CSmxwjzifAMYvnnjxgug?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:07:19,009] INFO: SUCCES : ../data/brutes\flamant_rose\741a4a3e6c.jpg
+[2026-05-18 23:07:22,582] INFO: URL telechargee : https://th.bing.com/th/id/OIP.jOgnkpOjvsTu5jJXyuBKAAHaF7?w=177&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:07:22,594] INFO: SUCCES : ../data/brutes\flamant_rose\bc8cc3a4fc.jpg
+[2026-05-18 23:07:25,978] INFO: URL telechargee : https://th.bing.com/th/id/OIP.33JazD1GHdH5F734BMrUJAHaLH?w=116&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:07:25,984] INFO: SUCCES : ../data/brutes\flamant_rose\15c2537669.jpg
+[2026-05-18 23:07:27,126] INFO: --- FIN : Flamant rose | Telecharges: 131, Echoues: 0 ---
+[2026-05-18 23:07:27,126] INFO: --- DEBUT : Scraping 'Martin-pêcheur' ---
+[2026-05-18 23:14:31,751] INFO: Telechargement de 62 images
+[2026-05-18 23:14:33,771] INFO: URL telechargee : https://th.bing.com/th/id/OIP.LxCt-4wpaG3UVHc12dDtJAHaE8?w=274&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:14:33,787] INFO: SUCCES : ../data/brutes\martin-pêcheur\002d8f4d98.jpg
+[2026-05-18 23:14:37,679] INFO: URL telechargee : https://th.bing.com/th/id/OIP.NcypLNDd32VhWsz2GYo2EAHaE8?w=274&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:14:37,687] INFO: SUCCES : ../data/brutes\martin-pêcheur\49c3b26a63.jpg
+[2026-05-18 23:14:40,724] INFO: URL telechargee : https://th.bing.com/th/id/OIP.UlkWEbGhkZ-XtSek1IKppAHaE8?w=241&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:14:40,730] INFO: SUCCES : ../data/brutes\martin-pêcheur\17fb076718.jpg
+[2026-05-18 23:14:44,606] INFO: URL telechargee : https://th.bing.com/th/id/OIP.3LiKFGl-rji3jv20tojsggHaLS?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:14:44,611] INFO: SUCCES : ../data/brutes\martin-pêcheur\e0a86d7c6a.jpg
+[2026-05-18 23:14:47,876] INFO: URL telechargee : https://th.bing.com/th/id/OIP.iY7RaAoyaU483da4OzsqcgHaEK?w=275&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:14:47,895] INFO: SUCCES : ../data/brutes\martin-pêcheur\0ae90a0911.jpg
+[2026-05-18 23:14:50,322] INFO: URL telechargee : https://th.bing.com/th/id/OIP.FAPinOIuSRvoXVA_lwrsMwHaFX?w=272&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:14:50,332] INFO: SUCCES : ../data/brutes\martin-pêcheur\d27096cfa5.jpg
+[2026-05-18 23:14:54,393] INFO: URL telechargee : https://th.bing.com/th/id/OIP.zodzvgjrviL4e4SLrKx-gwHaE8?w=273&h=181&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:14:54,398] INFO: SUCCES : ../data/brutes\martin-pêcheur\d92227e232.jpg
+[2026-05-18 23:14:57,136] INFO: URL telechargee : https://th.bing.com/th/id/OIP.ucmmSjk7JNThLLeF9AiGUQHaFH?w=236&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:14:57,163] INFO: SUCCES : ../data/brutes\martin-pêcheur\8bf515f62e.jpg
+[2026-05-18 23:15:00,444] INFO: URL telechargee : https://th.bing.com/th/id/OIP.OX_2TgOG77ht9aiYfb8PxQHaE7?w=267&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:00,457] INFO: SUCCES : ../data/brutes\martin-pêcheur\459a3ee5e3.jpg
+[2026-05-18 23:15:04,581] INFO: URL telechargee : https://th.bing.com/th/id/OIP.FPn30QjC-QOZZYufc18k3wHaE-?w=241&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:04,588] INFO: SUCCES : ../data/brutes\martin-pêcheur\23c2632f3b.jpg
+[2026-05-18 23:15:08,745] INFO: URL telechargee : https://th.bing.com/th/id/OIP.-EGAxUNNg6cotYhs4uy4qAHaFD?w=265&h=181&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:08,756] INFO: SUCCES : ../data/brutes\martin-pêcheur\9f294f870b.jpg
+[2026-05-18 23:15:12,708] INFO: URL telechargee : https://th.bing.com/th/id/OIP.qw3qzMTH8R3oIm0FCZQwYgHaE9?w=241&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:12,723] INFO: SUCCES : ../data/brutes\martin-pêcheur\4b91cbc031.jpg
+[2026-05-18 23:15:16,947] INFO: URL telechargee : https://th.bing.com/th/id/OIP.BcWIbSddpaMLjVxtospZWwHaE9?w=295&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:16,963] INFO: SUCCES : ../data/brutes\martin-pêcheur\7bc96c3430.jpg
+[2026-05-18 23:15:20,674] INFO: URL telechargee : https://th.bing.com/th/id/OIP.UQ3LrUQ6JjbKMOD1-22X4AHaEK?w=311&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:20,680] INFO: SUCCES : ../data/brutes\martin-pêcheur\7917653f20.jpg
+[2026-05-18 23:15:24,301] INFO: URL telechargee : https://th.bing.com/th/id/OIP.BFYpwdZXqvzg-dohuOgyygHaE9?w=301&h=201&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:24,308] INFO: SUCCES : ../data/brutes\martin-pêcheur\f0edc69ee1.jpg
+[2026-05-18 23:15:27,238] INFO: URL telechargee : https://th.bing.com/th/id/OIP.UGJBZQHxwaKEjwr1yZtwegHaE8?w=241&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:27,245] INFO: SUCCES : ../data/brutes\martin-pêcheur\2bde7a2837.jpg
+[2026-05-18 23:15:31,793] INFO: URL telechargee : https://th.bing.com/th/id/OIP.cbSgLEaMy8_zZqED6RK25QHaFi?w=239&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:31,798] INFO: SUCCES : ../data/brutes\martin-pêcheur\783a805e7e.jpg
+[2026-05-18 23:15:35,399] INFO: URL telechargee : https://th.bing.com/th/id/OIP.jiGYl7SuoWOzxwcc3WOAHQHaHa?w=155&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:35,413] INFO: SUCCES : ../data/brutes\martin-pêcheur\e3cf468747.jpg
+[2026-05-18 23:15:38,674] INFO: URL telechargee : https://th.bing.com/th/id/OIP.J5FAvobyKLN7nrvHulohZQHaFD?w=289&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:38,679] INFO: SUCCES : ../data/brutes\martin-pêcheur\60e821998e.jpg
+[2026-05-18 23:15:42,153] INFO: URL telechargee : https://th.bing.com/th/id/OIP.t5xoP3mmwK0R5YjJgYBb3gHaLI?w=121&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:42,160] INFO: SUCCES : ../data/brutes\martin-pêcheur\4103c3674e.jpg
+[2026-05-18 23:15:45,163] INFO: URL telechargee : https://th.bing.com/th/id/OIP.3FSTHbfFYK-VlDMD2PD6mAHaFj?w=238&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:45,167] INFO: SUCCES : ../data/brutes\martin-pêcheur\6d1e01c9c9.jpg
+[2026-05-18 23:15:49,700] INFO: URL telechargee : https://th.bing.com/th/id/OIP.BlmJx1H84Xo1u8MvX_dPRQHaE8?w=273&h=181&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:49,716] INFO: SUCCES : ../data/brutes\martin-pêcheur\a00c2bf472.jpg
+[2026-05-18 23:15:52,807] INFO: URL telechargee : https://th.bing.com/th/id/OIP.r4RlONadgJ9oakQzyUdwUgHaHa?w=162&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:52,814] INFO: SUCCES : ../data/brutes\martin-pêcheur\6b8f3aab9b.jpg
+[2026-05-18 23:15:55,854] INFO: URL telechargee : https://th.bing.com/th/id/OIP.YPK35r3U_9a2908nbYeXIQHaE6?w=298&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:55,870] INFO: SUCCES : ../data/brutes\martin-pêcheur\e0cbf70eb5.jpg
+[2026-05-18 23:15:58,170] INFO: URL telechargee : https://th.bing.com/th/id/OIP.Qa-Z5v8m56FskOd-RJCM2wHaE8?w=262&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:15:58,176] INFO: SUCCES : ../data/brutes\martin-pêcheur\8f6196ed05.jpg
+[2026-05-18 23:16:01,325] INFO: URL telechargee : https://th.bing.com/th/id/OIP.qjU_38gtdPsUJArFnqkXvwHaHa?w=183&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:01,330] INFO: SUCCES : ../data/brutes\martin-pêcheur\d47d3e8e4f.jpg
+[2026-05-18 23:16:03,979] INFO: URL telechargee : https://th.bing.com/th/id/OIP.vEwdD_YebSxAdAMom66xIgHaFj?w=263&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:03,987] INFO: SUCCES : ../data/brutes\martin-pêcheur\3e1d558278.jpg
+[2026-05-18 23:16:06,460] INFO: URL telechargee : https://th.bing.com/th/id/OIP.c-jE7eYxJiAY_rvVQqg1wQHaE7?w=277&h=192&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:06,465] INFO: SUCCES : ../data/brutes\martin-pêcheur\2db9350a1c.jpg
+[2026-05-18 23:16:09,948] INFO: URL telechargee : https://th.bing.com/th/id/OIP.zpszA9xnKgVfSRwGQxqenQHaE2?w=300&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:09,965] INFO: SUCCES : ../data/brutes\martin-pêcheur\8249b4abdf.jpg
+[2026-05-18 23:16:14,284] INFO: URL telechargee : https://th.bing.com/th/id/OIP.RUZj-4uoKw4EdbyH6H-hGgHaE8?w=244&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:14,298] INFO: SUCCES : ../data/brutes\martin-pêcheur\8457fcbce1.jpg
+[2026-05-18 23:16:18,396] INFO: URL telechargee : https://th.bing.com/th/id/OIP.t6BdDvK6m4cqdFq_mJla3QHaE3?w=279&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:18,413] INFO: SUCCES : ../data/brutes\martin-pêcheur\fc8a7861c7.jpg
+[2026-05-18 23:16:22,733] INFO: URL telechargee : https://th.bing.com/th/id/OIP.0hFDif7wAewgo7I4by_8oAHaEz?w=310&h=201&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:22,741] INFO: SUCCES : ../data/brutes\martin-pêcheur\7a79b0da6f.jpg
+[2026-05-18 23:16:25,243] INFO: URL telechargee : https://th.bing.com/th/id/OIP.5DpOho9OypwHdjP3wgj66QHaLH?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:25,247] INFO: SUCCES : ../data/brutes\martin-pêcheur\50cc0516dc.jpg
+[2026-05-18 23:16:28,527] INFO: URL telechargee : https://th.bing.com/th/id/OIP.50RIFKrsVqCYSayIH1hXpQHaG7?w=191&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:28,532] INFO: SUCCES : ../data/brutes\martin-pêcheur\8cfd203da3.jpg
+[2026-05-18 23:16:33,075] INFO: URL telechargee : https://th.bing.com/th/id/OIP.PCiSTPW2YpHPT5ZksZ3LzQHaEK?w=326&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:33,085] INFO: SUCCES : ../data/brutes\martin-pêcheur\6282102693.jpg
+[2026-05-18 23:16:36,936] INFO: URL telechargee : https://th.bing.com/th/id/OIP.bN3rPkcdfWBkSTa4OoGiBQHaE8?w=262&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:36,941] INFO: SUCCES : ../data/brutes\martin-pêcheur\c1c247b7c3.jpg
+[2026-05-18 23:16:40,167] INFO: URL telechargee : https://th.bing.com/th/id/OIP.I3pwUpidfMB41dxacwkE1gHaEK?w=322&h=181&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:40,172] INFO: SUCCES : ../data/brutes\martin-pêcheur\ff42d082f7.jpg
+[2026-05-18 23:16:43,754] INFO: URL telechargee : https://th.bing.com/th/id/OIP.v9dFZMYkwNzLSJdMW23bvQHaE6?w=303&h=201&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:43,774] INFO: SUCCES : ../data/brutes\martin-pêcheur\6d793b871a.jpg
+[2026-05-18 23:16:48,016] INFO: URL telechargee : https://th.bing.com/th/id/OIP.Eh5sqmPcaV-huuuYRU_uCAHaLG?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:48,021] INFO: SUCCES : ../data/brutes\martin-pêcheur\1a91720b25.jpg
+[2026-05-18 23:16:52,108] INFO: URL telechargee : https://th.bing.com/th/id/OIP.BV6aljncrmhfk0jmx5vWGwHaLH?w=123&h=192&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:52,112] INFO: SUCCES : ../data/brutes\martin-pêcheur\6951c6c2e4.jpg
+[2026-05-18 23:16:56,868] INFO: URL telechargee : https://th.bing.com/th/id/OIP.XAsgiJlK_TD-TdtlIe1CTQHaE8?w=296&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:56,876] INFO: SUCCES : ../data/brutes\martin-pêcheur\73362c306f.jpg
+[2026-05-18 23:16:59,628] INFO: URL telechargee : https://th.bing.com/th/id/OIP.iSPKHfwoQ23IBilv8kdhLgHaE2?w=241&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:16:59,649] INFO: SUCCES : ../data/brutes\martin-pêcheur\ba6c29998a.jpg
+[2026-05-18 23:17:03,663] INFO: URL telechargee : https://th.bing.com/th/id/OIP.bVRHHTFm84O1VxleqLLbrQHaE7?w=275&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:03,684] INFO: SUCCES : ../data/brutes\martin-pêcheur\b93a5989cd.jpg
+[2026-05-18 23:17:05,948] INFO: URL telechargee : https://th.bing.com/th/id/OIP.KW0MshEpxqtpuaoYZzXoDQHaE8?w=268&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:05,956] INFO: SUCCES : ../data/brutes\martin-pêcheur\958ba394af.jpg
+[2026-05-18 23:17:10,080] INFO: URL telechargee : https://th.bing.com/th/id/OIP.ernurJEs0nPDGEEh0NrwXgHaFo?w=258&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:10,084] INFO: SUCCES : ../data/brutes\martin-pêcheur\f33e066067.jpg
+[2026-05-18 23:17:14,986] INFO: URL telechargee : https://th.bing.com/th/id/OIP.q_LLjwALeeSPzudfJerjgQHaFw?w=253&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:15,004] INFO: SUCCES : ../data/brutes\martin-pêcheur\bf1215e726.jpg
+[2026-05-18 23:17:17,491] INFO: URL telechargee : https://th.bing.com/th/id/OIP.dM28zFn3PK4W8knWh6g8ngHaFj?w=256&h=192&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:17,515] INFO: SUCCES : ../data/brutes\martin-pêcheur\529aefdcf4.jpg
+[2026-05-18 23:17:20,255] INFO: URL telechargee : https://th.bing.com/th/id/OIP.jBvRVcHIilyxWVYoxd_TLwHaHa?w=192&h=192&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:20,260] INFO: SUCCES : ../data/brutes\martin-pêcheur\094945faef.jpg
+[2026-05-18 23:17:23,954] INFO: URL telechargee : https://th.bing.com/th/id/OIP.hatQF4U5xb2f6bHhDNp4mwHaE7?w=245&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:23,960] INFO: SUCCES : ../data/brutes\martin-pêcheur\5d588df2a2.jpg
+[2026-05-18 23:17:28,538] INFO: URL telechargee : https://th.bing.com/th/id/OIP.Yr7-k_8bArZn8CrH2iOjfQHaE8?w=232&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:28,549] INFO: SUCCES : ../data/brutes\martin-pêcheur\43964810d6.jpg
+[2026-05-18 23:17:31,762] INFO: URL telechargee : https://th.bing.com/th/id/OIP.qgzQ5_E7hd6lD5UlN-tsYAHaGy?w=219&h=201&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:31,766] INFO: SUCCES : ../data/brutes\martin-pêcheur\28cf7a1b01.jpg
+[2026-05-18 23:17:35,149] INFO: URL telechargee : https://th.bing.com/th/id/OIP.o5V6BYFkzDfNDQde4wsMCQHaHa?w=161&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:35,153] INFO: SUCCES : ../data/brutes\martin-pêcheur\adabd84f18.jpg
+[2026-05-18 23:17:39,650] INFO: URL telechargee : https://th.bing.com/th/id/OIP.46RKEmExhnUlvRRTBUHK9QHaFI?w=284&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:39,660] INFO: SUCCES : ../data/brutes\martin-pêcheur\40905cfeae.jpg
+[2026-05-18 23:17:42,577] INFO: URL telechargee : https://th.bing.com/th/id/OIP.1Q7ZuDdhnrzVjngBZBI89QHaE8?w=295&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:42,591] INFO: SUCCES : ../data/brutes\martin-pêcheur\93e07fa1d8.jpg
+[2026-05-18 23:17:46,343] INFO: URL telechargee : https://th.bing.com/th/id/OIP.OTslwAq184M5ijh4fgv4tgHaE8?w=277&h=192&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:46,352] INFO: SUCCES : ../data/brutes\martin-pêcheur\77a6b62a9d.jpg
+[2026-05-18 23:17:50,212] INFO: URL telechargee : https://th.bing.com/th/id/OIP.fK1Twi3_efSR26Kk_mYKngHaHA?w=189&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:50,217] INFO: SUCCES : ../data/brutes\martin-pêcheur\41199929ae.jpg
+[2026-05-18 23:17:53,789] INFO: URL telechargee : https://th.bing.com/th/id/OIP.GiQKOVXBWrK05HwjVQ41owHaE8?w=232&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:53,800] INFO: SUCCES : ../data/brutes\martin-pêcheur\de11ca224c.jpg
+[2026-05-18 23:17:57,254] INFO: URL telechargee : https://th.bing.com/th/id/OIP.ef4Vc5WHfVpCH5z7gCbVeQHaE8?w=267&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:17:57,260] INFO: SUCCES : ../data/brutes\martin-pêcheur\2ddc4fc025.jpg
+[2026-05-18 23:18:00,295] INFO: URL telechargee : https://th.bing.com/th/id/OIP.9Tx8BEe_7b_C5McTsCYS7gHaE7?w=231&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:18:00,306] INFO: SUCCES : ../data/brutes\martin-pêcheur\06bd1a95bc.jpg
+[2026-05-18 23:18:03,771] INFO: URL telechargee : https://th.bing.com/th/id/OIP.mci5LXSCWGmWBwmHQYeJ9wHaE6?w=268&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:18:03,776] INFO: SUCCES : ../data/brutes\martin-pêcheur\0830e96829.jpg
+[2026-05-18 23:18:07,908] INFO: URL telechargee : https://th.bing.com/th/id/OIP.8WAdrgN3HKCxyqN7jzN48gHaE8?w=273&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:18:07,917] INFO: SUCCES : ../data/brutes\martin-pêcheur\a156a669f1.jpg
+[2026-05-18 23:18:11,323] INFO: URL telechargee : https://th.bing.com/th/id/OIP.rVTuvQljbr8lmiHaRc9SDAHaHa?w=175&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:18:11,329] INFO: SUCCES : ../data/brutes\martin-pêcheur\98385e6cd3.jpg
+[2026-05-18 23:18:12,150] INFO: --- FIN : Martin-pêcheur | Telecharges: 62, Echoues: 0 ---
+[2026-05-18 23:18:12,151] INFO: --- DEBUT : Scraping 'Cygne tuberculé' ---
+[2026-05-18 23:27:31,445] INFO: Telechargement de 99 images
+[2026-05-18 23:27:34,170] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.UP3QP4nFfgpJolDfGWrRQAHaE7?w=247&h=189&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:27:34,178] INFO: SUCCES : ../data/brutes\cygne_tuberculé\dbe175ee03.jpg
+[2026-05-18 23:27:37,713] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.iAq3Lc1aUtjfiroj3vZkAAHaFA?w=223&h=182&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:27:37,738] INFO: SUCCES : ../data/brutes\cygne_tuberculé\ebd3d531a6.jpg
+[2026-05-18 23:27:40,531] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.7ram2J0KvJJCcVf7p--BPQHaE9?w=283&h=190&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:27:40,537] INFO: SUCCES : ../data/brutes\cygne_tuberculé\2b61752933.jpg
+[2026-05-18 23:27:43,553] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.YJ5usPKzRcTWKD4z7Kj-SwHaDx?w=288&h=178&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:27:43,569] INFO: SUCCES : ../data/brutes\cygne_tuberculé\9320da438e.jpg
+[2026-05-18 23:27:46,186] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.BY2EuS4OKi5z5qhWIT9lmAHaE8?w=290&h=193&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:27:46,194] INFO: SUCCES : ../data/brutes\cygne_tuberculé\4a51c71157.jpg
+[2026-05-18 23:27:50,376] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.gdv1LUyqCzCHwswFntkQugHaFj?w=231&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:27:50,389] INFO: SUCCES : ../data/brutes\cygne_tuberculé\3f79b460e6.jpg
+[2026-05-18 23:27:54,570] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Pqftx3WlRcI2X5LE9gNwpgHaE8?w=284&h=189&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:27:54,580] INFO: SUCCES : ../data/brutes\cygne_tuberculé\c0343672dc.jpg
+[2026-05-18 23:27:58,517] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.YJ5usPKzRcTWKD4z7Kj-SwHaDx?w=324&h=178&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:27:58,523] INFO: SUCCES : ../data/brutes\cygne_tuberculé\e77359e074.jpg
+[2026-05-18 23:28:02,247] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.-4vVvqrOnnXp_pAE2tjO4QHaE8?w=227&h=182&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:02,252] INFO: SUCCES : ../data/brutes\cygne_tuberculé\37ca5f749e.jpg
+[2026-05-18 23:28:04,978] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.LnyWV5o0lxmPxF-GQlvd4QHaE9?w=252&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:04,983] INFO: SUCCES : ../data/brutes\cygne_tuberculé\6bc16ec726.jpg
+[2026-05-18 23:28:08,812] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.TancYzoLBQoS31JG5fAsXgHaF4?w=163&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:08,816] INFO: SUCCES : ../data/brutes\cygne_tuberculé\fe5f1635a8.jpg
+[2026-05-18 23:28:11,309] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.gZlq_3zZ2YcFDjPc3QFBLgHaFA?w=219&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:11,313] INFO: SUCCES : ../data/brutes\cygne_tuberculé\90d63daf9a.jpg
+[2026-05-18 23:28:15,199] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.tZ4k5Gy_vj5q5ilcAokQ8QHaE8?w=260&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:15,203] INFO: SUCCES : ../data/brutes\cygne_tuberculé\7010961338.jpg
+[2026-05-18 23:28:18,126] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.DMRpqQobwps0e_ZD37tMTQHaFS?w=270&h=193&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:18,135] INFO: SUCCES : ../data/brutes\cygne_tuberculé\2ca0165380.jpg
+[2026-05-18 23:28:22,537] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.4MqS2c6xoEJdzoa_dEEoDQHaIM?w=159&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:22,541] INFO: SUCCES : ../data/brutes\cygne_tuberculé\471e6cc158.jpg
+[2026-05-18 23:28:26,683] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.deFC_UrATl5Wp7c8Pq70wwHaEK?w=331&h=186&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:26,703] INFO: SUCCES : ../data/brutes\cygne_tuberculé\e3c2bbe5a7.jpg
+[2026-05-18 23:28:30,141] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.hNVX_jGxOpaB9FwOdXn-pgHaFd?w=201&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:30,146] INFO: SUCCES : ../data/brutes\cygne_tuberculé\11c4cc8d53.jpg
+[2026-05-18 23:28:33,035] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.2dp8ZvXk1oRt3QZf3Er3DgHaE5?w=270&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:33,039] INFO: SUCCES : ../data/brutes\cygne_tuberculé\06b61078e8.jpg
+[2026-05-18 23:28:36,263] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Sv86_Kz3jjpEH0vdzP06_QHaE7?w=278&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:36,269] INFO: SUCCES : ../data/brutes\cygne_tuberculé\c629235c6a.jpg
+[2026-05-18 23:28:39,380] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.FADVP7iCm44WrwUszU7BxwHaDx?w=323&h=178&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:39,388] INFO: SUCCES : ../data/brutes\cygne_tuberculé\5420d9fed4.jpg
+[2026-05-18 23:28:44,095] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.8xRENNSgF_RarP2f3fVooQHaEO?w=260&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:44,102] INFO: SUCCES : ../data/brutes\cygne_tuberculé\231b860b94.jpg
+[2026-05-18 23:28:46,926] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.U-4DXUtdAGsFNGnnaIoe_wHaFj?w=208&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:46,931] INFO: SUCCES : ../data/brutes\cygne_tuberculé\8aa29c7581.jpg
+[2026-05-18 23:28:50,433] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.EB6zV76N-lycobIxj8QXlgHaE-?w=281&h=190&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:50,439] INFO: SUCCES : ../data/brutes\cygne_tuberculé\3ab1af286b.jpg
+[2026-05-18 23:28:54,394] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.6rkcHFaN_c7AZ1FqY_kCzgHaHa?w=196&h=195&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:54,399] INFO: SUCCES : ../data/brutes\cygne_tuberculé\629e7e22fc.jpg
+[2026-05-18 23:28:57,621] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.hTMGsXHPqgoJvqUPLbzLGwHaE7?w=268&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:28:57,635] INFO: SUCCES : ../data/brutes\cygne_tuberculé\8e5e446ac6.jpg
+[2026-05-18 23:29:01,256] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.3bbXKHmQxukGZzjuyOI8KgHaE8?w=221&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:01,271] INFO: SUCCES : ../data/brutes\cygne_tuberculé\eff6d7f880.jpg
+[2026-05-18 23:29:03,349] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.MpviCdo-_SGcu5l-pxWG-QHaE9?w=278&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:03,353] INFO: SUCCES : ../data/brutes\cygne_tuberculé\a3ddee1adc.jpg
+[2026-05-18 23:29:07,608] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.uD3hFW_ueyX4huJwpG8idQHaE8?w=173&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:07,617] INFO: SUCCES : ../data/brutes\cygne_tuberculé\a1fa94d624.jpg
+[2026-05-18 23:29:12,167] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.mWySBeKNR3HZoaAvjj2WEgHaEK?w=264&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:12,173] INFO: SUCCES : ../data/brutes\cygne_tuberculé\855e68a189.jpg
+[2026-05-18 23:29:15,390] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.6BCx2db1Ef3Piw18rwmBugHaE7?w=291&h=194&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:15,395] INFO: SUCCES : ../data/brutes\cygne_tuberculé\e7036b3a4c.jpg
+[2026-05-18 23:29:18,132] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.v1hwaDhWxwJS9lenKbh9xAHaE7?w=284&h=190&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:18,150] INFO: SUCCES : ../data/brutes\cygne_tuberculé\c1ef89d98d.jpg
+[2026-05-18 23:29:21,475] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.oiVrnyzDvb1WuNFRuB4jEwHaFj?w=211&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:21,478] INFO: SUCCES : ../data/brutes\cygne_tuberculé\72f65eecb3.jpg
+[2026-05-18 23:29:24,394] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.eLSpvVNcPPuVDWn7sI2VhgHaFj?w=271&h=203&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:24,398] INFO: SUCCES : ../data/brutes\cygne_tuberculé\8a972d2f0c.jpg
+[2026-05-18 23:29:28,388] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.kAd_MESNj-Lr2eveMTM2fwHaGQ?w=211&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:28,394] INFO: SUCCES : ../data/brutes\cygne_tuberculé\2b5bc43aac.jpg
+[2026-05-18 23:29:32,432] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.RHAotLSDSeVlQucu2dw2gAHaE8?w=237&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:32,435] INFO: SUCCES : ../data/brutes\cygne_tuberculé\0743f5da70.jpg
+[2026-05-18 23:29:35,709] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.hY1B41Jy6ccxKm61lndMngHaFA?w=270&h=182&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:35,716] INFO: SUCCES : ../data/brutes\cygne_tuberculé\01c981d60b.jpg
+[2026-05-18 23:29:39,197] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Rcb5bT2HbT2S1te1c-vqsgHaFC?w=284&h=193&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:39,213] INFO: SUCCES : ../data/brutes\cygne_tuberculé\bdf93319e3.jpg
+[2026-05-18 23:29:42,617] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.hEhU6bCUkAyyfqNKPoxFDgHaE8?w=268&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:42,621] INFO: SUCCES : ../data/brutes\cygne_tuberculé\8d8e07cda3.jpg
+[2026-05-18 23:29:45,764] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.qYOncB7Kxc3WEabfIdZ8jAHaE5?w=296&h=195&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:45,769] INFO: SUCCES : ../data/brutes\cygne_tuberculé\916700911d.jpg
+[2026-05-18 23:29:49,691] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.qdbM7rQ4ey5OuHXCiW4GUwHaEN?w=313&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:49,696] INFO: SUCCES : ../data/brutes\cygne_tuberculé\dceb74eac2.jpg
+[2026-05-18 23:29:52,951] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.lNc8jr4N98rC2MNd_Byv_wHaE7?w=280&h=186&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:52,956] INFO: SUCCES : ../data/brutes\cygne_tuberculé\653296d7aa.jpg
+[2026-05-18 23:29:56,549] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.ZMUtPzN6ncJ8CbvB-MkrwgHaE7?w=279&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:56,553] INFO: SUCCES : ../data/brutes\cygne_tuberculé\f9271fcc5b.jpg
+[2026-05-18 23:29:59,431] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.ARJ_X4O1OGc3n9Uk_eFw1AHaLC?w=115&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:29:59,434] INFO: SUCCES : ../data/brutes\cygne_tuberculé\d720b7f3f8.jpg
+[2026-05-18 23:30:01,764] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.nSB1G1GD3LpQRdyXMLLdcQHaE8?w=237&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:01,768] INFO: SUCCES : ../data/brutes\cygne_tuberculé\3c09182013.jpg
+[2026-05-18 23:30:04,053] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.4-slaVSGUzihvI35csyWKQHaFj?w=252&h=189&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:04,061] INFO: SUCCES : ../data/brutes\cygne_tuberculé\24dd739c89.jpg
+[2026-05-18 23:30:07,369] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.BP1QiyGbDpOFFCFJ-nWWeQHaFI?w=249&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:07,374] INFO: SUCCES : ../data/brutes\cygne_tuberculé\dd572e95bf.jpg
+[2026-05-18 23:30:11,479] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.uFhUMOB_IcWGPYg8XAbhSwHaFj?w=271&h=204&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:11,483] INFO: SUCCES : ../data/brutes\cygne_tuberculé\29b577f97a.jpg
+[2026-05-18 23:30:14,445] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.vSDX7QFaIdmHfL8EWLWy1wHaE7?w=306&h=204&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:14,453] INFO: SUCCES : ../data/brutes\cygne_tuberculé\0e9d7baf8d.jpg
+[2026-05-18 23:30:18,759] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.pU31UWw1OHIlFDfGP8cHuQHaFj?w=272&h=204&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:18,763] INFO: SUCCES : ../data/brutes\cygne_tuberculé\6c475948a5.jpg
+[2026-05-18 23:30:23,101] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.hNVX_jGxOpaB9FwOdXn-pgHaFd?w=264&h=194&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:23,118] INFO: SUCCES : ../data/brutes\cygne_tuberculé\e0d4bbd8c1.jpg
+[2026-05-18 23:30:26,342] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.1JzTDtlIiwm7TFQabxmA9AHaFi?w=235&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:26,348] INFO: SUCCES : ../data/brutes\cygne_tuberculé\2db4149e1f.jpg
+[2026-05-18 23:30:29,944] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.6M2-PStTNYghRESmxDcZaAHaE6?w=224&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:29,948] INFO: SUCCES : ../data/brutes\cygne_tuberculé\086b13104d.jpg
+[2026-05-18 23:30:32,956] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Ucxcf64TTCQlve1rCuh20QHaFj?w=270&h=203&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:32,961] INFO: SUCCES : ../data/brutes\cygne_tuberculé\9906e9a7a3.jpg
+[2026-05-18 23:30:36,107] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.kK55Q2rSWN5IZbDEd-eOQAHaEN?w=262&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:36,116] INFO: SUCCES : ../data/brutes\cygne_tuberculé\b6100cbf86.jpg
+[2026-05-18 23:30:39,127] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.EWu43y1z_VIw3jyQighjJwHaGk?w=198&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:39,131] INFO: SUCCES : ../data/brutes\cygne_tuberculé\ce12344d83.jpg
+[2026-05-18 23:30:42,599] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.7iQouH_HdcWaArf1xsnYyQHaFK?w=292&h=203&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:42,605] INFO: SUCCES : ../data/brutes\cygne_tuberculé\fb98f890f3.jpg
+[2026-05-18 23:30:46,908] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.l5MrrAxtCVz_gznnd77POgHaFl?w=214&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:46,912] INFO: SUCCES : ../data/brutes\cygne_tuberculé\0d3a8d756a.jpg
+[2026-05-18 23:30:50,450] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.shhqZmol8fyJX9Jj1DxRwgHaE7?w=285&h=190&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:50,455] INFO: SUCCES : ../data/brutes\cygne_tuberculé\b0201cbab1.jpg
+[2026-05-18 23:30:53,995] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.SHQ7bdBZNTHH6LgDcuKePQHaE8?w=280&h=186&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:53,998] INFO: SUCCES : ../data/brutes\cygne_tuberculé\02fe23a973.jpg
+[2026-05-18 23:30:57,479] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.ZpB7i-8kvaeHweJ8KwP4bAHaEK?w=278&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:30:57,501] INFO: SUCCES : ../data/brutes\cygne_tuberculé\0dac576e92.jpg
+[2026-05-18 23:31:02,140] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.x9i9zQpkpL3bjESe2_FTwAHaEK?w=297&h=187&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:02,145] INFO: SUCCES : ../data/brutes\cygne_tuberculé\96b4770170.jpg
+[2026-05-18 23:31:04,825] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.zWEc9KMpmrIh3YaKAXhNnAHaFj?w=216&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:04,829] INFO: SUCCES : ../data/brutes\cygne_tuberculé\cbbf2ed4f5.jpg
+[2026-05-18 23:31:09,046] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Vt2brkjYPkozmBuREdGsNwHaE2?w=269&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:09,061] INFO: SUCCES : ../data/brutes\cygne_tuberculé\6cc47989d4.jpg
+[2026-05-18 23:31:12,088] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.qNQbwR8ZjHi2KmOmnK2WHQHaE8?w=214&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:12,092] INFO: SUCCES : ../data/brutes\cygne_tuberculé\18d98cde28.jpg
+[2026-05-18 23:31:15,379] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.2gSOC2Je42gjduik4AjNhwHaHa?w=195&h=194&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:15,383] INFO: SUCCES : ../data/brutes\cygne_tuberculé\522be4bbc1.jpg
+[2026-05-18 23:31:18,618] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.l1ypZDQhtvz34X3fLqT6UgHaE8?w=291&h=194&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:18,622] INFO: SUCCES : ../data/brutes\cygne_tuberculé\cd3b60e545.jpg
+[2026-05-18 23:31:21,475] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.oz4gCWLq-Q3SlD501mLiZAHaE9?w=236&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:21,480] INFO: SUCCES : ../data/brutes\cygne_tuberculé\1fe6fd3b29.jpg
+[2026-05-18 23:31:25,456] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.mr2AmsraTNSOHDqwdtFL1gHaKH?w=126&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:25,460] INFO: SUCCES : ../data/brutes\cygne_tuberculé\4c28f45b45.jpg
+[2026-05-18 23:31:28,520] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.0qzHamnMMbLAUEIUVdmY3QHaFs?w=242&h=186&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:28,528] INFO: SUCCES : ../data/brutes\cygne_tuberculé\34e0686b2f.jpg
+[2026-05-18 23:31:31,340] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.9hTNLieWs0e_Y_r9wTb2xwHaFm?w=196&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:31,344] INFO: SUCCES : ../data/brutes\cygne_tuberculé\70aab37137.jpg
+[2026-05-18 23:31:34,690] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.F9psSFfFO53VgPj5eJzAYgHaE8?w=235&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:34,695] INFO: SUCCES : ../data/brutes\cygne_tuberculé\55cb180403.jpg
+[2026-05-18 23:31:39,309] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Keqfs9gCEu0m3m-I4bIQfAHaFT?w=284&h=204&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:39,316] INFO: SUCCES : ../data/brutes\cygne_tuberculé\faf36ea697.jpg
+[2026-05-18 23:31:42,426] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.PTu256XdKTzOqGwjCxNWHAHaFd?w=228&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:42,431] INFO: SUCCES : ../data/brutes\cygne_tuberculé\f8aa022c05.jpg
+[2026-05-18 23:31:46,483] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.d1gIUj-uuw-15OwAtsieUQHaE_?w=215&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:46,490] INFO: SUCCES : ../data/brutes\cygne_tuberculé\274535f0af.jpg
+[2026-05-18 23:31:49,128] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.HrI49sqKG9Cw3yWJzHxOwgHaE7?w=264&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:49,134] INFO: SUCCES : ../data/brutes\cygne_tuberculé\8c80df991d.jpg
+[2026-05-18 23:31:52,323] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.4-slaVSGUzihvI35csyWKQHaFj?w=234&h=189&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:52,327] INFO: SUCCES : ../data/brutes\cygne_tuberculé\b60bb2812c.jpg
+[2026-05-18 23:31:55,700] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.13tyGmje3K8yHjVMjbFd0AHaFb?w=247&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:55,707] INFO: SUCCES : ../data/brutes\cygne_tuberculé\32bd65deb8.jpg
+[2026-05-18 23:31:59,589] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.LP_uk3I92hDw7IvTUUpILAHaEK?w=258&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:31:59,595] INFO: SUCCES : ../data/brutes\cygne_tuberculé\85fc52519b.jpg
+[2026-05-18 23:32:02,375] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.rr9WoteXFMt4Knbi9DjQZQHaFC?w=201&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:02,379] INFO: SUCCES : ../data/brutes\cygne_tuberculé\70b6c7af00.jpg
+[2026-05-18 23:32:05,033] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.51FbdXQDqTnPDGJg70yaTQHaD4?w=275&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:05,037] INFO: SUCCES : ../data/brutes\cygne_tuberculé\9bc358355e.jpg
+[2026-05-18 23:32:09,155] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.MnW0hStNf-NZnUevhNRz9AHaFj?w=201&h=182&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:09,159] INFO: SUCCES : ../data/brutes\cygne_tuberculé\9562dd4182.jpg
+[2026-05-18 23:32:13,653] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.ycAxmi7vEUNj-JlOcEb2XAHaE6?w=295&h=195&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:13,659] INFO: SUCCES : ../data/brutes\cygne_tuberculé\43375eac36.jpg
+[2026-05-18 23:32:16,934] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.XKIrLAjKaS-FqCkbb6tqMgHaF7?w=196&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:16,937] INFO: SUCCES : ../data/brutes\cygne_tuberculé\3e0415121c.jpg
+[2026-05-18 23:32:19,722] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP._LxHttFvbPE_KANv8hXMbwHaKH?w=115&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:19,730] INFO: SUCCES : ../data/brutes\cygne_tuberculé\51fff3db14.jpg
+[2026-05-18 23:32:22,486] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.VNPTZbrFjZrillJIrNWbWgAAAA?w=162&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:22,491] INFO: SUCCES : ../data/brutes\cygne_tuberculé\8ba38c165c.jpg
+[2026-05-18 23:32:25,470] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.n6FyRixt5Xd1x7H2LZ3oJwAAAA?w=115&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:25,473] INFO: SUCCES : ../data/brutes\cygne_tuberculé\5652de3d42.jpg
+[2026-05-18 23:32:29,092] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.sIVDW10AI8ruPt5syVQvEAHaE8?w=289&h=193&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:29,097] INFO: SUCCES : ../data/brutes\cygne_tuberculé\34e082df8d.jpg
+[2026-05-18 23:32:32,858] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.GQADS5x2FGD4v_JGFyYSlwHaFj?w=225&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:32,869] INFO: SUCCES : ../data/brutes\cygne_tuberculé\3e9ad5f46b.jpg
+[2026-05-18 23:32:36,159] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Ez3RtYNsy9lqrC-3NfAcAAHaE8?w=242&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:36,163] INFO: SUCCES : ../data/brutes\cygne_tuberculé\417ce5b284.jpg
+[2026-05-18 23:32:40,649] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.LVZzXIK27wt960TEN9tMCwHaE8?w=291&h=194&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:40,666] INFO: SUCCES : ../data/brutes\cygne_tuberculé\77af18d48e.jpg
+[2026-05-18 23:32:45,138] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.Q3nkyxxo7Yg0kRDCvP-mUQHaE8?w=236&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:45,143] INFO: SUCCES : ../data/brutes\cygne_tuberculé\4c6b20f9a1.jpg
+[2026-05-18 23:32:48,550] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.r2BXrd2aQi5dWbp5mAmMiAHaFf?w=204&h=182&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:48,554] INFO: SUCCES : ../data/brutes\cygne_tuberculé\197f32f81b.jpg
+[2026-05-18 23:32:52,629] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.RT507XQtspiE3XDdDNptrwHaEq?w=283&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:52,637] INFO: SUCCES : ../data/brutes\cygne_tuberculé\fd94274dc0.jpg
+[2026-05-18 23:32:55,396] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.sTZowzqU1x7T1Zf_OhyYUAHaFL?w=242&h=189&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:55,402] INFO: SUCCES : ../data/brutes\cygne_tuberculé\3dfa1ed2a7.jpg
+[2026-05-18 23:32:59,598] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.sFytvh-Mff7ocj62xRFmTAHaE_?w=300&h=203&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:32:59,608] INFO: SUCCES : ../data/brutes\cygne_tuberculé\7c092ae16d.jpg
+[2026-05-18 23:33:03,858] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.7l2tvf-BvPpzNkl08N-QrQHaFj?w=208&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:33:03,862] INFO: SUCCES : ../data/brutes\cygne_tuberculé\4623687ee4.jpg
+[2026-05-18 23:33:07,625] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.AfZ921P9e-KEGE3u8monDQHaE7?w=259&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:33:07,640] INFO: SUCCES : ../data/brutes\cygne_tuberculé\74fb35740d.jpg
+[2026-05-18 23:33:12,092] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.VeCj_lASbGuMZHGxYmu6oAHaF0?w=236&h=185&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:33:12,095] INFO: SUCCES : ../data/brutes\cygne_tuberculé\0b65c4aba3.jpg
+[2026-05-18 23:33:16,160] INFO: URL telechargee : https://thfvnext.bing.com/th/id/OIP.w6A9FVMIAKl8fWsNk9oreQHaFI?w=281&h=195&c=7&r=0&o=7&cb=thfvnextfalcon&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:33:16,165] INFO: SUCCES : ../data/brutes\cygne_tuberculé\1bf17a3be6.jpg
+[2026-05-18 23:33:17,294] INFO: --- FIN : Cygne tuberculé | Telecharges: 99, Echoues: 0 ---
+[2026-05-18 23:33:17,294] INFO: --- DEBUT : Scraping 'Pic vert' ---
+[2026-05-18 23:35:13,920] INFO: Telechargement de 106 images
+[2026-05-18 23:35:16,509] INFO: URL telechargee : https://th.bing.com/th/id/OIP.KGFWIA2j7C-vpOAkcVRU8gHaFj?w=231&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:16,519] INFO: SUCCES : ../data/brutes\pic_vert\c4e6fb0354.jpg
+[2026-05-18 23:35:19,789] INFO: URL telechargee : https://th.bing.com/th/id/OIP.lJzuUwLee2uDowHVg3dv3QHaE8?w=273&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:19,807] INFO: SUCCES : ../data/brutes\pic_vert\1708db2031.jpg
+[2026-05-18 23:35:25,772] INFO: URL telechargee : https://th.bing.com/th/id/OIP.dp85iZPgmi8_hEdUueMIhgHaE8?w=238&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:25,786] INFO: SUCCES : ../data/brutes\pic_vert\befc3294b3.jpg
+[2026-05-18 23:35:28,912] INFO: URL telechargee : https://th.bing.com/th/id/OIP.PXs8kUb_smjT93wRf_UspAHaFj?w=237&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:28,918] INFO: SUCCES : ../data/brutes\pic_vert\f7283d47f8.jpg
+[2026-05-18 23:35:31,438] INFO: URL telechargee : https://th.bing.com/th/id/OIP.3CKSLc9JpYjLu41ABOnxYgHaE7?w=264&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:31,445] INFO: SUCCES : ../data/brutes\pic_vert\747f996cdd.jpg
+[2026-05-18 23:35:33,943] INFO: URL telechargee : https://th.bing.com/th/id/OIP.dNnrkweufjq2WY-rmDJDygHaEc?w=192&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:33,952] INFO: SUCCES : ../data/brutes\pic_vert\2bd65bf361.jpg
+[2026-05-18 23:35:38,015] INFO: URL telechargee : https://th.bing.com/th/id/OIP._awLL-fvy4ur-LWCyCPUqgHaE8?w=263&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:38,024] INFO: SUCCES : ../data/brutes\pic_vert\69753660d5.jpg
+[2026-05-18 23:35:41,088] INFO: URL telechargee : https://th.bing.com/th/id/OIP.CH1F2sGapOO9wnhHjVgNvgHaKK?w=133&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:41,096] INFO: SUCCES : ../data/brutes\pic_vert\feb9b01d28.jpg
+[2026-05-18 23:35:45,107] INFO: URL telechargee : https://th.bing.com/th/id/OIP.fKZUJHxFsBzapdF5nZrWFQHaHa?w=214&h=204&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:45,114] INFO: SUCCES : ../data/brutes\pic_vert\315cf7df5e.jpg
+[2026-05-18 23:35:48,394] INFO: URL telechargee : https://th.bing.com/th/id/OIP.4wGYf_gPMZS3lPEjg-wlKQAAAA?w=113&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:48,400] INFO: SUCCES : ../data/brutes\pic_vert\c552dea4b6.jpg
+[2026-05-18 23:35:52,738] INFO: URL telechargee : https://th.bing.com/th/id/OIP.6Dope5bTzu4erNOCQsBOZAHaEj?w=281&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:52,744] INFO: SUCCES : ../data/brutes\pic_vert\05a8e80f86.jpg
+[2026-05-18 23:35:57,120] INFO: URL telechargee : https://th.bing.com/th/id/OIP.fXd4_WVVPtjnGmyr5vnXLQHaJQ?w=141&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:35:57,125] INFO: SUCCES : ../data/brutes\pic_vert\e625e3b189.jpg
+[2026-05-18 23:36:01,920] INFO: URL telechargee : https://th.bing.com/th/id/OIP.A8H4Wba8piOCYB2fVx7whgHaE8?w=290&h=193&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:01,926] INFO: SUCCES : ../data/brutes\pic_vert\680e5be55f.jpg
+[2026-05-18 23:36:06,641] INFO: URL telechargee : https://th.bing.com/th/id/OIP.ThZmWRG9fYVDiJYxJ-I47QHaE8?w=177&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:06,658] INFO: SUCCES : ../data/brutes\pic_vert\ce11f37292.jpg
+[2026-05-18 23:36:09,891] INFO: URL telechargee : https://th.bing.com/th/id/OIP.mYQW3OvnEN4I3V6ILTjknwHaE8?w=265&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:09,908] INFO: SUCCES : ../data/brutes\pic_vert\d4abdbcbba.jpg
+[2026-05-18 23:36:13,729] INFO: URL telechargee : https://th.bing.com/th/id/OIP.f7juA6WZYnZSjdNjmhfTLwHaJ4?w=136&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:13,743] INFO: SUCCES : ../data/brutes\pic_vert\9f8dbbaff2.jpg
+[2026-05-18 23:36:17,166] INFO: URL telechargee : https://th.bing.com/th/id/OIP.tzMD_6Bt9TuKqL8rzl6EggHaE7?w=266&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:17,184] INFO: SUCCES : ../data/brutes\pic_vert\f253593511.jpg
+[2026-05-18 23:36:20,886] INFO: URL telechargee : https://th.bing.com/th/id/OIP.MVOEBwC2-GbhYMVwVGI7igHaE8?w=252&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:20,906] INFO: SUCCES : ../data/brutes\pic_vert\b0b98a5ec1.jpg
+[2026-05-18 23:36:25,180] INFO: URL telechargee : https://th.bing.com/th/id/OIP.WvJ3_lkisO_Or8d-c5RRRAHaDt?w=188&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:25,188] INFO: SUCCES : ../data/brutes\pic_vert\e5d1466342.jpg
+[2026-05-18 23:36:29,437] INFO: URL telechargee : https://th.bing.com/th/id/OIP.bQWkecMHDcaqqboYw3mYcAHaLI?w=128&h=191&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:29,441] INFO: SUCCES : ../data/brutes\pic_vert\50b4aa38f3.jpg
+[2026-05-18 23:36:33,327] INFO: URL telechargee : https://th.bing.com/th/id/OIP.eh3ZwLGaICtp_bjTkYJYoAHaHa?w=191&h=191&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:33,330] INFO: SUCCES : ../data/brutes\pic_vert\748f537855.jpg
+[2026-05-18 23:36:36,369] INFO: URL telechargee : https://th.bing.com/th/id/OIP.tzMD_6Bt9TuKqL8rzl6EggHaE7?w=306&h=204&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:36,386] INFO: SUCCES : ../data/brutes\pic_vert\6138737f27.jpg
+[2026-05-18 23:36:39,626] INFO: URL telechargee : https://th.bing.com/th/id/OIP.N1QJYspAvo7DtK6Lor2guwHaE5?w=163&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:39,632] INFO: SUCCES : ../data/brutes\pic_vert\21217018e4.jpg
+[2026-05-18 23:36:44,114] INFO: URL telechargee : https://th.bing.com/th/id/OIP.bbxGO1IU-iD9EbW0gmcZUQHaEK?w=166&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:44,117] INFO: SUCCES : ../data/brutes\pic_vert\189ce2fa48.jpg
+[2026-05-18 23:36:48,377] INFO: URL telechargee : https://th.bing.com/th/id/OIP.EzXeBDQT93HGL24gqVeX8gHaLI?w=127&h=193&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:48,385] INFO: SUCCES : ../data/brutes\pic_vert\13d22fc8c6.jpg
+[2026-05-18 23:36:53,171] INFO: URL telechargee : https://th.bing.com/th/id/OIP.lp7I2JKQBcYdFyfernWvzAHaFc?w=192&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:53,185] INFO: SUCCES : ../data/brutes\pic_vert\717d14b328.jpg
+[2026-05-18 23:36:57,732] INFO: URL telechargee : https://th.bing.com/th/id/OIP.o6hEf3vmtoiyuutnnkN4sgHaFj?w=212&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:36:57,738] INFO: SUCCES : ../data/brutes\pic_vert\2bf511fa75.jpg
+[2026-05-18 23:37:01,645] INFO: URL telechargee : https://th.bing.com/th/id/OIP.P244j53KnZYZK3so_RqKiAHaE8?w=306&h=204&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:01,656] INFO: SUCCES : ../data/brutes\pic_vert\f97b0c4211.jpg
+[2026-05-18 23:37:04,353] INFO: URL telechargee : https://th.bing.com/th/id/OIP.jBAryGczLO-kuMB6FA85LQHaE7?w=230&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:04,360] INFO: SUCCES : ../data/brutes\pic_vert\219c8b99ed.jpg
+[2026-05-18 23:37:08,656] INFO: URL telechargee : https://th.bing.com/th/id/OIP.EuVYJgf-yy29DqN-mCBhzQHaE7?w=240&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:08,667] INFO: SUCCES : ../data/brutes\pic_vert\8b5877d872.jpg
+[2026-05-18 23:37:11,742] INFO: URL telechargee : https://th.bing.com/th/id/OIP.m8AsC3Dc2mzWgORg9DjO6AHaCJ?w=308&h=101&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:11,759] INFO: SUCCES : ../data/brutes\pic_vert\41d9647f25.jpg
+[2026-05-18 23:37:16,033] INFO: URL telechargee : https://th.bing.com/th/id/OIP.LdX3_oyhIGsT4m1Hk0tYSgHaHa?w=131&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:16,038] INFO: SUCCES : ../data/brutes\pic_vert\ea9c6a05c3.jpg
+[2026-05-18 23:37:19,239] INFO: URL telechargee : https://th.bing.com/th/id/OIP.X7r1mEA0Er4IFFyhtxW3VwHaFj?w=236&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:19,256] INFO: SUCCES : ../data/brutes\pic_vert\c65a7d8442.jpg
+[2026-05-18 23:37:22,755] INFO: URL telechargee : https://th.bing.com/th/id/OIP.dDWtzZFfxC7Q4rjHnUWiJgHaFj?w=218&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:22,765] INFO: SUCCES : ../data/brutes\pic_vert\f52fdedf31.jpg
+[2026-05-18 23:37:26,444] INFO: URL telechargee : https://th.bing.com/th/id/OIP.IbnyW00rpR4Tl1Vme60TagHaHL?w=169&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:26,448] INFO: SUCCES : ../data/brutes\pic_vert\1e37c9af50.jpg
+[2026-05-18 23:37:30,186] INFO: URL telechargee : https://th.bing.com/th/id/OIP.Tl_MwEYT9hvKfM_RAoSIaQHaHa?w=133&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:30,194] INFO: SUCCES : ../data/brutes\pic_vert\0484db6b4e.jpg
+[2026-05-18 23:37:33,364] INFO: URL telechargee : https://th.bing.com/th/id/OIP.h1j3S39aEW0gwZ8QCKGRgQHaHZ?w=136&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:33,380] INFO: SUCCES : ../data/brutes\pic_vert\52e70ef7c8.jpg
+[2026-05-18 23:37:36,790] INFO: URL telechargee : https://th.bing.com/th/id/OIP.vub_3jejvIjnTThu9r6WBQHaEK?w=224&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:36,794] INFO: SUCCES : ../data/brutes\pic_vert\29b093d5e2.jpg
+[2026-05-18 23:37:40,004] INFO: URL telechargee : https://th.bing.com/th/id/OIP.SZtuJW5PghViD2jHTVxfJgHaHa?w=173&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:40,008] INFO: SUCCES : ../data/brutes\pic_vert\cead5458d0.jpg
+[2026-05-18 23:37:42,536] INFO: URL telechargee : https://th.bing.com/th/id/OIP.iXpnDHgLXUcPacJGlUVcfgHaUA?w=116&h=191&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:42,540] INFO: SUCCES : ../data/brutes\pic_vert\0f7c864dc9.jpg
+[2026-05-18 23:37:45,795] INFO: URL telechargee : https://th.bing.com/th/id/OIP.prnBwPE5BG5fQnpqXrB0pwHaFj?w=175&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:45,800] INFO: SUCCES : ../data/brutes\pic_vert\f306643205.jpg
+[2026-05-18 23:37:49,040] INFO: URL telechargee : https://th.bing.com/th/id/OIP.OiM0fydlb0xqu0oaSH6IAAHaE7?w=289&h=193&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:49,050] INFO: SUCCES : ../data/brutes\pic_vert\6d2499f8bf.jpg
+[2026-05-18 23:37:52,555] INFO: URL telechargee : https://th.bing.com/th/id/OIP.8WDevTxcCAeWEXHq0J_DiQHaFG?w=252&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:52,562] INFO: SUCCES : ../data/brutes\pic_vert\bbbf706133.jpg
+[2026-05-18 23:37:57,014] INFO: URL telechargee : https://th.bing.com/th/id/OIP.j9kgc6a6Wmf6OXYppX7dZAHaE7?w=252&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:37:57,030] INFO: SUCCES : ../data/brutes\pic_vert\6856a3c3a0.jpg
+[2026-05-18 23:38:01,494] INFO: URL telechargee : https://th.bing.com/th/id/OIP.Cf8auB1zEIYNRIVJemZOdQHaFc?w=287&h=204&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:01,509] INFO: SUCCES : ../data/brutes\pic_vert\f779716e8d.jpg
+[2026-05-18 23:38:06,230] INFO: URL telechargee : https://th.bing.com/th/id/OIP.xTg6YpMu13vue5cKnnTavwHaFb?w=240&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:06,247] INFO: SUCCES : ../data/brutes\pic_vert\09ab6b07e7.jpg
+[2026-05-18 23:38:10,344] INFO: URL telechargee : https://th.bing.com/th/id/OIP.AGLiCfBasACsv8iDg5ThGQAAAA?w=147&h=191&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:10,350] INFO: SUCCES : ../data/brutes\pic_vert\d5a68d4e42.jpg
+[2026-05-18 23:38:13,841] INFO: URL telechargee : https://th.bing.com/th/id/OIP.SG4I7509lyEWZNBjp_qOXwHaLH?w=121&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:13,845] INFO: SUCCES : ../data/brutes\pic_vert\47d3e94fd6.jpg
+[2026-05-18 23:38:17,335] INFO: URL telechargee : https://th.bing.com/th/id/OIP.fDaZvhGigX4J8z-j6M0aygHaE8?w=201&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:17,343] INFO: SUCCES : ../data/brutes\pic_vert\cfcaf080b6.jpg
+[2026-05-18 23:38:21,465] INFO: URL telechargee : https://th.bing.com/th/id/OIP.Rk5zMNLsAV_DreAd8vLXegHaGG?w=242&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:21,478] INFO: SUCCES : ../data/brutes\pic_vert\48e020cc14.jpg
+[2026-05-18 23:38:24,563] INFO: URL telechargee : https://th.bing.com/th/id/OIP.gT6lWxalP4yFPsDatFd13wHaJK?w=135&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:24,568] INFO: SUCCES : ../data/brutes\pic_vert\e7ebc98293.jpg
+[2026-05-18 23:38:27,944] INFO: URL telechargee : https://th.bing.com/th/id/OIP.aoQ5tzzW7ScXVHlqnDF8dgHaE8?w=229&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:27,949] INFO: SUCCES : ../data/brutes\pic_vert\35cfab2bd4.jpg
+[2026-05-18 23:38:30,623] INFO: URL telechargee : https://th.bing.com/th/id/OIP.C1byF0daTCtDKxtPC9nDGAHaHa?w=159&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:30,631] INFO: SUCCES : ../data/brutes\pic_vert\fc83855a36.jpg
+[2026-05-18 23:38:34,798] INFO: URL telechargee : https://th.bing.com/th/id/OIP.EFB6rQ9dkAkyvmNcLBNB2gHaE7?w=265&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:34,807] INFO: SUCCES : ../data/brutes\pic_vert\2bbe458f90.jpg
+[2026-05-18 23:38:38,823] INFO: URL telechargee : https://th.bing.com/th/id/OIP.dcSBIZCDuiNwDLHDmWbvHwHaL4?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:38,830] INFO: SUCCES : ../data/brutes\pic_vert\ee3d1b75e9.jpg
+[2026-05-18 23:38:42,841] INFO: URL telechargee : https://th.bing.com/th/id/OIP.3m7wE2lGy6t0CtjMkc6ETwHaLI?w=128&h=194&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:42,850] INFO: SUCCES : ../data/brutes\pic_vert\5ad58065f5.jpg
+[2026-05-18 23:38:47,308] INFO: URL telechargee : https://th.bing.com/th/id/OIP.bQTXN_3cDHw_szYJgSnnywHaFS?w=213&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:47,314] INFO: SUCCES : ../data/brutes\pic_vert\fc0f9b2147.jpg
+[2026-05-18 23:38:50,679] INFO: URL telechargee : https://th.bing.com/th/id/OIP.UX4YmwDwGfkpWf9nOfyEwAAAAA?w=182&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:50,684] INFO: SUCCES : ../data/brutes\pic_vert\37ba0e0510.jpg
+[2026-05-18 23:38:55,591] INFO: URL telechargee : https://th.bing.com/th/id/OIP.vknZaghg1-wgdQv1_bE5eAHaFj?w=190&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:55,599] INFO: SUCCES : ../data/brutes\pic_vert\0dd0c55630.jpg
+[2026-05-18 23:38:59,731] INFO: URL telechargee : https://th.bing.com/th/id/OIP.f_E2G2wVN0d7GXFLly_STAHaE8?w=286&h=191&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:38:59,747] INFO: SUCCES : ../data/brutes\pic_vert\6f4fdc4196.jpg
+[2026-05-18 23:39:02,498] INFO: URL telechargee : https://th.bing.com/th/id/OIP.acGs5ngEBOH1k3P-qsU5kQAAAA?w=194&h=194&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:02,508] INFO: SUCCES : ../data/brutes\pic_vert\dec599241e.jpg
+[2026-05-18 23:39:05,800] INFO: URL telechargee : https://th.bing.com/th/id/OIP.vCrtqVOlMvhpplmCB6hCzAHaE7?w=266&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:05,817] INFO: SUCCES : ../data/brutes\pic_vert\ca56f3b70f.jpg
+[2026-05-18 23:39:09,701] INFO: URL telechargee : https://th.bing.com/th/id/OIP.-LDjNdl4M8tqol_AmxMCFQHaFj?w=219&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:09,717] INFO: SUCCES : ../data/brutes\pic_vert\d43be49a7c.jpg
+[2026-05-18 23:39:12,931] INFO: URL telechargee : https://th.bing.com/th/id/OIP.oCESTdwoseSahh-UPMyObwAAAA?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:12,941] INFO: SUCCES : ../data/brutes\pic_vert\fe49d3b29e.jpg
+[2026-05-18 23:39:17,114] INFO: URL telechargee : https://th.bing.com/th/id/OIP.4biRwuvYvZairGCBQTuLvgAAAA?w=70&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:17,117] INFO: SUCCES : ../data/brutes\pic_vert\f8a7914530.jpg
+[2026-05-18 23:39:19,693] INFO: URL telechargee : https://th.bing.com/th/id/OIP.g8r6BMLPItfdlJSPOF3Y6gHaFr?w=206&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:19,699] INFO: SUCCES : ../data/brutes\pic_vert\57f5272062.jpg
+[2026-05-18 23:39:23,576] INFO: URL telechargee : https://th.bing.com/th/id/OIP.S-wvDc3dp1xPJM-7RuvOxgHaLI?w=162&h=204&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:23,582] INFO: SUCCES : ../data/brutes\pic_vert\26a2113fd6.jpg
+[2026-05-18 23:39:27,875] INFO: URL telechargee : https://th.bing.com/th/id/OIP.E7jx5y_8zPKaqs_1Yjn2hwHaEK?w=191&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:27,884] INFO: SUCCES : ../data/brutes\pic_vert\579a10b2e8.jpg
+[2026-05-18 23:39:30,933] INFO: URL telechargee : https://th.bing.com/th/id/OIP.QEAMc_O2zPdYsn2GjbjPrgHaFY?w=293&h=204&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:30,941] INFO: SUCCES : ../data/brutes\pic_vert\128d184fbf.jpg
+[2026-05-18 23:39:33,864] INFO: URL telechargee : https://th.bing.com/th/id/OIP.bHHj9qygg__AAiiO_BjUNwHaM1?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:33,870] INFO: SUCCES : ../data/brutes\pic_vert\c8ae22aeb3.jpg
+[2026-05-18 23:39:38,040] INFO: URL telechargee : https://th.bing.com/th/id/OIP.76viCzo_ne50T8oxmT1yqQHaLH?w=115&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:38,051] INFO: SUCCES : ../data/brutes\pic_vert\99bb7e272a.jpg
+[2026-05-18 23:39:42,107] INFO: URL telechargee : https://th.bing.com/th/id/OIP.AkkqyHEO53kxzuI9ow3TzgHaE7?w=306&h=204&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:42,129] INFO: SUCCES : ../data/brutes\pic_vert\d2b1b89549.jpg
+[2026-05-18 23:39:44,844] INFO: URL telechargee : https://th.bing.com/th/id/OIP.4SXPZw9mwcSavKMlDRY76wHaLH?w=129&h=193&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:44,856] INFO: SUCCES : ../data/brutes\pic_vert\c2b59535fb.jpg
+[2026-05-18 23:39:47,724] INFO: URL telechargee : https://th.bing.com/th/id/OIP.vCrtqVOlMvhpplmCB6hCzAHaE7?w=246&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:47,742] INFO: SUCCES : ../data/brutes\pic_vert\26fa5c1a25.jpg
+[2026-05-18 23:39:51,616] INFO: URL telechargee : https://th.bing.com/th/id/OIP.QqP-mM7i1Swl3WSY1U3hFwHaE8?w=246&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:51,631] INFO: SUCCES : ../data/brutes\pic_vert\ffffa3bb3f.jpg
+[2026-05-18 23:39:56,121] INFO: URL telechargee : https://th.bing.com/th/id/OIP.A44ClWjKgMbI7r0Q4TgRuQHaFY?w=243&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:56,128] INFO: SUCCES : ../data/brutes\pic_vert\019203b121.jpg
+[2026-05-18 23:39:59,904] INFO: URL telechargee : https://th.bing.com/th/id/OIP.dU23Z2qMhV3BsOePJO46awHaFs?w=249&h=191&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:39:59,908] INFO: SUCCES : ../data/brutes\pic_vert\617427db2b.jpg
+[2026-05-18 23:40:03,710] INFO: URL telechargee : https://th.bing.com/th/id/OIP._MIJDHkmEOd4suHcCseJiQHaE5?w=247&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:03,718] INFO: SUCCES : ../data/brutes\pic_vert\8b8948da7d.jpg
+[2026-05-18 23:40:07,779] INFO: URL telechargee : https://th.bing.com/th/id/OIP.W4g94UQyV5FdKvgUMzP3vQHaE8?w=290&h=193&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:07,790] INFO: SUCCES : ../data/brutes\pic_vert\a79ecc3e30.jpg
+[2026-05-18 23:40:11,336] INFO: URL telechargee : https://th.bing.com/th/id/OIP.gxhPO8Dih-fYtVZwH-x5ngHaEK?w=267&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:11,341] INFO: SUCCES : ../data/brutes\pic_vert\089cd4c32e.jpg
+[2026-05-18 23:40:15,108] INFO: URL telechargee : https://th.bing.com/th/id/OIP.sdZfnQYnNu-cELBurKjetgHaJQ?w=130&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:15,113] INFO: SUCCES : ../data/brutes\pic_vert\bc586c3d10.jpg
+[2026-05-18 23:40:19,260] INFO: URL telechargee : https://th.bing.com/th/id/OIP.Hyj3lODcQFGWVV9JyMWD9AHaE8?w=246&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:19,265] INFO: SUCCES : ../data/brutes\pic_vert\7a608f4bac.jpg
+[2026-05-18 23:40:22,614] INFO: URL telechargee : https://th.bing.com/th/id/OIP.tAX7s9PPjJQS33aipwegTAHaJ5?w=98&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:22,619] INFO: SUCCES : ../data/brutes\pic_vert\decad4f59c.jpg
+[2026-05-18 23:40:25,381] INFO: URL telechargee : https://th.bing.com/th/id/OIP.72JnFfd-DaNEE2E5WntIaAHaE8?w=272&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:25,386] INFO: SUCCES : ../data/brutes\pic_vert\ed63e8a1a8.jpg
+[2026-05-18 23:40:29,629] INFO: URL telechargee : https://th.bing.com/th/id/OIP.uTJ8xF7ffx5BjZCzBY7YuQHaJ4?w=119&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:29,633] INFO: SUCCES : ../data/brutes\pic_vert\5e1eab9d57.jpg
+[2026-05-18 23:40:32,888] INFO: URL telechargee : https://th.bing.com/th/id/OIP.iS32s_WIbWN2e-mRLb1doAHaE8?w=209&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:32,895] INFO: SUCCES : ../data/brutes\pic_vert\960f843656.jpg
+[2026-05-18 23:40:35,607] INFO: URL telechargee : https://th.bing.com/th/id/OIP.i7yXbjUOkCvnKh8NB1CHggHaE8?w=177&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:35,609] INFO: SUCCES : ../data/brutes\pic_vert\50983fd041.jpg
+[2026-05-18 23:40:38,702] INFO: URL telechargee : https://th.bing.com/th/id/OIP.TfSNdfL7i5cZbz5oi6cXvQAAAA?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:38,707] INFO: SUCCES : ../data/brutes\pic_vert\1ae656d326.jpg
+[2026-05-18 23:40:42,485] INFO: URL telechargee : https://th.bing.com/th/id/OIP.uMgEGPv3txb701TeYJMULwHaFS?w=162&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:42,493] INFO: SUCCES : ../data/brutes\pic_vert\1c196af590.jpg
+[2026-05-18 23:40:45,833] INFO: URL telechargee : https://th.bing.com/th/id/OIP.j9kgc6a6Wmf6OXYppX7dZAHaE7?w=245&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:45,838] INFO: SUCCES : ../data/brutes\pic_vert\d4c6504cc9.jpg
+[2026-05-18 23:40:49,271] INFO: URL telechargee : https://th.bing.com/th/id/OIP.Zm3tIUrGQLR-FWeXlcygWAHaEM?w=269&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:49,278] INFO: SUCCES : ../data/brutes\pic_vert\38791f2b89.jpg
+[2026-05-18 23:40:52,234] INFO: URL telechargee : https://th.bing.com/th/id/OIP.4fe0Wq9ESMikSSWJi340hgHaFy?w=194&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:52,239] INFO: SUCCES : ../data/brutes\pic_vert\2463fc8006.jpg
+[2026-05-18 23:40:56,343] INFO: URL telechargee : https://th.bing.com/th/id/OIP.X73FJWSA1NzgWyZzATxObAHaEc?w=221&h=150&c=6&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:40:56,356] INFO: SUCCES : ../data/brutes\pic_vert\3ad93ebdc4.jpg
+[2026-05-18 23:41:00,400] INFO: URL telechargee : https://th.bing.com/th/id/OIP.trcwXQDbuQquapQWC9d4tgHaHa?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:00,407] INFO: SUCCES : ../data/brutes\pic_vert\95769b7f86.jpg
+[2026-05-18 23:41:03,954] INFO: URL telechargee : https://th.bing.com/th/id/OIP.83FaKSUB25kSoXefJZc6zAHaEj?w=318&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:03,981] INFO: SUCCES : ../data/brutes\pic_vert\7af454a2e0.jpg
+[2026-05-18 23:41:07,084] INFO: URL telechargee : https://th.bing.com/th/id/OIP.-m4ckvU3NFlvXRd8cNjCbAHaFj?w=199&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:07,095] INFO: SUCCES : ../data/brutes\pic_vert\daa7cfe386.jpg
+[2026-05-18 23:41:11,045] INFO: URL telechargee : https://th.bing.com/th/id/OIP.NWT4rf5WrwluQsRoDcgIhwHaFj?w=212&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:11,051] INFO: SUCCES : ../data/brutes\pic_vert\e8e95de51f.jpg
+[2026-05-18 23:41:13,916] INFO: URL telechargee : https://th.bing.com/th/id/OIP.31NNrwCTZ2FxVYpKgRgTTQHaE8?w=300&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:13,932] INFO: SUCCES : ../data/brutes\pic_vert\241dd37639.jpg
+[2026-05-18 23:41:17,196] INFO: URL telechargee : https://th.bing.com/th/id/OIP.3TR8RMLsp4tJDAuw_potMgHaGA?w=216&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:17,211] INFO: SUCCES : ../data/brutes\pic_vert\b451f29c23.jpg
+[2026-05-18 23:41:21,523] INFO: URL telechargee : https://th.bing.com/th/id/OIP.a-TADCbVLcNYr-X3m1gh4AHaFj?w=267&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:21,532] INFO: SUCCES : ../data/brutes\pic_vert\cd09f3c0c8.jpg
+[2026-05-18 23:41:24,764] INFO: URL telechargee : https://th.bing.com/th/id/OIP.wIw4z1sNY2Xc1YIHk7BeCgHaE8?w=291&h=194&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:24,770] INFO: SUCCES : ../data/brutes\pic_vert\4f04708653.jpg
+[2026-05-18 23:41:28,746] INFO: URL telechargee : https://th.bing.com/th/id/OIP.vzVej5MPScAknqrWECE1igHaE7?w=306&h=204&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:28,754] INFO: SUCCES : ../data/brutes\pic_vert\59cdccf997.jpg
+[2026-05-18 23:41:31,411] INFO: URL telechargee : https://th.bing.com/th/id/OIP.tyD2TAu_veoN6VhOhZLctAHaE7?w=249&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:31,416] INFO: SUCCES : ../data/brutes\pic_vert\48ac7c324a.jpg
+[2026-05-18 23:41:36,030] INFO: URL telechargee : https://th.bing.com/th/id/OIP.-NzrS-Wwcvm61jSXB_dLIAHaLI?w=117&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:36,047] INFO: SUCCES : ../data/brutes\pic_vert\71b0a4ff8e.jpg
+[2026-05-18 23:41:40,039] INFO: URL telechargee : https://th.bing.com/th/id/OIP.tyD2TAu_veoN6VhOhZLctAHaE7?w=291&h=194&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:40,047] INFO: SUCCES : ../data/brutes\pic_vert\6f0a461a60.jpg
+[2026-05-18 23:41:43,862] INFO: URL telechargee : https://th.bing.com/th/id/OIP.gT6lWxalP4yFPsDatFd13wHaJK?w=156&h=194&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3
+[2026-05-18 23:41:43,867] INFO: SUCCES : ../data/brutes\pic_vert\5270479864.jpg
+[2026-05-18 23:41:44,643] INFO: --- FIN : Pic vert | Telecharges: 106, Echoues: 0 ---
+[2026-05-18 23:41:44,644] INFO: === Scraping termine avec succes ===

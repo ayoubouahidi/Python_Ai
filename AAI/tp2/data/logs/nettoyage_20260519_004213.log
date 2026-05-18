@@ -1,0 +1,695 @@
+[2026-05-19 00:42:13,170] INFO: === DEBUT DU NETTOYAGE ===
+[2026-05-19 00:42:13,171] INFO: 
+--- Traitement : cygne_tuberculé ---
+[2026-05-19 00:42:13,171] INFO: [ETAPE 1] Suppression des doublons dans : ../data/brutes\cygne_tuberculé
+[2026-05-19 00:42:13,682] INFO: [DOUBLON] 430d6ed5b5.jpg
+[2026-05-19 00:42:13,691] INFO: [DOUBLON] 43375eac36.jpg
+[2026-05-19 00:42:13,708] INFO: [DOUBLON] 4623687ee4.jpg
+[2026-05-19 00:42:13,736] INFO: [DOUBLON] 4bf2262d3e.jpg
+[2026-05-19 00:42:13,746] INFO: [DOUBLON] 4bf5ba31a3.jpg
+[2026-05-19 00:42:13,764] INFO: [DOUBLON] 4c6b20f9a1.jpg
+[2026-05-19 00:42:13,856] INFO: [DOUBLON] 506af52a30.jpg
+[2026-05-19 00:42:13,890] INFO: [DOUBLON] 51fff3db14.jpg
+[2026-05-19 00:42:13,945] INFO: [DOUBLON] 56f840074e.jpg
+[2026-05-19 00:42:13,984] INFO: [DOUBLON] 63a18f6c0e.jpg
+[2026-05-19 00:42:14,003] INFO: [DOUBLON] 65a4d492e2.jpg
+[2026-05-19 00:42:14,025] INFO: [DOUBLON] 6bc16ec726.jpg
+[2026-05-19 00:42:14,067] INFO: [DOUBLON] 6d446486c0.jpg
+[2026-05-19 00:42:14,078] INFO: [DOUBLON] 6fea971bbe.jpg
+[2026-05-19 00:42:14,127] INFO: [DOUBLON] 72f65eecb3.jpg
+[2026-05-19 00:42:14,166] INFO: [DOUBLON] 766e7388ed.jpg
+[2026-05-19 00:42:14,177] INFO: [DOUBLON] 77af18d48e.jpg
+[2026-05-19 00:42:14,201] INFO: [DOUBLON] 7c092ae16d.jpg
+[2026-05-19 00:42:14,209] INFO: [DOUBLON] 7e316a8cd0.jpg
+[2026-05-19 00:42:14,238] INFO: [DOUBLON] 855e68a189.jpg
+[2026-05-19 00:42:14,247] INFO: [DOUBLON] 85fc52519b.jpg
+[2026-05-19 00:42:14,283] INFO: [DOUBLON] 8aa29c7581.jpg
+[2026-05-19 00:42:14,291] INFO: [DOUBLON] 8ba38c165c.jpg
+[2026-05-19 00:42:14,337] INFO: [DOUBLON] 8eeb131c32.jpg
+[2026-05-19 00:42:14,347] INFO: [DOUBLON] 8f5b17c87d.jpg
+[2026-05-19 00:42:14,357] INFO: [DOUBLON] 90d63daf9a.jpg
+[2026-05-19 00:42:14,377] INFO: [DOUBLON] 92e25c1f12.jpg
+[2026-05-19 00:42:14,395] INFO: [DOUBLON] 9562dd4182.jpg
+[2026-05-19 00:42:14,404] INFO: [DOUBLON] 96b4770170.jpg
+[2026-05-19 00:42:14,424] INFO: [DOUBLON] 9906e9a7a3.jpg
+[2026-05-19 00:42:14,432] INFO: [DOUBLON] 999636c7f8.jpg
+[2026-05-19 00:42:14,478] INFO: [DOUBLON] 9bc358355e.jpg
+[2026-05-19 00:42:14,491] INFO: [DOUBLON] 9ca75fa840.jpg
+[2026-05-19 00:42:14,499] INFO: [DOUBLON] a1fa94d624.jpg
+[2026-05-19 00:42:14,518] INFO: [DOUBLON] a3ddee1adc.jpg
+[2026-05-19 00:42:14,529] INFO: [DOUBLON] a4a1929438.jpg
+[2026-05-19 00:42:14,537] INFO: [DOUBLON] a5d93e58b0.jpg
+[2026-05-19 00:42:14,547] INFO: [DOUBLON] a632fab2d2.jpg
+[2026-05-19 00:42:14,567] INFO: [DOUBLON] a934a12a31.jpg
+[2026-05-19 00:42:14,575] INFO: [DOUBLON] ab74531f23.jpg
+[2026-05-19 00:42:14,585] INFO: [DOUBLON] ae8b1c643a.jpg
+[2026-05-19 00:42:14,602] INFO: [DOUBLON] b3399802b4.jpg
+[2026-05-19 00:42:14,632] INFO: [DOUBLON] b86dd68944.jpg
+[2026-05-19 00:42:14,640] INFO: [DOUBLON] ba26c2698b.jpg
+[2026-05-19 00:42:14,682] INFO: [DOUBLON] c0343672dc.jpg
+[2026-05-19 00:42:14,700] INFO: [DOUBLON] c3045c0953.jpg
+[2026-05-19 00:42:14,718] INFO: [DOUBLON] c4937ef682.jpg
+[2026-05-19 00:42:14,738] INFO: [DOUBLON] c7322406d7.jpg
+[2026-05-19 00:42:14,749] INFO: [DOUBLON] c9f19bb748.jpg
+[2026-05-19 00:42:14,765] INFO: [DOUBLON] ca575b2a7f.jpg
+[2026-05-19 00:42:14,787] INFO: [DOUBLON] cbec3d1fe2.jpg
+[2026-05-19 00:42:14,796] INFO: [DOUBLON] cd3b60e545.jpg
+[2026-05-19 00:42:14,814] INFO: [DOUBLON] cec0cf164c.jpg
+[2026-05-19 00:42:14,823] INFO: [DOUBLON] cfbf47ceb2.jpg
+[2026-05-19 00:42:14,844] INFO: [DOUBLON] d1fc955d0e.jpg
+[2026-05-19 00:42:14,893] INFO: [DOUBLON] d720b7f3f8.jpg
+[2026-05-19 00:42:14,905] INFO: [DOUBLON] dbe175ee03.jpg
+[2026-05-19 00:42:14,932] INFO: [DOUBLON] dd572e95bf.jpg
+[2026-05-19 00:42:14,942] INFO: [DOUBLON] ddb6b903e1.jpg
+[2026-05-19 00:42:14,971] INFO: [DOUBLON] e2432c1366.jpg
+[2026-05-19 00:42:14,981] INFO: [DOUBLON] e32f1d7961.jpg
+[2026-05-19 00:42:14,991] INFO: [DOUBLON] e3c2bbe5a7.jpg
+[2026-05-19 00:42:15,026] INFO: [DOUBLON] e6312cdfd8.jpg
+[2026-05-19 00:42:15,057] INFO: [DOUBLON] e77359e074.jpg
+[2026-05-19 00:42:15,078] INFO: [DOUBLON] ebd3d531a6.jpg
+[2026-05-19 00:42:15,089] INFO: [DOUBLON] ebd53b324d.jpg
+[2026-05-19 00:42:15,109] INFO: [DOUBLON] eff6d7f880.jpg
+[2026-05-19 00:42:15,120] INFO: [DOUBLON] f057c25bee.jpg
+[2026-05-19 00:42:15,128] INFO: [DOUBLON] f14843ab5a.jpg
+[2026-05-19 00:42:15,138] INFO: [DOUBLON] f495dfd297.jpg
+[2026-05-19 00:42:15,147] INFO: [DOUBLON] f7e57434bb.jpg
+[2026-05-19 00:42:15,155] INFO: [DOUBLON] f8aa022c05.jpg
+[2026-05-19 00:42:15,166] INFO: [DOUBLON] f9271fcc5b.jpg
+[2026-05-19 00:42:15,251] INFO: [DOUBLON] fb5fad3654.jpg
+[2026-05-19 00:42:15,261] INFO: [DOUBLON] fb98f890f3.jpg
+[2026-05-19 00:42:15,279] INFO: [DOUBLON] fd94274dc0.jpg
+[2026-05-19 00:42:15,289] INFO: [DOUBLON] fe5f1635a8.jpg
+[2026-05-19 00:42:15,291] INFO: [SUPPRIME] Doublon : 430d6ed5b5.jpg
+[2026-05-19 00:42:15,292] INFO: [SUPPRIME] Doublon : 43375eac36.jpg
+[2026-05-19 00:42:15,295] INFO: [SUPPRIME] Doublon : 4623687ee4.jpg
+[2026-05-19 00:42:15,296] INFO: [SUPPRIME] Doublon : 4bf2262d3e.jpg
+[2026-05-19 00:42:15,297] INFO: [SUPPRIME] Doublon : 4bf5ba31a3.jpg
+[2026-05-19 00:42:15,298] INFO: [SUPPRIME] Doublon : 4c6b20f9a1.jpg
+[2026-05-19 00:42:15,299] INFO: [SUPPRIME] Doublon : 506af52a30.jpg
+[2026-05-19 00:42:15,300] INFO: [SUPPRIME] Doublon : 51fff3db14.jpg
+[2026-05-19 00:42:15,301] INFO: [SUPPRIME] Doublon : 56f840074e.jpg
+[2026-05-19 00:42:15,301] INFO: [SUPPRIME] Doublon : 63a18f6c0e.jpg
+[2026-05-19 00:42:15,302] INFO: [SUPPRIME] Doublon : 65a4d492e2.jpg
+[2026-05-19 00:42:15,303] INFO: [SUPPRIME] Doublon : 6bc16ec726.jpg
+[2026-05-19 00:42:15,304] INFO: [SUPPRIME] Doublon : 6d446486c0.jpg
+[2026-05-19 00:42:15,305] INFO: [SUPPRIME] Doublon : 6fea971bbe.jpg
+[2026-05-19 00:42:15,306] INFO: [SUPPRIME] Doublon : 72f65eecb3.jpg
+[2026-05-19 00:42:15,307] INFO: [SUPPRIME] Doublon : 766e7388ed.jpg
+[2026-05-19 00:42:15,307] INFO: [SUPPRIME] Doublon : 77af18d48e.jpg
+[2026-05-19 00:42:15,308] INFO: [SUPPRIME] Doublon : 7c092ae16d.jpg
+[2026-05-19 00:42:15,309] INFO: [SUPPRIME] Doublon : 7e316a8cd0.jpg
+[2026-05-19 00:42:15,310] INFO: [SUPPRIME] Doublon : 855e68a189.jpg
+[2026-05-19 00:42:15,310] INFO: [SUPPRIME] Doublon : 85fc52519b.jpg
+[2026-05-19 00:42:15,311] INFO: [SUPPRIME] Doublon : 8aa29c7581.jpg
+[2026-05-19 00:42:15,312] INFO: [SUPPRIME] Doublon : 8ba38c165c.jpg
+[2026-05-19 00:42:15,313] INFO: [SUPPRIME] Doublon : 8eeb131c32.jpg
+[2026-05-19 00:42:15,314] INFO: [SUPPRIME] Doublon : 8f5b17c87d.jpg
+[2026-05-19 00:42:15,315] INFO: [SUPPRIME] Doublon : 90d63daf9a.jpg
+[2026-05-19 00:42:15,316] INFO: [SUPPRIME] Doublon : 92e25c1f12.jpg
+[2026-05-19 00:42:15,317] INFO: [SUPPRIME] Doublon : 9562dd4182.jpg
+[2026-05-19 00:42:15,317] INFO: [SUPPRIME] Doublon : 96b4770170.jpg
+[2026-05-19 00:42:15,318] INFO: [SUPPRIME] Doublon : 9906e9a7a3.jpg
+[2026-05-19 00:42:15,319] INFO: [SUPPRIME] Doublon : 999636c7f8.jpg
+[2026-05-19 00:42:15,319] INFO: [SUPPRIME] Doublon : 9bc358355e.jpg
+[2026-05-19 00:42:15,320] INFO: [SUPPRIME] Doublon : 9ca75fa840.jpg
+[2026-05-19 00:42:15,321] INFO: [SUPPRIME] Doublon : a1fa94d624.jpg
+[2026-05-19 00:42:15,322] INFO: [SUPPRIME] Doublon : a3ddee1adc.jpg
+[2026-05-19 00:42:15,323] INFO: [SUPPRIME] Doublon : a4a1929438.jpg
+[2026-05-19 00:42:15,325] INFO: [SUPPRIME] Doublon : a5d93e58b0.jpg
+[2026-05-19 00:42:15,326] INFO: [SUPPRIME] Doublon : a632fab2d2.jpg
+[2026-05-19 00:42:15,327] INFO: [SUPPRIME] Doublon : a934a12a31.jpg
+[2026-05-19 00:42:15,328] INFO: [SUPPRIME] Doublon : ab74531f23.jpg
+[2026-05-19 00:42:15,328] INFO: [SUPPRIME] Doublon : ae8b1c643a.jpg
+[2026-05-19 00:42:15,329] INFO: [SUPPRIME] Doublon : b3399802b4.jpg
+[2026-05-19 00:42:15,330] INFO: [SUPPRIME] Doublon : b86dd68944.jpg
+[2026-05-19 00:42:15,330] INFO: [SUPPRIME] Doublon : ba26c2698b.jpg
+[2026-05-19 00:42:15,331] INFO: [SUPPRIME] Doublon : c0343672dc.jpg
+[2026-05-19 00:42:15,332] INFO: [SUPPRIME] Doublon : c3045c0953.jpg
+[2026-05-19 00:42:15,333] INFO: [SUPPRIME] Doublon : c4937ef682.jpg
+[2026-05-19 00:42:15,334] INFO: [SUPPRIME] Doublon : c7322406d7.jpg
+[2026-05-19 00:42:15,334] INFO: [SUPPRIME] Doublon : c9f19bb748.jpg
+[2026-05-19 00:42:15,335] INFO: [SUPPRIME] Doublon : ca575b2a7f.jpg
+[2026-05-19 00:42:15,336] INFO: [SUPPRIME] Doublon : cbec3d1fe2.jpg
+[2026-05-19 00:42:15,337] INFO: [SUPPRIME] Doublon : cd3b60e545.jpg
+[2026-05-19 00:42:15,338] INFO: [SUPPRIME] Doublon : cec0cf164c.jpg
+[2026-05-19 00:42:15,339] INFO: [SUPPRIME] Doublon : cfbf47ceb2.jpg
+[2026-05-19 00:42:15,339] INFO: [SUPPRIME] Doublon : d1fc955d0e.jpg
+[2026-05-19 00:42:15,340] INFO: [SUPPRIME] Doublon : d720b7f3f8.jpg
+[2026-05-19 00:42:15,341] INFO: [SUPPRIME] Doublon : dbe175ee03.jpg
+[2026-05-19 00:42:15,342] INFO: [SUPPRIME] Doublon : dd572e95bf.jpg
+[2026-05-19 00:42:15,343] INFO: [SUPPRIME] Doublon : ddb6b903e1.jpg
+[2026-05-19 00:42:15,344] INFO: [SUPPRIME] Doublon : e2432c1366.jpg
+[2026-05-19 00:42:15,345] INFO: [SUPPRIME] Doublon : e32f1d7961.jpg
+[2026-05-19 00:42:15,346] INFO: [SUPPRIME] Doublon : e3c2bbe5a7.jpg
+[2026-05-19 00:42:15,347] INFO: [SUPPRIME] Doublon : e6312cdfd8.jpg
+[2026-05-19 00:42:15,347] INFO: [SUPPRIME] Doublon : e77359e074.jpg
+[2026-05-19 00:42:15,348] INFO: [SUPPRIME] Doublon : ebd3d531a6.jpg
+[2026-05-19 00:42:15,349] INFO: [SUPPRIME] Doublon : ebd53b324d.jpg
+[2026-05-19 00:42:15,349] INFO: [SUPPRIME] Doublon : eff6d7f880.jpg
+[2026-05-19 00:42:15,350] INFO: [SUPPRIME] Doublon : f057c25bee.jpg
+[2026-05-19 00:42:15,351] INFO: [SUPPRIME] Doublon : f14843ab5a.jpg
+[2026-05-19 00:42:15,352] INFO: [SUPPRIME] Doublon : f495dfd297.jpg
+[2026-05-19 00:42:15,353] INFO: [SUPPRIME] Doublon : f7e57434bb.jpg
+[2026-05-19 00:42:15,354] INFO: [SUPPRIME] Doublon : f8aa022c05.jpg
+[2026-05-19 00:42:15,354] INFO: [SUPPRIME] Doublon : f9271fcc5b.jpg
+[2026-05-19 00:42:15,355] INFO: [SUPPRIME] Doublon : fb5fad3654.jpg
+[2026-05-19 00:42:15,357] INFO: [SUPPRIME] Doublon : fb98f890f3.jpg
+[2026-05-19 00:42:15,358] INFO: [SUPPRIME] Doublon : fd94274dc0.jpg
+[2026-05-19 00:42:15,359] INFO: [SUPPRIME] Doublon : fe5f1635a8.jpg
+[2026-05-19 00:42:15,359] INFO: [RESULTAT] 77 doublons supprimés
+[2026-05-19 00:42:15,360] INFO: [ETAPE 2] Filtrage par taille (min 200x200) : ../data/brutes\cygne_tuberculé
+[2026-05-19 00:42:15,367] ERROR: Erreur taille 0d87220daa.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\cygne_tuberculé\\0d87220daa.jpg'
+[2026-05-19 00:42:15,372] ERROR: Erreur taille 29f878b9ab.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\cygne_tuberculé\\29f878b9ab.jpg'
+[2026-05-19 00:42:15,381] ERROR: Erreur taille 4c28f45b45.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\cygne_tuberculé\\4c28f45b45.jpg'
+[2026-05-19 00:42:15,382] ERROR: Erreur taille 5652de3d42.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\cygne_tuberculé\\5652de3d42.jpg'
+[2026-05-19 00:42:15,393] INFO: [RESULTAT] 0 images trop petites supprimées
+[2026-05-19 00:42:15,393] INFO: [ETAPE 3] Detection des images corrompues : ../data/brutes\cygne_tuberculé
+[2026-05-19 00:42:15,425] INFO: [RESULTAT] 0 images corrompues supprimées
+[2026-05-19 00:42:15,426] INFO: 
+--- Traitement : flamant_rose ---
+[2026-05-19 00:42:15,426] INFO: [ETAPE 1] Suppression des doublons dans : ../data/brutes\flamant_rose
+[2026-05-19 00:42:15,929] INFO: [DOUBLON] 3c6abb80e8.jpg
+[2026-05-19 00:42:16,293] INFO: [DOUBLON] 73947bfc58.jpg
+[2026-05-19 00:42:16,340] INFO: [DOUBLON] 78728d62a4.jpg
+[2026-05-19 00:42:16,419] INFO: [DOUBLON] 7e52af07a4.jpg
+[2026-05-19 00:42:16,613] INFO: [DOUBLON] 8c534ccf38.jpg
+[2026-05-19 00:42:16,740] INFO: [DOUBLON] 97e16a67ad.jpg
+[2026-05-19 00:42:16,852] INFO: [DOUBLON] a041d5e84f.jpg
+[2026-05-19 00:42:16,883] INFO: [DOUBLON] a1f6d004d2.jpg
+[2026-05-19 00:42:16,944] INFO: [DOUBLON] a42aefb516.jpg
+[2026-05-19 00:42:17,013] INFO: [DOUBLON] a8abe10d7d.jpg
+[2026-05-19 00:42:17,112] INFO: [DOUBLON] b15b20e05b.jpg
+[2026-05-19 00:42:17,444] INFO: [DOUBLON] e2e6b1ef11.jpg
+[2026-05-19 00:42:17,471] INFO: [DOUBLON] e5303745de.jpg
+[2026-05-19 00:42:17,487] INFO: [DOUBLON] e5ea86d2f9.jpg
+[2026-05-19 00:42:17,568] INFO: [DOUBLON] f0884b6aeb.jpg
+[2026-05-19 00:42:17,586] INFO: [DOUBLON] f4a32e1ecf.jpg
+[2026-05-19 00:42:17,685] INFO: [SUPPRIME] Doublon : 3c6abb80e8.jpg
+[2026-05-19 00:42:17,686] INFO: [SUPPRIME] Doublon : 73947bfc58.jpg
+[2026-05-19 00:42:17,686] INFO: [SUPPRIME] Doublon : 78728d62a4.jpg
+[2026-05-19 00:42:17,687] INFO: [SUPPRIME] Doublon : 7e52af07a4.jpg
+[2026-05-19 00:42:17,688] INFO: [SUPPRIME] Doublon : 8c534ccf38.jpg
+[2026-05-19 00:42:17,689] INFO: [SUPPRIME] Doublon : 97e16a67ad.jpg
+[2026-05-19 00:42:17,689] INFO: [SUPPRIME] Doublon : a041d5e84f.jpg
+[2026-05-19 00:42:17,690] INFO: [SUPPRIME] Doublon : a1f6d004d2.jpg
+[2026-05-19 00:42:17,691] INFO: [SUPPRIME] Doublon : a42aefb516.jpg
+[2026-05-19 00:42:17,691] INFO: [SUPPRIME] Doublon : a8abe10d7d.jpg
+[2026-05-19 00:42:17,692] INFO: [SUPPRIME] Doublon : b15b20e05b.jpg
+[2026-05-19 00:42:17,693] INFO: [SUPPRIME] Doublon : e2e6b1ef11.jpg
+[2026-05-19 00:42:17,694] INFO: [SUPPRIME] Doublon : e5303745de.jpg
+[2026-05-19 00:42:17,695] INFO: [SUPPRIME] Doublon : e5ea86d2f9.jpg
+[2026-05-19 00:42:17,695] INFO: [SUPPRIME] Doublon : f0884b6aeb.jpg
+[2026-05-19 00:42:17,696] INFO: [SUPPRIME] Doublon : f4a32e1ecf.jpg
+[2026-05-19 00:42:17,696] INFO: [RESULTAT] 16 doublons supprimés
+[2026-05-19 00:42:17,697] INFO: [ETAPE 2] Filtrage par taille (min 200x200) : ../data/brutes\flamant_rose
+[2026-05-19 00:42:17,699] ERROR: Erreur taille 09e0d07664.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\09e0d07664.jpg'
+[2026-05-19 00:42:17,699] ERROR: Erreur taille 0f9ac5272e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\0f9ac5272e.jpg'
+[2026-05-19 00:42:17,700] ERROR: Erreur taille 1154894585.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\1154894585.jpg'
+[2026-05-19 00:42:17,701] ERROR: Erreur taille 1497f3682e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\1497f3682e.jpg'
+[2026-05-19 00:42:17,702] ERROR: Erreur taille 15c2537669.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\15c2537669.jpg'
+[2026-05-19 00:42:17,704] ERROR: Erreur taille 2450b2e38f.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\2450b2e38f.jpg'
+[2026-05-19 00:42:17,704] ERROR: Erreur taille 24bce6ef10.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\24bce6ef10.jpg'
+[2026-05-19 00:42:17,705] ERROR: Erreur taille 256ca21a6e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\256ca21a6e.jpg'
+[2026-05-19 00:42:17,706] ERROR: Erreur taille 274a1a309b.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\274a1a309b.jpg'
+[2026-05-19 00:42:17,707] ERROR: Erreur taille 2aa41cde0f.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\2aa41cde0f.jpg'
+[2026-05-19 00:42:17,708] ERROR: Erreur taille 2d028cf6eb.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\2d028cf6eb.jpg'
+[2026-05-19 00:42:17,709] ERROR: Erreur taille 336c3e9eac.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\336c3e9eac.jpg'
+[2026-05-19 00:42:17,710] ERROR: Erreur taille 355dd512af.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\355dd512af.jpg'
+[2026-05-19 00:42:17,711] ERROR: Erreur taille 380a49f15c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\380a49f15c.jpg'
+[2026-05-19 00:42:17,712] ERROR: Erreur taille 39320fff89.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\39320fff89.jpg'
+[2026-05-19 00:42:17,714] ERROR: Erreur taille 400ea7eb99.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\400ea7eb99.jpg'
+[2026-05-19 00:42:17,716] ERROR: Erreur taille 4505bf0487.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\4505bf0487.jpg'
+[2026-05-19 00:42:17,716] ERROR: Erreur taille 45ecd3fac1.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\45ecd3fac1.jpg'
+[2026-05-19 00:42:17,717] ERROR: Erreur taille 47fa7499ac.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\47fa7499ac.jpg'
+[2026-05-19 00:42:17,718] ERROR: Erreur taille 49ffb96ca3.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\49ffb96ca3.jpg'
+[2026-05-19 00:42:17,718] ERROR: Erreur taille 4d0d99c04a.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\4d0d99c04a.jpg'
+[2026-05-19 00:42:17,719] ERROR: Erreur taille 4d296c26c9.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\4d296c26c9.jpg'
+[2026-05-19 00:42:17,720] ERROR: Erreur taille 4ebc681819.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\4ebc681819.jpg'
+[2026-05-19 00:42:17,723] ERROR: Erreur taille 6eca13700a.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\6eca13700a.jpg'
+[2026-05-19 00:42:17,724] ERROR: Erreur taille 72044fb401.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\72044fb401.jpg'
+[2026-05-19 00:42:17,725] ERROR: Erreur taille 741a4a3e6c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\741a4a3e6c.jpg'
+[2026-05-19 00:42:17,726] ERROR: Erreur taille 766e9569a3.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\766e9569a3.jpg'
+[2026-05-19 00:42:17,728] ERROR: Erreur taille 7b1aed18a0.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\7b1aed18a0.jpg'
+[2026-05-19 00:42:17,731] ERROR: Erreur taille 8be220148d.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\8be220148d.jpg'
+[2026-05-19 00:42:17,732] ERROR: Erreur taille 8be28961e8.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\8be28961e8.jpg'
+[2026-05-19 00:42:17,734] ERROR: Erreur taille 8eb76c0fa3.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\8eb76c0fa3.jpg'
+[2026-05-19 00:42:17,734] ERROR: Erreur taille 8f77c9145b.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\8f77c9145b.jpg'
+[2026-05-19 00:42:17,735] ERROR: Erreur taille 93b50bf8d7.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\93b50bf8d7.jpg'
+[2026-05-19 00:42:17,736] ERROR: Erreur taille 94445585ac.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\94445585ac.jpg'
+[2026-05-19 00:42:17,739] ERROR: Erreur taille 9dea60a2c4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\9dea60a2c4.jpg'
+[2026-05-19 00:42:17,740] ERROR: Erreur taille 9e5c2dcd80.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\9e5c2dcd80.jpg'
+[2026-05-19 00:42:17,741] ERROR: Erreur taille a3021fb8de.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\a3021fb8de.jpg'
+[2026-05-19 00:42:17,742] ERROR: Erreur taille a6131a5efe.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\a6131a5efe.jpg'
+[2026-05-19 00:42:17,744] ERROR: Erreur taille a886310fd1.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\a886310fd1.jpg'
+[2026-05-19 00:42:17,745] ERROR: Erreur taille a909551902.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\a909551902.jpg'
+[2026-05-19 00:42:17,746] ERROR: Erreur taille ab20b1df69.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\ab20b1df69.jpg'
+[2026-05-19 00:42:17,747] ERROR: Erreur taille adce2df69c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\adce2df69c.jpg'
+[2026-05-19 00:42:17,748] ERROR: Erreur taille b493b69261.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\b493b69261.jpg'
+[2026-05-19 00:42:17,750] ERROR: Erreur taille b7b5d4a16f.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\b7b5d4a16f.jpg'
+[2026-05-19 00:42:17,751] ERROR: Erreur taille bb993a4313.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\bb993a4313.jpg'
+[2026-05-19 00:42:17,752] ERROR: Erreur taille bda131febd.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\bda131febd.jpg'
+[2026-05-19 00:42:17,753] ERROR: Erreur taille bf28d805e0.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\bf28d805e0.jpg'
+[2026-05-19 00:42:17,754] ERROR: Erreur taille c01f2525c7.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\c01f2525c7.jpg'
+[2026-05-19 00:42:17,756] ERROR: Erreur taille c7ce820ab4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\c7ce820ab4.jpg'
+[2026-05-19 00:42:17,759] ERROR: Erreur taille cf06b1a942.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\cf06b1a942.jpg'
+[2026-05-19 00:42:17,761] ERROR: Erreur taille d4bdaf4096.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\d4bdaf4096.jpg'
+[2026-05-19 00:42:17,763] ERROR: Erreur taille d724492f76.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\d724492f76.jpg'
+[2026-05-19 00:42:17,765] ERROR: Erreur taille e51618d17c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\e51618d17c.jpg'
+[2026-05-19 00:42:17,767] ERROR: Erreur taille e8db9dc771.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\e8db9dc771.jpg'
+[2026-05-19 00:42:17,767] ERROR: Erreur taille e90ec1f1dd.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\e90ec1f1dd.jpg'
+[2026-05-19 00:42:17,769] ERROR: Erreur taille eb157fe42c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\eb157fe42c.jpg'
+[2026-05-19 00:42:17,770] ERROR: Erreur taille ef3e9d4217.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\ef3e9d4217.jpg'
+[2026-05-19 00:42:17,771] ERROR: Erreur taille faf9fe2bd9.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\faf9fe2bd9.jpg'
+[2026-05-19 00:42:17,774] ERROR: Erreur taille fdd53e3762.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\fdd53e3762.jpg'
+[2026-05-19 00:42:17,776] ERROR: Erreur taille fe29764298.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\flamant_rose\\fe29764298.jpg'
+[2026-05-19 00:42:17,776] INFO: [RESULTAT] 0 images trop petites supprimées
+[2026-05-19 00:42:17,776] INFO: [ETAPE 3] Detection des images corrompues : ../data/brutes\flamant_rose
+[2026-05-19 00:42:17,814] INFO: [RESULTAT] 0 images corrompues supprimées
+[2026-05-19 00:42:17,814] INFO: 
+--- Traitement : hibou_grand-duc ---
+[2026-05-19 00:42:17,814] INFO: [ETAPE 1] Suppression des doublons dans : ../data/brutes\hibou_grand-duc
+[2026-05-19 00:42:18,061] INFO: [DOUBLON] 1917d8628c.jpg
+[2026-05-19 00:42:18,102] INFO: [DOUBLON] 1e306dfed1.jpg
+[2026-05-19 00:42:18,226] INFO: [DOUBLON] 34677d3963.jpg
+[2026-05-19 00:42:18,267] INFO: [DOUBLON] 381a4fcd21.jpg
+[2026-05-19 00:42:18,332] INFO: [DOUBLON] 41caa762e2.jpg
+[2026-05-19 00:42:18,434] INFO: [DOUBLON] 4f8b1638a5.jpg
+[2026-05-19 00:42:18,454] INFO: [DOUBLON] 50e3121248.jpg
+[2026-05-19 00:42:18,470] INFO: [DOUBLON] 544e159618.jpg
+[2026-05-19 00:42:18,499] INFO: [DOUBLON] 57a91e9bce.jpg
+[2026-05-19 00:42:18,612] INFO: [DOUBLON] 66ee530ca2.jpg
+[2026-05-19 00:42:18,629] INFO: [DOUBLON] 6b689cd473.jpg
+[2026-05-19 00:42:18,673] INFO: [DOUBLON] 6f36865cbb.jpg
+[2026-05-19 00:42:18,718] INFO: [DOUBLON] 7317ee6d89.jpg
+[2026-05-19 00:42:18,737] INFO: [DOUBLON] 77bb0a921d.jpg
+[2026-05-19 00:42:18,772] INFO: [DOUBLON] 7953c49758.jpg
+[2026-05-19 00:42:18,781] INFO: [DOUBLON] 7956ebc3b1.jpg
+[2026-05-19 00:42:18,832] INFO: [DOUBLON] 7f1d36bdb4.jpg
+[2026-05-19 00:42:18,853] INFO: [DOUBLON] 81b62e6d8f.jpg
+[2026-05-19 00:42:18,871] INFO: [DOUBLON] 82e57e01eb.jpg
+[2026-05-19 00:42:18,889] INFO: [DOUBLON] 85ae317cf7.jpg
+[2026-05-19 00:42:18,909] INFO: [DOUBLON] 870e48a9a9.jpg
+[2026-05-19 00:42:18,917] INFO: [DOUBLON] 89685a0ec5.jpg
+[2026-05-19 00:42:18,926] INFO: [DOUBLON] 8a58e8a0e5.jpg
+[2026-05-19 00:42:18,946] INFO: [DOUBLON] 8b11ca61d3.jpg
+[2026-05-19 00:42:18,965] INFO: [DOUBLON] 8e3ba0d2ad.jpg
+[2026-05-19 00:42:18,976] INFO: [DOUBLON] 8ed1ded26d.jpg
+[2026-05-19 00:42:19,006] INFO: [DOUBLON] 90a148d1f2.jpg
+[2026-05-19 00:42:19,023] INFO: [DOUBLON] 92487bc13a.jpg
+[2026-05-19 00:42:19,031] INFO: [DOUBLON] 925f5b4563.jpg
+[2026-05-19 00:42:19,063] INFO: [DOUBLON] 9aa15ed1a9.jpg
+[2026-05-19 00:42:19,092] INFO: [DOUBLON] 9bb5fa46aa.jpg
+[2026-05-19 00:42:19,102] INFO: [DOUBLON] 9cff09a3af.jpg
+[2026-05-19 00:42:19,111] INFO: [DOUBLON] 9d6ceed573.jpg
+[2026-05-19 00:42:19,177] INFO: [DOUBLON] a36691e4ea.jpg
+[2026-05-19 00:42:19,186] INFO: [DOUBLON] a3a03c360e.jpg
+[2026-05-19 00:42:19,196] INFO: [DOUBLON] a3cad702c1.jpg
+[2026-05-19 00:42:19,206] INFO: [DOUBLON] a481ed948b.jpg
+[2026-05-19 00:42:19,224] INFO: [DOUBLON] a5860cccaf.jpg
+[2026-05-19 00:42:19,233] INFO: [DOUBLON] a5d83da738.jpg
+[2026-05-19 00:42:19,255] INFO: [DOUBLON] a80222b4a1.jpg
+[2026-05-19 00:42:19,265] INFO: [DOUBLON] a91605c327.jpg
+[2026-05-19 00:42:19,291] INFO: [DOUBLON] ab97c6e242.jpg
+[2026-05-19 00:42:19,309] INFO: [DOUBLON] abf5b99c19.jpg
+[2026-05-19 00:42:19,343] INFO: [DOUBLON] b35e1c433a.jpg
+[2026-05-19 00:42:19,370] INFO: [DOUBLON] b593766c14.jpg
+[2026-05-19 00:42:19,400] INFO: [DOUBLON] bbadf72d4e.jpg
+[2026-05-19 00:42:19,429] INFO: [DOUBLON] c050417ef6.jpg
+[2026-05-19 00:42:19,444] INFO: [DOUBLON] c0aed6cde2.jpg
+[2026-05-19 00:42:19,460] INFO: [DOUBLON] c176d0b35c.jpg
+[2026-05-19 00:42:19,477] INFO: [DOUBLON] c2b8f1cc23.jpg
+[2026-05-19 00:42:19,492] INFO: [DOUBLON] c375f28735.jpg
+[2026-05-19 00:42:19,517] INFO: [DOUBLON] c5e3650e5d.jpg
+[2026-05-19 00:42:19,563] INFO: [DOUBLON] c9221eef8e.jpg
+[2026-05-19 00:42:19,577] INFO: [DOUBLON] ca0669cf8f.jpg
+[2026-05-19 00:42:19,593] INFO: [DOUBLON] ca931b2397.jpg
+[2026-05-19 00:42:19,608] INFO: [DOUBLON] cd00a32b79.jpg
+[2026-05-19 00:42:19,622] INFO: [DOUBLON] cdafed236b.jpg
+[2026-05-19 00:42:19,663] INFO: [DOUBLON] d0f2747533.jpg
+[2026-05-19 00:42:19,678] INFO: [DOUBLON] d279f3b8eb.jpg
+[2026-05-19 00:42:19,691] INFO: [DOUBLON] d27a6c2cfc.jpg
+[2026-05-19 00:42:19,719] INFO: [DOUBLON] d7325d7ddc.jpg
+[2026-05-19 00:42:19,764] INFO: [DOUBLON] da1acbb51d.jpg
+[2026-05-19 00:42:19,793] INFO: [DOUBLON] da37b822e0.jpg
+[2026-05-19 00:42:19,807] INFO: [DOUBLON] dd78bc5f1b.jpg
+[2026-05-19 00:42:19,821] INFO: [DOUBLON] de1de0bfe3.jpg
+[2026-05-19 00:42:19,843] INFO: [DOUBLON] e0861bc429.jpg
+[2026-05-19 00:42:19,852] INFO: [DOUBLON] e2b6f25413.jpg
+[2026-05-19 00:42:19,864] INFO: [DOUBLON] e2d93ee6be.jpg
+[2026-05-19 00:42:19,901] INFO: [DOUBLON] e57a1906f2.jpg
+[2026-05-19 00:42:19,923] INFO: [DOUBLON] e68895f996.jpg
+[2026-05-19 00:42:19,934] INFO: [DOUBLON] e69a2a02cd.jpg
+[2026-05-19 00:42:19,947] INFO: [DOUBLON] e6d6953bd7.jpg
+[2026-05-19 00:42:19,960] INFO: [DOUBLON] e8012f7c6f.jpg
+[2026-05-19 00:42:19,973] INFO: [DOUBLON] e84e7fcb9a.jpg
+[2026-05-19 00:42:19,994] INFO: [DOUBLON] ee53454ad8.jpg
+[2026-05-19 00:42:20,008] INFO: [DOUBLON] f0380a8c52.jpg
+[2026-05-19 00:42:20,033] INFO: [DOUBLON] f3a377e3df.jpg
+[2026-05-19 00:42:20,049] INFO: [DOUBLON] f50f42fdb0.jpg
+[2026-05-19 00:42:20,067] INFO: [DOUBLON] f726071fb2.jpg
+[2026-05-19 00:42:20,077] INFO: [DOUBLON] f8df5b3d54.jpg
+[2026-05-19 00:42:20,085] INFO: [DOUBLON] f93fb5e789.jpg
+[2026-05-19 00:42:20,095] INFO: [DOUBLON] f941a0efc9.jpg
+[2026-05-19 00:42:20,113] INFO: [DOUBLON] fef395246b.jpg
+[2026-05-19 00:42:20,123] INFO: [DOUBLON] ff8a45ccae.jpg
+[2026-05-19 00:42:20,124] INFO: [SUPPRIME] Doublon : 1917d8628c.jpg
+[2026-05-19 00:42:20,125] INFO: [SUPPRIME] Doublon : 1e306dfed1.jpg
+[2026-05-19 00:42:20,126] INFO: [SUPPRIME] Doublon : 34677d3963.jpg
+[2026-05-19 00:42:20,126] INFO: [SUPPRIME] Doublon : 381a4fcd21.jpg
+[2026-05-19 00:42:20,127] INFO: [SUPPRIME] Doublon : 41caa762e2.jpg
+[2026-05-19 00:42:20,128] INFO: [SUPPRIME] Doublon : 4f8b1638a5.jpg
+[2026-05-19 00:42:20,128] INFO: [SUPPRIME] Doublon : 50e3121248.jpg
+[2026-05-19 00:42:20,129] INFO: [SUPPRIME] Doublon : 544e159618.jpg
+[2026-05-19 00:42:20,130] INFO: [SUPPRIME] Doublon : 57a91e9bce.jpg
+[2026-05-19 00:42:20,131] INFO: [SUPPRIME] Doublon : 66ee530ca2.jpg
+[2026-05-19 00:42:20,131] INFO: [SUPPRIME] Doublon : 6b689cd473.jpg
+[2026-05-19 00:42:20,132] INFO: [SUPPRIME] Doublon : 6f36865cbb.jpg
+[2026-05-19 00:42:20,132] INFO: [SUPPRIME] Doublon : 7317ee6d89.jpg
+[2026-05-19 00:42:20,133] INFO: [SUPPRIME] Doublon : 77bb0a921d.jpg
+[2026-05-19 00:42:20,134] INFO: [SUPPRIME] Doublon : 7953c49758.jpg
+[2026-05-19 00:42:20,134] INFO: [SUPPRIME] Doublon : 7956ebc3b1.jpg
+[2026-05-19 00:42:20,135] INFO: [SUPPRIME] Doublon : 7f1d36bdb4.jpg
+[2026-05-19 00:42:20,136] INFO: [SUPPRIME] Doublon : 81b62e6d8f.jpg
+[2026-05-19 00:42:20,137] INFO: [SUPPRIME] Doublon : 82e57e01eb.jpg
+[2026-05-19 00:42:20,137] INFO: [SUPPRIME] Doublon : 85ae317cf7.jpg
+[2026-05-19 00:42:20,138] INFO: [SUPPRIME] Doublon : 870e48a9a9.jpg
+[2026-05-19 00:42:20,139] INFO: [SUPPRIME] Doublon : 89685a0ec5.jpg
+[2026-05-19 00:42:20,140] INFO: [SUPPRIME] Doublon : 8a58e8a0e5.jpg
+[2026-05-19 00:42:20,141] INFO: [SUPPRIME] Doublon : 8b11ca61d3.jpg
+[2026-05-19 00:42:20,141] INFO: [SUPPRIME] Doublon : 8e3ba0d2ad.jpg
+[2026-05-19 00:42:20,142] INFO: [SUPPRIME] Doublon : 8ed1ded26d.jpg
+[2026-05-19 00:42:20,143] INFO: [SUPPRIME] Doublon : 90a148d1f2.jpg
+[2026-05-19 00:42:20,143] INFO: [SUPPRIME] Doublon : 92487bc13a.jpg
+[2026-05-19 00:42:20,144] INFO: [SUPPRIME] Doublon : 925f5b4563.jpg
+[2026-05-19 00:42:20,145] INFO: [SUPPRIME] Doublon : 9aa15ed1a9.jpg
+[2026-05-19 00:42:20,145] INFO: [SUPPRIME] Doublon : 9bb5fa46aa.jpg
+[2026-05-19 00:42:20,146] INFO: [SUPPRIME] Doublon : 9cff09a3af.jpg
+[2026-05-19 00:42:20,146] INFO: [SUPPRIME] Doublon : 9d6ceed573.jpg
+[2026-05-19 00:42:20,147] INFO: [SUPPRIME] Doublon : a36691e4ea.jpg
+[2026-05-19 00:42:20,148] INFO: [SUPPRIME] Doublon : a3a03c360e.jpg
+[2026-05-19 00:42:20,149] INFO: [SUPPRIME] Doublon : a3cad702c1.jpg
+[2026-05-19 00:42:20,149] INFO: [SUPPRIME] Doublon : a481ed948b.jpg
+[2026-05-19 00:42:20,150] INFO: [SUPPRIME] Doublon : a5860cccaf.jpg
+[2026-05-19 00:42:20,151] INFO: [SUPPRIME] Doublon : a5d83da738.jpg
+[2026-05-19 00:42:20,152] INFO: [SUPPRIME] Doublon : a80222b4a1.jpg
+[2026-05-19 00:42:20,152] INFO: [SUPPRIME] Doublon : a91605c327.jpg
+[2026-05-19 00:42:20,153] INFO: [SUPPRIME] Doublon : ab97c6e242.jpg
+[2026-05-19 00:42:20,154] INFO: [SUPPRIME] Doublon : abf5b99c19.jpg
+[2026-05-19 00:42:20,155] INFO: [SUPPRIME] Doublon : b35e1c433a.jpg
+[2026-05-19 00:42:20,156] INFO: [SUPPRIME] Doublon : b593766c14.jpg
+[2026-05-19 00:42:20,157] INFO: [SUPPRIME] Doublon : bbadf72d4e.jpg
+[2026-05-19 00:42:20,158] INFO: [SUPPRIME] Doublon : c050417ef6.jpg
+[2026-05-19 00:42:20,159] INFO: [SUPPRIME] Doublon : c0aed6cde2.jpg
+[2026-05-19 00:42:20,160] INFO: [SUPPRIME] Doublon : c176d0b35c.jpg
+[2026-05-19 00:42:20,160] INFO: [SUPPRIME] Doublon : c2b8f1cc23.jpg
+[2026-05-19 00:42:20,161] INFO: [SUPPRIME] Doublon : c375f28735.jpg
+[2026-05-19 00:42:20,162] INFO: [SUPPRIME] Doublon : c5e3650e5d.jpg
+[2026-05-19 00:42:20,162] INFO: [SUPPRIME] Doublon : c9221eef8e.jpg
+[2026-05-19 00:42:20,163] INFO: [SUPPRIME] Doublon : ca0669cf8f.jpg
+[2026-05-19 00:42:20,164] INFO: [SUPPRIME] Doublon : ca931b2397.jpg
+[2026-05-19 00:42:20,165] INFO: [SUPPRIME] Doublon : cd00a32b79.jpg
+[2026-05-19 00:42:20,165] INFO: [SUPPRIME] Doublon : cdafed236b.jpg
+[2026-05-19 00:42:20,166] INFO: [SUPPRIME] Doublon : d0f2747533.jpg
+[2026-05-19 00:42:20,167] INFO: [SUPPRIME] Doublon : d279f3b8eb.jpg
+[2026-05-19 00:42:20,168] INFO: [SUPPRIME] Doublon : d27a6c2cfc.jpg
+[2026-05-19 00:42:20,168] INFO: [SUPPRIME] Doublon : d7325d7ddc.jpg
+[2026-05-19 00:42:20,169] INFO: [SUPPRIME] Doublon : da1acbb51d.jpg
+[2026-05-19 00:42:20,170] INFO: [SUPPRIME] Doublon : da37b822e0.jpg
+[2026-05-19 00:42:20,171] INFO: [SUPPRIME] Doublon : dd78bc5f1b.jpg
+[2026-05-19 00:42:20,172] INFO: [SUPPRIME] Doublon : de1de0bfe3.jpg
+[2026-05-19 00:42:20,173] INFO: [SUPPRIME] Doublon : e0861bc429.jpg
+[2026-05-19 00:42:20,174] INFO: [SUPPRIME] Doublon : e2b6f25413.jpg
+[2026-05-19 00:42:20,175] INFO: [SUPPRIME] Doublon : e2d93ee6be.jpg
+[2026-05-19 00:42:20,175] INFO: [SUPPRIME] Doublon : e57a1906f2.jpg
+[2026-05-19 00:42:20,176] INFO: [SUPPRIME] Doublon : e68895f996.jpg
+[2026-05-19 00:42:20,177] INFO: [SUPPRIME] Doublon : e69a2a02cd.jpg
+[2026-05-19 00:42:20,178] INFO: [SUPPRIME] Doublon : e6d6953bd7.jpg
+[2026-05-19 00:42:20,179] INFO: [SUPPRIME] Doublon : e8012f7c6f.jpg
+[2026-05-19 00:42:20,179] INFO: [SUPPRIME] Doublon : e84e7fcb9a.jpg
+[2026-05-19 00:42:20,180] INFO: [SUPPRIME] Doublon : ee53454ad8.jpg
+[2026-05-19 00:42:20,181] INFO: [SUPPRIME] Doublon : f0380a8c52.jpg
+[2026-05-19 00:42:20,182] INFO: [SUPPRIME] Doublon : f3a377e3df.jpg
+[2026-05-19 00:42:20,183] INFO: [SUPPRIME] Doublon : f50f42fdb0.jpg
+[2026-05-19 00:42:20,183] INFO: [SUPPRIME] Doublon : f726071fb2.jpg
+[2026-05-19 00:42:20,184] INFO: [SUPPRIME] Doublon : f8df5b3d54.jpg
+[2026-05-19 00:42:20,185] INFO: [SUPPRIME] Doublon : f93fb5e789.jpg
+[2026-05-19 00:42:20,186] INFO: [SUPPRIME] Doublon : f941a0efc9.jpg
+[2026-05-19 00:42:20,187] INFO: [SUPPRIME] Doublon : fef395246b.jpg
+[2026-05-19 00:42:20,188] INFO: [SUPPRIME] Doublon : ff8a45ccae.jpg
+[2026-05-19 00:42:20,188] INFO: [RESULTAT] 84 doublons supprimés
+[2026-05-19 00:42:20,189] INFO: [ETAPE 2] Filtrage par taille (min 200x200) : ../data/brutes\hibou_grand-duc
+[2026-05-19 00:42:20,192] ERROR: Erreur taille 07a31a9eb0.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\07a31a9eb0.jpg'
+[2026-05-19 00:42:20,194] ERROR: Erreur taille 0970e53572.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\0970e53572.jpg'
+[2026-05-19 00:42:20,197] ERROR: Erreur taille 17a8d6dd6e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\17a8d6dd6e.jpg'
+[2026-05-19 00:42:20,197] ERROR: Erreur taille 1847d9b068.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\1847d9b068.jpg'
+[2026-05-19 00:42:20,199] ERROR: Erreur taille 1db07f99bd.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\1db07f99bd.jpg'
+[2026-05-19 00:42:20,200] ERROR: Erreur taille 22c4d978b0.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\22c4d978b0.jpg'
+[2026-05-19 00:42:20,201] ERROR: Erreur taille 2a1c6c1596.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\2a1c6c1596.jpg'
+[2026-05-19 00:42:20,202] ERROR: Erreur taille 34e1a82e2b.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\34e1a82e2b.jpg'
+[2026-05-19 00:42:20,203] ERROR: Erreur taille 3679992fc5.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\3679992fc5.jpg'
+[2026-05-19 00:42:20,204] ERROR: Erreur taille 38af0c775b.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\38af0c775b.jpg'
+[2026-05-19 00:42:20,206] ERROR: Erreur taille 3ce183f52c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\3ce183f52c.jpg'
+[2026-05-19 00:42:20,206] ERROR: Erreur taille 3dc9156f9b.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\3dc9156f9b.jpg'
+[2026-05-19 00:42:20,207] ERROR: Erreur taille 437e5669fd.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\437e5669fd.jpg'
+[2026-05-19 00:42:20,208] ERROR: Erreur taille 47a65283fb.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\47a65283fb.jpg'
+[2026-05-19 00:42:20,209] ERROR: Erreur taille 4a76e89a45.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\4a76e89a45.jpg'
+[2026-05-19 00:42:20,210] ERROR: Erreur taille 4ee15e7992.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\4ee15e7992.jpg'
+[2026-05-19 00:42:20,210] ERROR: Erreur taille 4f9e98f231.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\4f9e98f231.jpg'
+[2026-05-19 00:42:20,212] ERROR: Erreur taille 62a141a648.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\62a141a648.jpg'
+[2026-05-19 00:42:20,213] ERROR: Erreur taille 65428282c2.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\65428282c2.jpg'
+[2026-05-19 00:42:20,214] ERROR: Erreur taille 65e19dabbd.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\65e19dabbd.jpg'
+[2026-05-19 00:42:20,214] ERROR: Erreur taille 660d15f9e7.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\660d15f9e7.jpg'
+[2026-05-19 00:42:20,217] ERROR: Erreur taille 6bff832294.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\6bff832294.jpg'
+[2026-05-19 00:42:20,217] ERROR: Erreur taille 6d8f29fbb1.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\6d8f29fbb1.jpg'
+[2026-05-19 00:42:20,218] ERROR: Erreur taille 6e46eef608.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\6e46eef608.jpg'
+[2026-05-19 00:42:20,219] ERROR: Erreur taille 6f1cc3bd59.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\6f1cc3bd59.jpg'
+[2026-05-19 00:42:20,222] ERROR: Erreur taille 76ee5e1423.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\76ee5e1423.jpg'
+[2026-05-19 00:42:20,225] ERROR: Erreur taille 7ed564f0e4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\7ed564f0e4.jpg'
+[2026-05-19 00:42:20,227] ERROR: Erreur taille 8ab7e3813b.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\8ab7e3813b.jpg'
+[2026-05-19 00:42:20,228] ERROR: Erreur taille 8ff70ae806.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\8ff70ae806.jpg'
+[2026-05-19 00:42:20,230] ERROR: Erreur taille 9f6f80ad1c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\9f6f80ad1c.jpg'
+[2026-05-19 00:42:20,232] ERROR: Erreur taille a2186021f4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\a2186021f4.jpg'
+[2026-05-19 00:42:20,232] ERROR: Erreur taille a24563d869.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\a24563d869.jpg'
+[2026-05-19 00:42:20,234] ERROR: Erreur taille b1c8ef53bc.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\b1c8ef53bc.jpg'
+[2026-05-19 00:42:20,236] ERROR: Erreur taille bbf67e8be9.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\bbf67e8be9.jpg'
+[2026-05-19 00:42:20,236] ERROR: Erreur taille c5b43a7f08.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\c5b43a7f08.jpg'
+[2026-05-19 00:42:20,237] ERROR: Erreur taille c6113d8299.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\c6113d8299.jpg'
+[2026-05-19 00:42:20,239] ERROR: Erreur taille d060961076.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\d060961076.jpg'
+[2026-05-19 00:42:20,240] ERROR: Erreur taille d4fbced7be.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\d4fbced7be.jpg'
+[2026-05-19 00:42:20,241] ERROR: Erreur taille da2a79fa33.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\da2a79fa33.jpg'
+[2026-05-19 00:42:20,242] ERROR: Erreur taille e3aa68e873.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\e3aa68e873.jpg'
+[2026-05-19 00:42:20,243] ERROR: Erreur taille e55be9690f.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\e55be9690f.jpg'
+[2026-05-19 00:42:20,244] ERROR: Erreur taille e96a01b618.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\e96a01b618.jpg'
+[2026-05-19 00:42:20,244] ERROR: Erreur taille f0e53092f4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\f0e53092f4.jpg'
+[2026-05-19 00:42:20,245] ERROR: Erreur taille f587de123d.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\f587de123d.jpg'
+[2026-05-19 00:42:20,246] ERROR: Erreur taille f947768246.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_grand-duc\\f947768246.jpg'
+[2026-05-19 00:42:20,246] INFO: [RESULTAT] 0 images trop petites supprimées
+[2026-05-19 00:42:20,246] INFO: [ETAPE 3] Detection des images corrompues : ../data/brutes\hibou_grand-duc
+[2026-05-19 00:42:20,277] INFO: [RESULTAT] 0 images corrompues supprimées
+[2026-05-19 00:42:20,277] INFO: 
+--- Traitement : hibou_moyen-duc ---
+[2026-05-19 00:42:20,277] INFO: [ETAPE 1] Suppression des doublons dans : ../data/brutes\hibou_moyen-duc
+[2026-05-19 00:42:20,629] INFO: [DOUBLON] 54c6251b24.jpg
+[2026-05-19 00:42:20,998] INFO: [DOUBLON] a974b6aef1.jpg
+[2026-05-19 00:42:21,287] INFO: [SUPPRIME] Doublon : 54c6251b24.jpg
+[2026-05-19 00:42:21,288] INFO: [SUPPRIME] Doublon : a974b6aef1.jpg
+[2026-05-19 00:42:21,288] INFO: [RESULTAT] 2 doublons supprimés
+[2026-05-19 00:42:21,288] INFO: [ETAPE 2] Filtrage par taille (min 200x200) : ../data/brutes\hibou_moyen-duc
+[2026-05-19 00:42:21,290] ERROR: Erreur taille 05351c84b5.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\05351c84b5.jpg'
+[2026-05-19 00:42:21,292] ERROR: Erreur taille 0d562b1158.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\0d562b1158.jpg'
+[2026-05-19 00:42:21,292] ERROR: Erreur taille 0ebd878d6e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\0ebd878d6e.jpg'
+[2026-05-19 00:42:21,293] ERROR: Erreur taille 1292b1a81c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\1292b1a81c.jpg'
+[2026-05-19 00:42:21,294] ERROR: Erreur taille 12c1dd2171.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\12c1dd2171.jpg'
+[2026-05-19 00:42:21,295] ERROR: Erreur taille 22864c8919.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\22864c8919.jpg'
+[2026-05-19 00:42:21,296] ERROR: Erreur taille 27daf5bbcf.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\27daf5bbcf.jpg'
+[2026-05-19 00:42:21,297] ERROR: Erreur taille 3099fb8e1d.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\3099fb8e1d.jpg'
+[2026-05-19 00:42:21,297] ERROR: Erreur taille 3141fae300.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\3141fae300.jpg'
+[2026-05-19 00:42:21,300] ERROR: Erreur taille 46fc813152.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\46fc813152.jpg'
+[2026-05-19 00:42:21,301] ERROR: Erreur taille 474b599d61.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\474b599d61.jpg'
+[2026-05-19 00:42:21,302] ERROR: Erreur taille 578de906f3.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\578de906f3.jpg'
+[2026-05-19 00:42:21,303] ERROR: Erreur taille 6344fe1025.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\6344fe1025.jpg'
+[2026-05-19 00:42:21,305] ERROR: Erreur taille 700fca95a5.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\700fca95a5.jpg'
+[2026-05-19 00:42:21,306] ERROR: Erreur taille 704d3bfbb9.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\704d3bfbb9.jpg'
+[2026-05-19 00:42:21,307] ERROR: Erreur taille 78d9ffd6e1.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\78d9ffd6e1.jpg'
+[2026-05-19 00:42:21,310] ERROR: Erreur taille 8e1e8384bd.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\8e1e8384bd.jpg'
+[2026-05-19 00:42:21,311] ERROR: Erreur taille 8e6b410ce6.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\8e6b410ce6.jpg'
+[2026-05-19 00:42:21,312] ERROR: Erreur taille 939eb87a3e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\939eb87a3e.jpg'
+[2026-05-19 00:42:21,314] ERROR: Erreur taille a39425b1e6.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\a39425b1e6.jpg'
+[2026-05-19 00:42:21,316] ERROR: Erreur taille a42f7a20f9.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\a42f7a20f9.jpg'
+[2026-05-19 00:42:21,317] ERROR: Erreur taille a59d42b3fd.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\a59d42b3fd.jpg'
+[2026-05-19 00:42:21,318] ERROR: Erreur taille a8c4b18a76.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\a8c4b18a76.jpg'
+[2026-05-19 00:42:21,320] ERROR: Erreur taille b8f4392899.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\b8f4392899.jpg'
+[2026-05-19 00:42:21,322] ERROR: Erreur taille c7d4e2376b.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\c7d4e2376b.jpg'
+[2026-05-19 00:42:21,324] ERROR: Erreur taille c8f6f25111.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\c8f6f25111.jpg'
+[2026-05-19 00:42:21,325] ERROR: Erreur taille d8de35b02d.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\d8de35b02d.jpg'
+[2026-05-19 00:42:21,328] ERROR: Erreur taille f111309eaf.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_moyen-duc\\f111309eaf.jpg'
+[2026-05-19 00:42:21,329] INFO: [RESULTAT] 0 images trop petites supprimées
+[2026-05-19 00:42:21,329] INFO: [ETAPE 3] Detection des images corrompues : ../data/brutes\hibou_moyen-duc
+[2026-05-19 00:42:21,353] INFO: [RESULTAT] 0 images corrompues supprimées
+[2026-05-19 00:42:21,353] INFO: 
+--- Traitement : hibou_petit-duc ---
+[2026-05-19 00:42:21,353] INFO: [ETAPE 1] Suppression des doublons dans : ../data/brutes\hibou_petit-duc
+[2026-05-19 00:42:22,492] INFO: [DOUBLON] fdbd974c2b.jpg
+[2026-05-19 00:42:22,502] INFO: [SUPPRIME] Doublon : fdbd974c2b.jpg
+[2026-05-19 00:42:22,502] INFO: [RESULTAT] 1 doublons supprimés
+[2026-05-19 00:42:22,502] INFO: [ETAPE 2] Filtrage par taille (min 200x200) : ../data/brutes\hibou_petit-duc
+[2026-05-19 00:42:22,503] ERROR: Erreur taille 02ab49102e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\02ab49102e.jpg'
+[2026-05-19 00:42:22,506] ERROR: Erreur taille 03aad15c88.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\03aad15c88.jpg'
+[2026-05-19 00:42:22,507] ERROR: Erreur taille 0aedf3cecf.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\0aedf3cecf.jpg'
+[2026-05-19 00:42:22,511] ERROR: Erreur taille 1975cf9baf.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\1975cf9baf.jpg'
+[2026-05-19 00:42:22,511] ERROR: Erreur taille 1dc8582db6.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\1dc8582db6.jpg'
+[2026-05-19 00:42:22,512] ERROR: Erreur taille 255cee4e24.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\255cee4e24.jpg'
+[2026-05-19 00:42:22,513] ERROR: Erreur taille 25ecc69a8b.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\25ecc69a8b.jpg'
+[2026-05-19 00:42:22,514] ERROR: Erreur taille 3816fdb4ba.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\3816fdb4ba.jpg'
+[2026-05-19 00:42:22,515] ERROR: Erreur taille 3ab2713975.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\3ab2713975.jpg'
+[2026-05-19 00:42:22,517] ERROR: Erreur taille 4bb4af8c12.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\4bb4af8c12.jpg'
+[2026-05-19 00:42:22,518] ERROR: Erreur taille 4e8ac6920c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\4e8ac6920c.jpg'
+[2026-05-19 00:42:22,519] ERROR: Erreur taille 5bb82bc71b.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\5bb82bc71b.jpg'
+[2026-05-19 00:42:22,520] ERROR: Erreur taille 642e7532fc.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\642e7532fc.jpg'
+[2026-05-19 00:42:22,521] ERROR: Erreur taille 6c25594f32.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\6c25594f32.jpg'
+[2026-05-19 00:42:22,522] ERROR: Erreur taille 6d21ed4dd4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\6d21ed4dd4.jpg'
+[2026-05-19 00:42:22,526] ERROR: Erreur taille 7ac50c0843.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\7ac50c0843.jpg'
+[2026-05-19 00:42:22,527] ERROR: Erreur taille 7d26f4d4d4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\7d26f4d4d4.jpg'
+[2026-05-19 00:42:22,528] ERROR: Erreur taille 838dc8684e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\838dc8684e.jpg'
+[2026-05-19 00:42:22,529] ERROR: Erreur taille 862949e585.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\862949e585.jpg'
+[2026-05-19 00:42:22,532] ERROR: Erreur taille 8fe07bd6d8.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\8fe07bd6d8.jpg'
+[2026-05-19 00:42:22,534] ERROR: Erreur taille a1fc13a6a2.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\a1fc13a6a2.jpg'
+[2026-05-19 00:42:22,535] ERROR: Erreur taille a835ea65d8.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\a835ea65d8.jpg'
+[2026-05-19 00:42:22,536] ERROR: Erreur taille ac8a04d889.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\ac8a04d889.jpg'
+[2026-05-19 00:42:22,541] ERROR: Erreur taille c7a1e74b05.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\c7a1e74b05.jpg'
+[2026-05-19 00:42:22,543] ERROR: Erreur taille caa99dc236.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\caa99dc236.jpg'
+[2026-05-19 00:42:22,549] ERROR: Erreur taille fa9e700fa8.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\fa9e700fa8.jpg'
+[2026-05-19 00:42:22,551] ERROR: Erreur taille fe06ede9a8.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\hibou_petit-duc\\fe06ede9a8.jpg'
+[2026-05-19 00:42:22,551] INFO: [RESULTAT] 0 images trop petites supprimées
+[2026-05-19 00:42:22,551] INFO: [ETAPE 3] Detection des images corrompues : ../data/brutes\hibou_petit-duc
+[2026-05-19 00:42:22,586] INFO: [RESULTAT] 0 images corrompues supprimées
+[2026-05-19 00:42:22,586] INFO: 
+--- Traitement : martin-pêcheur ---
+[2026-05-19 00:42:22,586] INFO: [ETAPE 1] Suppression des doublons dans : ../data/brutes\martin-pêcheur
+[2026-05-19 00:42:23,323] INFO: [RESULTAT] 0 doublons supprimés
+[2026-05-19 00:42:23,324] INFO: [ETAPE 2] Filtrage par taille (min 200x200) : ../data/brutes\martin-pêcheur
+[2026-05-19 00:42:23,326] ERROR: Erreur taille 1a91720b25.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\martin-pêcheur\\1a91720b25.jpg'
+[2026-05-19 00:42:23,327] ERROR: Erreur taille 4103c3674e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\martin-pêcheur\\4103c3674e.jpg'
+[2026-05-19 00:42:23,329] ERROR: Erreur taille 50cc0516dc.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\martin-pêcheur\\50cc0516dc.jpg'
+[2026-05-19 00:42:23,330] ERROR: Erreur taille 6951c6c2e4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\martin-pêcheur\\6951c6c2e4.jpg'
+[2026-05-19 00:42:23,335] ERROR: Erreur taille e0a86d7c6a.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\martin-pêcheur\\e0a86d7c6a.jpg'
+[2026-05-19 00:42:23,337] INFO: [RESULTAT] 0 images trop petites supprimées
+[2026-05-19 00:42:23,337] INFO: [ETAPE 3] Detection des images corrompues : ../data/brutes\martin-pêcheur
+[2026-05-19 00:42:23,346] INFO: [RESULTAT] 0 images corrompues supprimées
+[2026-05-19 00:42:23,346] INFO: 
+--- Traitement : pic_vert ---
+[2026-05-19 00:42:23,346] INFO: [ETAPE 1] Suppression des doublons dans : ../data/brutes\pic_vert
+[2026-05-19 00:42:24,041] INFO: [DOUBLON] 47d3e94fd6.jpg
+[2026-05-19 00:42:24,214] INFO: [DOUBLON] 5e1eab9d57.jpg
+[2026-05-19 00:42:24,533] INFO: [DOUBLON] 7f8f8359aa.jpg
+[2026-05-19 00:42:24,618] INFO: [DOUBLON] 839d83e45b.jpg
+[2026-05-19 00:42:24,828] INFO: [DOUBLON] 9b8a7b4ac2.jpg
+[2026-05-19 00:42:25,215] INFO: [DOUBLON] c87787be49.jpg
+[2026-05-19 00:42:25,378] INFO: [DOUBLON] d4c6504cc9.jpg
+[2026-05-19 00:42:25,497] INFO: [DOUBLON] e7ebc98293.jpg
+[2026-05-19 00:42:25,712] INFO: [SUPPRIME] Doublon : 47d3e94fd6.jpg
+[2026-05-19 00:42:25,713] INFO: [SUPPRIME] Doublon : 5e1eab9d57.jpg
+[2026-05-19 00:42:25,714] INFO: [SUPPRIME] Doublon : 7f8f8359aa.jpg
+[2026-05-19 00:42:25,715] INFO: [SUPPRIME] Doublon : 839d83e45b.jpg
+[2026-05-19 00:42:25,715] INFO: [SUPPRIME] Doublon : 9b8a7b4ac2.jpg
+[2026-05-19 00:42:25,716] INFO: [SUPPRIME] Doublon : c87787be49.jpg
+[2026-05-19 00:42:25,717] INFO: [SUPPRIME] Doublon : d4c6504cc9.jpg
+[2026-05-19 00:42:25,718] INFO: [SUPPRIME] Doublon : e7ebc98293.jpg
+[2026-05-19 00:42:25,718] INFO: [RESULTAT] 8 doublons supprimés
+[2026-05-19 00:42:25,718] INFO: [ETAPE 2] Filtrage par taille (min 200x200) : ../data/brutes\pic_vert
+[2026-05-19 00:42:25,720] ERROR: Erreur taille 0484db6b4e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\0484db6b4e.jpg'
+[2026-05-19 00:42:25,721] ERROR: Erreur taille 073e1e8b99.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\073e1e8b99.jpg'
+[2026-05-19 00:42:25,722] ERROR: Erreur taille 0f7c864dc9.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\0f7c864dc9.jpg'
+[2026-05-19 00:42:25,724] ERROR: Erreur taille 1292ec4ba4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\1292ec4ba4.jpg'
+[2026-05-19 00:42:25,724] ERROR: Erreur taille 13d22fc8c6.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\13d22fc8c6.jpg'
+[2026-05-19 00:42:25,725] ERROR: Erreur taille 189ce2fa48.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\189ce2fa48.jpg'
+[2026-05-19 00:42:25,726] ERROR: Erreur taille 1c196af590.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\1c196af590.jpg'
+[2026-05-19 00:42:25,728] ERROR: Erreur taille 1e7795ff99.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\1e7795ff99.jpg'
+[2026-05-19 00:42:25,728] ERROR: Erreur taille 21217018e4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\21217018e4.jpg'
+[2026-05-19 00:42:25,729] ERROR: Erreur taille 230f7d97b7.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\230f7d97b7.jpg'
+[2026-05-19 00:42:25,730] ERROR: Erreur taille 269e6fc431.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\269e6fc431.jpg'
+[2026-05-19 00:42:25,731] ERROR: Erreur taille 283f35f1c5.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\283f35f1c5.jpg'
+[2026-05-19 00:42:25,732] ERROR: Erreur taille 29b093d5e2.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\29b093d5e2.jpg'
+[2026-05-19 00:42:25,733] ERROR: Erreur taille 2bd65bf361.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\2bd65bf361.jpg'
+[2026-05-19 00:42:25,733] ERROR: Erreur taille 2c4226d929.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\2c4226d929.jpg'
+[2026-05-19 00:42:25,734] ERROR: Erreur taille 335fa9191d.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\335fa9191d.jpg'
+[2026-05-19 00:42:25,736] ERROR: Erreur taille 3814170880.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\3814170880.jpg'
+[2026-05-19 00:42:25,736] ERROR: Erreur taille 3815e51021.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\3815e51021.jpg'
+[2026-05-19 00:42:25,737] ERROR: Erreur taille 3ad93ebdc4.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\3ad93ebdc4.jpg'
+[2026-05-19 00:42:25,738] ERROR: Erreur taille 408f46fb29.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\408f46fb29.jpg'
+[2026-05-19 00:42:25,738] ERROR: Erreur taille 40a273dfdc.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\40a273dfdc.jpg'
+[2026-05-19 00:42:25,739] ERROR: Erreur taille 41d9647f25.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\41d9647f25.jpg'
+[2026-05-19 00:42:25,741] ERROR: Erreur taille 44f5fcf0e7.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\44f5fcf0e7.jpg'
+[2026-05-19 00:42:25,742] ERROR: Erreur taille 4911b58ecf.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\4911b58ecf.jpg'
+[2026-05-19 00:42:25,743] ERROR: Erreur taille 50983fd041.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\50983fd041.jpg'
+[2026-05-19 00:42:25,744] ERROR: Erreur taille 50b4aa38f3.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\50b4aa38f3.jpg'
+[2026-05-19 00:42:25,745] ERROR: Erreur taille 52e70ef7c8.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\52e70ef7c8.jpg'
+[2026-05-19 00:42:25,746] ERROR: Erreur taille 579a10b2e8.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\579a10b2e8.jpg'
+[2026-05-19 00:42:25,747] ERROR: Erreur taille 596e9a7210.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\596e9a7210.jpg'
+[2026-05-19 00:42:25,749] ERROR: Erreur taille 5ad58065f5.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\5ad58065f5.jpg'
+[2026-05-19 00:42:25,753] ERROR: Erreur taille 6abb01c74c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\6abb01c74c.jpg'
+[2026-05-19 00:42:25,755] ERROR: Erreur taille 71b0a4ff8e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\71b0a4ff8e.jpg'
+[2026-05-19 00:42:25,756] ERROR: Erreur taille 721dcbd9ad.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\721dcbd9ad.jpg'
+[2026-05-19 00:42:25,758] ERROR: Erreur taille 74c78e2da5.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\74c78e2da5.jpg'
+[2026-05-19 00:42:25,759] ERROR: Erreur taille 754efa6484.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\754efa6484.jpg'
+[2026-05-19 00:42:25,760] ERROR: Erreur taille 7a1acb20e2.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\7a1acb20e2.jpg'
+[2026-05-19 00:42:25,762] ERROR: Erreur taille 7d9a562ce1.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\7d9a562ce1.jpg'
+[2026-05-19 00:42:25,763] ERROR: Erreur taille 7ed9f79770.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\7ed9f79770.jpg'
+[2026-05-19 00:42:25,765] ERROR: Erreur taille 8592f2f83c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\8592f2f83c.jpg'
+[2026-05-19 00:42:25,767] ERROR: Erreur taille 8d9c4e5346.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\8d9c4e5346.jpg'
+[2026-05-19 00:42:25,768] ERROR: Erreur taille 920bc628d3.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\920bc628d3.jpg'
+[2026-05-19 00:42:25,770] ERROR: Erreur taille 9650434442.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\9650434442.jpg'
+[2026-05-19 00:42:25,771] ERROR: Erreur taille 99bb7e272a.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\99bb7e272a.jpg'
+[2026-05-19 00:42:25,772] ERROR: Erreur taille 9c027f725a.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\9c027f725a.jpg'
+[2026-05-19 00:42:25,774] ERROR: Erreur taille 9ef83e3008.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\9ef83e3008.jpg'
+[2026-05-19 00:42:25,775] ERROR: Erreur taille 9f8dbbaff2.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\9f8dbbaff2.jpg'
+[2026-05-19 00:42:25,776] ERROR: Erreur taille a5b44693d9.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\a5b44693d9.jpg'
+[2026-05-19 00:42:25,779] ERROR: Erreur taille af39c0ce8a.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\af39c0ce8a.jpg'
+[2026-05-19 00:42:25,781] ERROR: Erreur taille b5372db5ff.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\b5372db5ff.jpg'
+[2026-05-19 00:42:25,781] ERROR: Erreur taille b6793fb179.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\b6793fb179.jpg'
+[2026-05-19 00:42:25,782] ERROR: Erreur taille b6a89368a8.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\b6a89368a8.jpg'
+[2026-05-19 00:42:25,783] ERROR: Erreur taille b9ca929758.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\b9ca929758.jpg'
+[2026-05-19 00:42:25,784] ERROR: Erreur taille ba266ffc45.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\ba266ffc45.jpg'
+[2026-05-19 00:42:25,785] ERROR: Erreur taille ba6cf68990.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\ba6cf68990.jpg'
+[2026-05-19 00:42:25,785] ERROR: Erreur taille bb8d4f9499.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\bb8d4f9499.jpg'
+[2026-05-19 00:42:25,787] ERROR: Erreur taille bbdb634018.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\bbdb634018.jpg'
+[2026-05-19 00:42:25,788] ERROR: Erreur taille bc586c3d10.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\bc586c3d10.jpg'
+[2026-05-19 00:42:25,789] ERROR: Erreur taille c2b59535fb.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\c2b59535fb.jpg'
+[2026-05-19 00:42:25,790] ERROR: Erreur taille c552dea4b6.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\c552dea4b6.jpg'
+[2026-05-19 00:42:25,792] ERROR: Erreur taille c6081bee41.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\c6081bee41.jpg'
+[2026-05-19 00:42:25,793] ERROR: Erreur taille c8ae22aeb3.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\c8ae22aeb3.jpg'
+[2026-05-19 00:42:25,795] ERROR: Erreur taille ce11f37292.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\ce11f37292.jpg'
+[2026-05-19 00:42:25,798] ERROR: Erreur taille d3f8d2dcb6.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\d3f8d2dcb6.jpg'
+[2026-05-19 00:42:25,799] ERROR: Erreur taille d5a68d4e42.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\d5a68d4e42.jpg'
+[2026-05-19 00:42:25,800] ERROR: Erreur taille da709a9c07.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\da709a9c07.jpg'
+[2026-05-19 00:42:25,801] ERROR: Erreur taille decad4f59c.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\decad4f59c.jpg'
+[2026-05-19 00:42:25,802] ERROR: Erreur taille e5d1466342.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\e5d1466342.jpg'
+[2026-05-19 00:42:25,804] ERROR: Erreur taille e625e3b189.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\e625e3b189.jpg'
+[2026-05-19 00:42:25,804] ERROR: Erreur taille e75e095a08.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\e75e095a08.jpg'
+[2026-05-19 00:42:25,806] ERROR: Erreur taille ea9c6a05c3.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\ea9c6a05c3.jpg'
+[2026-05-19 00:42:25,807] ERROR: Erreur taille ee3d1b75e9.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\ee3d1b75e9.jpg'
+[2026-05-19 00:42:25,808] ERROR: Erreur taille efd833a447.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\efd833a447.jpg'
+[2026-05-19 00:42:25,811] ERROR: Erreur taille f8a7914530.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\f8a7914530.jpg'
+[2026-05-19 00:42:25,812] ERROR: Erreur taille fe49d3b29e.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\fe49d3b29e.jpg'
+[2026-05-19 00:42:25,813] ERROR: Erreur taille feb9b01d28.jpg: [WinError 32] The process cannot access the file because it is being used by another process: '../data/brutes\\pic_vert\\feb9b01d28.jpg'
+[2026-05-19 00:42:25,814] INFO: [RESULTAT] 0 images trop petites supprimées
+[2026-05-19 00:42:25,814] INFO: [ETAPE 3] Detection des images corrompues : ../data/brutes\pic_vert
+[2026-05-19 00:42:25,862] INFO: [RESULTAT] 0 images corrompues supprimées
+[2026-05-19 00:42:25,862] INFO: 
+--- Verification manuelle ---
+[2026-05-19 00:42:25,862] INFO: [ETAPE 5] Verification manuelle assistee
+[2026-05-19 00:42:36,896] INFO: [OK] Verification cygne_tuberculé affichee
+[2026-05-19 00:42:42,792] INFO: [OK] Verification flamant_rose affichee
+[2026-05-19 00:42:46,393] INFO: [OK] Verification hibou_grand-duc affichee
+[2026-05-19 00:42:49,743] INFO: [OK] Verification hibou_moyen-duc affichee
+[2026-05-19 00:42:52,238] INFO: [OK] Verification hibou_petit-duc affichee
+[2026-05-19 00:42:56,174] INFO: [OK] Verification martin-pêcheur affichee
+[2026-05-19 00:43:01,399] INFO: [OK] Verification pic_vert affichee
+[2026-05-19 00:43:01,400] INFO: 
+=== RESUME DU NETTOYAGE ===
+[2026-05-19 00:43:01,402] INFO: Doublons supprimes : 188
+[2026-05-19 00:43:01,402] INFO: Images trop petites : 0
+[2026-05-19 00:43:01,403] INFO: Images corrompues : 0
+[2026-05-19 00:43:01,405] INFO: Images avec filigranes : 0
+[2026-05-19 00:43:01,406] INFO: TOTAL SUPPRIMEES : 188
+[2026-05-19 00:43:01,406] INFO: === NETTOYAGE TERMINE ===

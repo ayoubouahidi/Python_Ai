@@ -137,8 +137,8 @@ def persist_image(folder_path:str,url:str):
             print(f"[ERROR] Could not save {url} - {str(e)[:50]}")
 
 
-def search_and_download(search_term:str,driver_path:str,target_path='../data/brutes',number_images=200):
-    # Créer un dossier par espèce (remplacer les espaces par des underscores)
+def search_and_download(search_term:str,driver_path:str,target_path='../data/brutes',number_images=100):
+    
     logger.info(f"--- DEBUT : Scraping '{search_term}' ---")
     species_folder = '_'.join(search_term.lower().split(' '))
     target_folder = os.path.join(target_path, species_folder)
@@ -162,14 +162,14 @@ def search_and_download(search_term:str,driver_path:str,target_path='../data/bru
             failed += 1
             logger.error(f"Echec image {elem}: {str(e)[:50]}")
 
-        # Délai aléatoire supplémentaire entre les téléchargements
+        
         time.sleep(random.uniform(0.5, 1.5))
     
     logger.info(f"--- FIN : {search_term} | Telecharges: {downloaded}, Echoues: {failed} ---")
 
 
 if __name__ == "__main__":
-    search_terms = ["Hibou grand-duc", "Hibou moyen-duc", "Hibou petit-duc", "Flamant rose", "Martin-pêcheur", "Cygne tuberculé", "Pic vert"]
+    search_terms = ["Hibou grand-duc", "Flamant rose", "Martin-pêcheur", "Cygne tuberculé", "Pic vert"]
     for search_term in search_terms:
         search_and_download(search_term=search_term, driver_path=DRIVER_PATH)
     
